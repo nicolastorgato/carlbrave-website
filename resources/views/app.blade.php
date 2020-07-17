@@ -17,9 +17,9 @@
 
             <div class="container mx-auto bg-gray">
 
-                <header class="py-6 mb-10">
+                <header class="py-6">
                     {{-- <h1 class=" font-bold text-4xl">Carl Brave Assets</h1> --}}
-                    <img class="object-contain h-24" src="/images/logo.jpg" alt="Logo">
+                    <img class="object-contain h-20 -ml-8" src="/images/loghi/carlo_logo2.jpg" alt="Logo">
                 </header>
 
 
@@ -28,7 +28,19 @@
                     <aside class="w-1/5">
 
                         <section class="mb-8">
-                            <h5 class="uppercase text-xl font-bold mb-3">Gli album</h5>
+                            <h5 class="uppercase text-xl font-bold mb-3">Vita</h5>
+                            <ul>
+                                <li class="text-md pb-2"> <router-link to="/"> Home </router-link> </li>
+                                <li class="text-md pb-2"> <router-link to="/about"> About </router-link> </li>
+                                <li class="text-md pb-2"> <router-link to=""> Foto </router-link> </li>
+                                <li class="text-md pb-2"> <router-link to=""> Video </router-link> </li>
+
+                            </ul>
+                        </section>
+
+
+                        <section>
+                            <h5 class="uppercase text-xl font-bold mb-3">Album e Testi</h5>
                             <ul>
                                 <li class="text-md pb-2"> <router-link to="#"> Polaroid </router-link> </li>
                                 <li class="text-md pb-2"> <router-link to="#"> Notti Brave </router-link> </li>
@@ -37,13 +49,6 @@
                             </ul>
                         </section>
 
-                         <section>
-                            <h5 class="uppercase text-xl font-bold mb-3">Vita</h5>
-                            <ul>
-                                <li class="text-md pb-2"> <router-link to="/"> Home </router-link> </li>
-                                <li class="text-md pb-2"> <router-link to="#"> About </router-link> </li>
-                            </ul>
-                        </section>
                         
                         
                     </aside>
