@@ -1,0 +1,76 @@
+<template>
+<div>
+
+    <div class="flex-col">
+        <h1 class="font-normal text-3xl leading-none mb-4"> Le Polaroid </h1>
+
+        <div class="grid grid-cols-3 gap-6 row-gap-10">
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/1-SoloGuai.jpg">
+                <p> Solo Guai </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/2-SempreInDue.jpg">
+                <p> Sempre in due </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/3-Polaroid.jpg">
+                <p> Polaroid </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/4-LuckyStrike.jpg">
+                <p> Lucky Strike </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/5-Enjoy.jpg">
+                <p> Enjoy </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/6-TararìTararà.jpg">
+                <p> Tararì Tararà </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/7-Perfavore.jpg">
+                <p> Perfavore </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/8-Noccioline.jpg">
+                <p> Noccioline </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/9-AllaTua.jpg">
+                <p> Alla tua </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/10-Pellaria.jpg">
+                <p> Pellaria </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/11-Medusa.jpg">
+                <p> Medusa </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/12-Cheregazzina.jpg">
+                <p> Cheregazzina </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/13-Avocado.jpg">
+                <p> Avocado </p>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/polaroids/14-Argentario.jpg">
+                <p> Argentario </p>
+            </div>
+            
+        </div>
+    </div>
+
+
+</div>
+</template>
+
+<script>
+    export default {
+       
+    }
+</script>
