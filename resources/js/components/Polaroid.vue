@@ -36,6 +36,8 @@
 
 <script>
     export default {
-       
+       created() {
+            console.log('Polaroid');
+        },
     }
 </script>

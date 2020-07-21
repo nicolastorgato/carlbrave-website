@@ -2,20 +2,36 @@
 <div>
 
     <div class="flex-col">
-        <h1 class="font-normal text-3xl leading-none mb-4"> Le Polaroid </h1>
+        <h1 class="font-normal text-3xl leading-none mb-8"> Le Polaroid </h1>
 
-        <div class="grid grid-cols-3 gap-6 row-gap-10">
+        <div class="grid grid-cols-3 gap-6 row-gap-16">
             <div class="flex-col">
-                <img class="object-contain h-48" src="/images/polaroids/1-SoloGuai.jpg">
-                <p> Solo Guai </p>
+                <img class="object-contain h-48 mb-2" src="/images/polaroids/1-SoloGuai.jpg">
+                
+                <a href="/images/polaroids/1-SoloGuai.jpg"
+                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
+                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
+                    <span>Solo guai</span>
+                </a>
+
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48" src="/images/polaroids/2-SempreInDue.jpg">
-                <p> Sempre in due </p>
+                <img class="object-contain h-48 mb-2" src="/images/polaroids/2-SempreInDue.jpg">
+
+                <a href="/images/polaroids/2-SempreInDue.jpg"
+                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
+                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
+                    <span>Sempre in due</span>
+                </a>
+
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48" src="/images/polaroids/3-Polaroid.jpg">
-                <p> Polaroid </p>
+                <img class="object-contain h-48 mb-2" src="/images/polaroids/3-Polaroid.jpg">
+                <a href="/images/polaroids/3-Polaroid.jpg"
+                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
+                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
+                    <span>Polaroid</span>
+                </a>
             </div>
             <div class="flex-col">
                 <img class="object-contain h-48" src="/images/polaroids/4-LuckyStrike.jpg">

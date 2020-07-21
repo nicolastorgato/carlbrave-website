@@ -15,7 +15,7 @@
     <body class="font-body antialiased">
         <div id="app">
 
-            <div class="container bg-gray px-16 pb-20">
+            <div class="bg-gray px-16 pb-20">
 
                 <header class="py-6">
                     {{-- <h1 class=" font-bold text-4xl">Carl Brave Assets</h1> --}}
@@ -30,8 +30,8 @@
                         <section class="mb-8">
                             <h5 class="uppercase text-base font-bold mb-3">Vita</h5>
                             <ul>
-                                {{-- <li class="text-sm pb-2"> <router-link to="/" exact>  Home </router-link> </li>
-                                <li class="text-sm pb-2"> <router-link to="/about"> About </router-link> </li> --}}
+                                 <li class="text-sm pb-2"> <router-link to="/" exact>  Home </router-link> </li>
+                                {{-- <li class="text-sm pb-2"> <router-link to="/about"> About </router-link> </li>  --}}
                                 <li class="text-sm pb-2"> <router-link to="/foto"> Foto </router-link> </li>
                                 <li class="text-sm pb-2"> <router-link to="/video"> Video </router-link> </li>
 
