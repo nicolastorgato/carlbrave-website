@@ -2095,6 +2095,50 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -2193,6 +2237,25 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3002,176 +3065,395 @@ var render = function() {
           )
         ]),
         _vm._v(" "),
-        _vm._m(0),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/4-LuckyStrike.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/4-LuckyStrike.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Lucky Strike")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(1),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/5-Enjoy.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/5-Enjoy.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Enjoy")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(2),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/6-TararìTararà.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/6-TararìTararà.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Tararì Tararà")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(3),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/7-Perfavore.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/7-Perfavore.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Perfavore")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(4),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/8-Noccioline.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/8-Noccioline.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Noccioline")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(5),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/9-AllaTua.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/9-AllaTua.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Alla tua")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(6),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/10-Pellaria.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/10-Pellaria.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Pellaria")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(7),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/11-Medusa.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/11-Medusa.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Medusa")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(8),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/12-Cheregazzina.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/12-Cheregazzina.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Cheregazzina")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(9),
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/13-Avocado.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/13-Avocado.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Avocado")])
+            ]
+          )
+        ]),
         _vm._v(" "),
-        _vm._m(10)
+        _c("div", { staticClass: "flex-col" }, [
+          _c("img", {
+            staticClass: "object-contain h-48 mb-2",
+            attrs: { src: "/images/polaroids/14-Argentario.jpg" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center",
+              attrs: { href: "/images/polaroids/14-Argentario.jpg" }
+            },
+            [
+              _c(
+                "svg",
+                {
+                  staticClass: "fill-current w-4 h-4 mr-2",
+                  attrs: {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    viewBox: "0 0 20 20"
+                  }
+                },
+                [
+                  _c("path", {
+                    attrs: { d: "M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" }
+                  })
+                ]
+              ),
+              _vm._v(" "),
+              _c("span", [_vm._v("Argentario")])
+            ]
+          )
+        ])
       ])
     ])
   ])
 }
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/4-LuckyStrike.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Lucky Strike ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/5-Enjoy.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Enjoy ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/6-TararìTararà.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Tararì Tararà ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/7-Perfavore.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Perfavore ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/8-Noccioline.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Noccioline ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/9-AllaTua.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Alla tua ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/10-Pellaria.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Pellaria ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/11-Medusa.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Medusa ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/12-Cheregazzina.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Cheregazzina ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/13-Avocado.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Avocado ")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex-col" }, [
-      _c("img", {
-        staticClass: "object-contain h-48",
-        attrs: { src: "/images/polaroids/14-Argentario.jpg" }
-      }),
-      _vm._v(" "),
-      _c("p", [_vm._v(" Argentario ")])
-    ])
-  }
-]
+var staticRenderFns = []
 render._withStripped = true
 
 
@@ -3340,11 +3622,11 @@ var staticRenderFns = [
           _vm._v(" ALBUM Polaroid")
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "flex" }, [
-          _c("div", { staticClass: "w-1/2 mr-24" }, [
+        _c("div", { staticClass: "flex mb-4" }, [
+          _c("div", { staticClass: "w-1/2 mr-24 pr-20 pb-20" }, [
             _c("img", {
               staticClass: "object-contain",
-              attrs: { src: "/images/albums/album-polaroid-2.jpg" }
+              attrs: { src: "/images/albums/album-polaroid-1.jpg" }
             })
           ]),
           _vm._v(" "),
@@ -3353,7 +3635,7 @@ var staticRenderFns = [
               _vm._v("Tracce")
             ]),
             _vm._v(" "),
-            _c("ul", [
+            _c("ul", { staticClass: "leading-7" }, [
               _c("li", [_vm._v(" 1 - Solo Guai ")]),
               _vm._v(" "),
               _c("li", [_vm._v(" 2 - Sempre in due ")]),
@@ -3382,6 +3664,46 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("li", [_vm._v(" 14 - Argentario ")])
             ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "flex" }, [
+          _c("div", { staticClass: "bg-white overflow-hidden w-1/3 mr-16" }, [
+            _c("img", {
+              staticClass: "w-full object-cover h-32 sm:h-48 md:h-64 mb-2",
+              attrs: {
+                src: "/images/albums/album-polaroid-2.jpg",
+                alt: "People"
+              }
+            }),
+            _vm._v(" "),
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "font-normal mb-2 text-xl leading-tight sm:leading-normal"
+              },
+              [_vm._v("The Coldest Sunset")]
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "bg-white overflow-hidden w-1/3" }, [
+            _c("img", {
+              staticClass: "w-full object-cover h-32 sm:h-48 md:h-64 mb-2",
+              attrs: {
+                src: "/images/albums/album-polaroid-3.jpg",
+                alt: "People"
+              }
+            }),
+            _vm._v(" "),
+            _c(
+              "h3",
+              {
+                staticClass:
+                  "font-normal mb-2 text-xl leading-tight sm:leading-normal"
+              },
+              [_vm._v("The Coldest Sunset")]
+            )
           ])
         ])
       ])

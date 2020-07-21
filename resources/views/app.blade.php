@@ -17,7 +17,7 @@
 
             <div class="bg-gray px-16 pb-20">
 
-                <header class="py-6">
+                <header class="py-4">
                     {{-- <h1 class=" font-bold text-4xl">Carl Brave Assets</h1> --}}
                     <router-link to="/" exact> <img class="object-contain h-20 -ml-8" src="/images/loghi/carlo_logo2.jpg" alt="Logo"> </router-link>
                 </header>

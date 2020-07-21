@@ -4,14 +4,14 @@
     <div class="flex-col">
         <h1 class="font-normal text-3xl leading-none mb-10"> ALBUM Polaroid</h1>
 
-        <div class="flex">
-            <div class="w-1/2 mr-24">
-                <img class="object-contain" src="/images/albums/album-polaroid-2.jpg">
+        <div class="flex mb-4">
+            <div class="w-1/2 mr-24 pr-20 pb-20">
+                <img class="object-contain" src="/images/albums/album-polaroid-1.jpg">
             </div>
 
             <div class="w-1/2 flex-col items-center">
                 <p class=" text-lg font-medium mb-3">Tracce</p>
-                <ul>
+                <ul class="leading-7">
                     <li> 1 - Solo Guai </li>
                     <li> 2 - Sempre in due </li>
                     <li> 3 - Polaroid </li>
@@ -30,6 +30,25 @@
             </div>
 
         </div>
+
+        <div class="flex">
+
+            <div class="bg-white overflow-hidden w-1/3 mr-16">
+                <img src="/images/albums/album-polaroid-2.jpg" alt="People" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-2">
+                <h3 class="font-normal mb-2 text-xl leading-tight sm:leading-normal">The Coldest Sunset</h3>
+            </div>
+
+            <div class="bg-white overflow-hidden w-1/3">
+                <img src="/images/albums/album-polaroid-3.jpg" alt="People" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-2">
+                <h3 class="font-normal mb-2 text-xl leading-tight sm:leading-normal">The Coldest Sunset</h3>
+                </div>
+            </div>
+                
+        </div>
+
+
+
+
     </div>
 </div>
 </template>
