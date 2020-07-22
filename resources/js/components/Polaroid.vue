@@ -33,15 +33,18 @@
 
         <div class="flex">
 
-            <div class="bg-white overflow-hidden w-1/3 mr-16">
-                <img src="/images/albums/album-polaroid-2.jpg" alt="People" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-2">
-                <h3 class="font-normal mb-2 text-xl leading-tight sm:leading-normal">The Coldest Sunset</h3>
+            <div class="bg-white w-1/3 mr-16">
+                <img src="/images/albums/album-polaroid-2.jpg" alt="People" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/albums/album-polaroid-2.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Copertina (versione 2)
+                </a>
             </div>
 
-            <div class="bg-white overflow-hidden w-1/3">
-                <img src="/images/albums/album-polaroid-3.jpg" alt="People" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-2">
-                <h3 class="font-normal mb-2 text-xl leading-tight sm:leading-normal">The Coldest Sunset</h3>
-                </div>
+            <div class="bg-white w-1/3">
+                <img src="/images/albums/album-polaroid-3.jpg" alt="People" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/albums/album-polaroid-3.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Copertina (versione 3)
+                </a>
             </div>
                 
         </div>

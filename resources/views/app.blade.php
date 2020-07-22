@@ -28,29 +28,31 @@
                     <aside class="w-1/5">
 
                         <section class="mb-8">
-                            <h5 class="uppercase text-base font-bold mb-3">Vita</h5>
+                            <h5 class="uppercase text-lg font-bold mb-3">Vita</h5>
                             <ul>
-                                 <li class="text-sm pb-2"> <router-link to="/" exact>  Home </router-link> </li>
-                                {{-- <li class="text-sm pb-2"> <router-link to="/about"> About </router-link> </li>  --}}
+                                <li class="text-sm pb-2"> <router-link to="/" exact>  Home </router-link> </li>
+                                <li class="text-sm pb-2"> <router-link to="/biografia"> Bio </router-link> </li> 
                                 <li class="text-sm pb-2"> <router-link to="/foto"> Foto </router-link> </li>
                                 <li class="text-sm pb-2"> <router-link to="/video"> Video </router-link> </li>
-
                             </ul>
                         </section>
 
 
                         <section class="mb-8">
-                            <h5 class="uppercase text-base font-bold mb-3">Album e Testi</h5>
+                            <h5 class="uppercase text-lg font-bold mb-3">Album e Testi</h5>
                             <ul>
                                 <li class="text-sm pb-2"> <router-link to="/polaroid"> Polaroid </router-link> </li>
                                 <li class="text-sm pb-2"> <router-link to="/notti-brave"> Notti Brave </router-link> </li>
                                 <li class="text-sm pb-2"> <router-link to="/notti-brave-after"> Notti Brave After </router-link> </li>
-                                <li class="text-sm pb-2"> <router-link to="#"> ???????? </router-link> </li>
+                                <li class="text-sm pb-2 mr-1"> 
+                                    <router-link to="/nuovo-album"> Nuovo Album 
+                                        <span class="bg-blue-600 font-thin text-xs text-white rounded-full py-1 px-3 ml-1">New</span> 
+                                    </router-link> </li>
                             </ul>
                         </section>
 
                         <section>
-                            <h5 class="uppercase text-base font-bold mb-3"> <router-link to="/le-polaroid"> Le Polaroid </router-link> </h5>
+                            <h5 class="uppercase text-lg font-bold mb-3"> <router-link to="/le-polaroid"> Le Polaroid </router-link> </h5>
                         </section>
 
                         

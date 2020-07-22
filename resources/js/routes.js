@@ -1,13 +1,14 @@
 import NotFound from './components/NotFound'
 
 import Home from './components/Home'
-import About from './components/About'
+import Biografia from './components/Biografia'
 import Foto from './components/Foto'
 import Video from './components/Video'
 
 import Polaroid from './components/Polaroid'
 import NottiBrave from './components/NottiBrave'
 import NottiBraveAfter from './components/NottiBraveAfter'
+import NewAlbum from './components/NewAlbum'
 
 import LePolaroid from './components/LePolaroid'
 
@@ -31,8 +32,8 @@ export default {
         },
 
         {
-            path: '/about',
-            component: About
+            path: '/biografia',
+            component: Biografia
         },
 
         {
@@ -63,6 +64,11 @@ export default {
         {
             path: '/notti-brave-after',
             component: NottiBraveAfter
+        },
+
+        {
+            path: '/nuovo-album',
+            component: NewAlbum
         },
 
         {

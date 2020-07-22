@@ -9,6 +9,13 @@
                 <img class="object-contain" src="/images/albums/album-nottibrave.jpg">
             </div>
 
+
+            <!-- <picture style="height: 382px;"
+                     class="block shadow rounded-lg flex items-center justify-center mb-6">
+                <img src="/images/albums/album-nottibrave.jpg" alt="logo" />
+            </picture> -->
+
+
             <div class="w-1/2 flex-col items-center">
                 <p class=" text-lg font-medium mb-3">Tracce</p>
                 <ul>
