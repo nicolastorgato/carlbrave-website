@@ -3,41 +3,82 @@
 
     <h1 class="font-normal text-3xl leading-none mb-8"> Foto</h1>
 
+<!-- 
+   <div class="grid grid-cols-4 gap-6 row-gap-16">
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/foto/carlbrave-1.jpg">
+                
+                <a href="/images/foto/carlbrave-1.jpg"
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Caciarone
+                </a>
 
-    <div class=" pb-16">
-        <picture class="flex items-center justify-center shadow mb-4 rounded-lg">
-            <img class="object-contain h-64" src="/images/foto/carlbrave-1.jpg" alt="">
-        </picture>
+            </div>
+            <div class="flex-col">
+                <img class="object-contain h-48" src="/images/foto/carlbrave-2.jpg">
+                <a href="/images/polaroids/2-SempreInDue.jpg"
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Sempre in due
+                </a>
 
-        <div class="flex justify-between items-center">
-            <p>
-                Carl Brave foto
-            </p>
-            <a href="#"
-               class="border border-gray-400 px-6 py-1 rounded-full text-black font-normal text-sm"> 
-               Scarica
-            </a>
+            </div>
+    </div> -->
+
+
+
+    <div class="flex flex-wrap">
+
+            <div class="bg-white w-1/4 mr-16 mb-16">
+                <img src="/images/foto/carlbrave-1.jpg" alt="Copertina (versione 2)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-1.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Caciarone
+                </a>
+            </div>
+
+            <div class="bg-white w-1/4 mr-16 mb-16">
+                <img src="/images/foto/carlbrave-2.jpg" alt="Copertina (versione 3)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-2.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Sempre a bere 
+                </a>
+            </div>
+            <div class="bg-white w-1/4 mr-16 mb-16">
+                <img src="/images/foto/carlbrave-3.jpg" alt="Copertina (versione 2)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-3.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Classico Carlo
+                </a>
+            </div>
+
+            <div class="bg-white w-1/4 mr-16 mb-16">
+                <img src="/images/foto/carlbrave-4.jpg" alt="Copertina (versione 3)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-4.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    'co Franco
+                </a>
+            </div>
+
+            <div class="bg-white w-1/4 mr-16 mb-16">
+                <img src="/images/foto/carlbrave-5.jpg" alt="Copertina (versione 3)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-5.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Modello
+                </a>
+            </div>
+
+            <div class="bg-white w-1/4 mr-16 mb-16">
+                <img src="/images/foto/carlbrave-6.jpg" alt="Copertina (versione 3)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-6.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Red Bull
+                </a>
+            </div>
+
+            <div class="bg-white w-1/4 mr-16 mb-16">
+                <img src="/images/foto/carlbrave-7.jpg" alt="Copertina (versione 3)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-7.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Più caciara
+                </a>
+            </div>
+           
+                
         </div>
-
-    </div>
-
-
-    <div class=" pb-16">
-        <picture class="flex items-center justify-center shadow mb-4 rounded-lg">
-            <img class=" h-64" src="/images/foto/carlbrave-1.jpg" alt="">
-        </picture>
-
-        <div class="flex justify-between items-center">
-            <p>
-                Carl Brave foto 2
-            </p>
-            <a href="#"
-               class="border border-gray-400 px-6 py-1 rounded-full text-black font-normal text-sm"> 
-               Scarica
-            </a>
-        </div>
-
-    </div>
+  
 
 
 </div>

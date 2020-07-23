@@ -6,119 +6,104 @@
 
         <div class="grid grid-cols-3 gap-6 row-gap-16">
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/1-SoloGuai.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/1-SoloGuai.jpg">
                 
                 <a href="/images/polaroids/1-SoloGuai.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Solo guai</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Solo Guai
                 </a>
 
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/2-SempreInDue.jpg">
-
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/2-SempreInDue.jpg">
                 <a href="/images/polaroids/2-SempreInDue.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Sempre in due</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Sempre in due
                 </a>
 
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/3-Polaroid.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/3-Polaroid.jpg">
                 <a href="/images/polaroids/3-Polaroid.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Polaroid</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Polaroid
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/4-LuckyStrike.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/4-LuckyStrike.jpg">
                 <a href="/images/polaroids/4-LuckyStrike.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Lucky Strike</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    LuckyStrike
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/5-Enjoy.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/5-Enjoy.jpg">
                 <a href="/images/polaroids/5-Enjoy.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Enjoy</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Enjoy
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/6-TararìTararà.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/6-TararìTararà.jpg">
                 <a href="/images/polaroids/6-TararìTararà.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Tararì Tararà</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Tararì Tararà
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/7-Perfavore.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/7-Perfavore.jpg">
                 <a href="/images/polaroids/7-Perfavore.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Perfavore</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Perfavore
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/8-Noccioline.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/8-Noccioline.jpg">
                 <a href="/images/polaroids/8-Noccioline.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Noccioline</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Noccioline
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/9-AllaTua.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/9-AllaTua.jpg">
                 <a href="/images/polaroids/9-AllaTua.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Alla tua</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Alla Tua
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/10-Pellaria.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/10-Pellaria.jpg">
                 <a href="/images/polaroids/10-Pellaria.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Pellaria</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Pellaria
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/11-Medusa.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/11-Medusa.jpg">
                 <a href="/images/polaroids/11-Medusa.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Medusa</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Medusa
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/12-Cheregazzina.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/12-Cheregazzina.jpg">
                 <a href="/images/polaroids/12-Cheregazzina.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Cheregazzina</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Cheregazzina
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/13-Avocado.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/13-Avocado.jpg">
                 <a href="/images/polaroids/13-Avocado.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Avocado</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Avocado
                 </a>
             </div>
             <div class="flex-col">
-                <img class="object-contain h-48 mb-2" src="/images/polaroids/14-Argentario.jpg">
+                <img class="object-contain h-48 mb-3" src="/images/polaroids/14-Argentario.jpg">
                 <a href="/images/polaroids/14-Argentario.jpg"
-                   class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-normal py-1 px-3 rounded inline-flex items-center">
-                    <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
-                    <span>Argentario</span>
+                   class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Argentario
                 </a>
             </div>
             
@@ -134,3 +119,17 @@
        
     }
 </script>
+
+<style>
+.fade-enter-active,
+.fade-leave-active {
+  transition-duration: 0.3s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0
+}
+</style>

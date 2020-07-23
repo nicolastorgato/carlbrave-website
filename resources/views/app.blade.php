@@ -32,6 +32,7 @@
                             <ul>
                                 <li class="text-sm pb-2"> <router-link to="/" exact>  Home </router-link> </li>
                                 <li class="text-sm pb-2"> <router-link to="/biografia"> Bio </router-link> </li> 
+                                <li class="text-sm pb-2"> <router-link to="/tour"> Tour </router-link> </li> 
                                 <li class="text-sm pb-2"> <router-link to="/foto"> Foto </router-link> </li>
                                 <li class="text-sm pb-2"> <router-link to="/video"> Video </router-link> </li>
                             </ul>
@@ -60,7 +61,9 @@
                     </aside>
 
                     <div class="primary flex-1">
-                        <router-view></router-view>
+                        <transition name="fade" mode="out-in">
+                            <router-view/>
+                        </transition>
                     </div>
 
 
@@ -73,5 +76,6 @@
 
 
         <script src="/js/app.js"></script>
+
     </body>
 </html>
