@@ -1,16 +1,33 @@
 import NotFound from './components/NotFound'
+import Canzone from './components/songs/Canzone.vue'
 
+
+//MAIN
 import Home from './components/Home'
 import Biografia from './components/Biografia'
 import Tour from './components/Tour'
 import Foto from './components/Foto'
 import Video from './components/Video'
 
+
+
+//ALBUMS
 import Polaroid from './components/albums/Polaroid'
+
+    import SoloGuai from './components/songs/SoloGuai'
+
 import NottiBrave from './components/albums/NottiBrave'
+
 import NottiBraveAfter from './components/albums/NottiBraveAfter'
+
 import NewAlbum from './components/albums/NewAlbum'
 
+
+
+
+
+
+// LE POLAROID
 import LePolaroid from './components/LePolaroid'
 
 
@@ -26,6 +43,9 @@ export default {
             path: '*',
             component: NotFound
         },
+
+
+
 
         {
             path: '/',
@@ -57,9 +77,24 @@ export default {
             component: Video
         },
 
+
+
+
+
+
+
+
+
+
+
         {
             path: '/polaroid',
             component: Polaroid
+        },
+
+        {
+            path: '/polaroid/solo-guai',
+            component: SoloGuai
         },
 
         {
@@ -76,6 +111,17 @@ export default {
             path: '/nuovo-album',
             component: NewAlbum
         },
+
+
+
+
+
+
+
+
+
+
+
 
         {
             path: '/le-polaroid',

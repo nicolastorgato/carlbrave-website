@@ -9,17 +9,23 @@
         </h1>
 
         <div class="flex mb-4">
-            <div class="w-1/2 mr-24 pr-20 pb-20">
+            <!-- <div class="w-1/2 mr-24 pr-20 pb-20">
                 <img class="object-contain mb-3" src="/images/albums/album-polaroid-1.jpg">
                 <a href="/images/albums/album-polaroid-1.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Copertina
                 </a>
+            </div> -->
+
+
+            <div class="mr-24 pr-20 pb-20">
+                <img style="height: 450px;" src="/images/albums/album-polaroid-1.jpg" alt="logo" />
             </div>
 
-            <div class="w-1/2 flex-col items-center">
+
+            <!-- <div class="w-1/2 flex-col items-center">
                 <p class=" text-lg font-medium mb-3">Tracce</p>
                 <ul class="leading-7">
-                    <li> 1 - Solo Guai </li>
+                    <li class="text-base text-gray-700 hover:text-gray-900 "> <router-link to="/polaroid/solo-guai"> 1 - Solo Guai </router-link> </li> 
                     <li> 2 - Sempre in due </li>
                     <li> 3 - Polaroid </li>
                     <li> 4 - Lucky Strike </li>
@@ -34,7 +40,17 @@
                     <li> 13 - Avocado </li>
                     <li> 14 - Argentario </li>
                 </ul>
-            </div>
+            </div> -->
+
+
+            <ul id="example-1">
+                <li v-for="canzone in this.canzoni" :key="canzone.nome">
+                    <router-link :to="'/polaroid/' + canzone.path"> {{ canzone.nome }} </router-link>
+                </li>
+            </ul>
+
+
+
 
         </div>
 
@@ -66,6 +82,39 @@
 
 <script>
     export default {
+
+        data(){
+            return {
+                canzoni: [
+                    {
+                    nome: '1 - Solo guai',
+                    path: 'solo-guai',
+                    numero: 1,
+                    testo: 'testo1'
+                    },
+                    {
+                    nome: '2 - Sempre in due',
+                    path: 'sempre-in-due',
+                    numero: 2,
+                    testo: 'testo2'
+                    },
+                    {
+                    nome: '3 - Polaroid',
+                    path: 'polaroid',
+                    numero: 3,
+                    testo: 'testo3'
+                    },
+                ],
+
+
+            };
+        },
+
+
+
+
+
+
        created() {
             console.log('Polaroid');
         },

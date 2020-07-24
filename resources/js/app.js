@@ -2,11 +2,13 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import routes from './routes'
 import axios from "axios";
+import VueTyperPlugin from 'vue-typer'
 
 window.axios = require("axios");
 
 
 Vue.use(VueRouter)
+Vue.use(VueTyperPlugin)
 
 
 let app = new Vue({

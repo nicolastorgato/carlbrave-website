@@ -23,14 +23,14 @@
                 </header>
 
 
-                <main class="flex">
+                <main class="flex mt-4">
 
                     <aside class="w-1/5">
 
                         <section class="mb-8">
                             <h5 class="uppercase text-lg font-bold mb-3">Vita</h5>
                             <ul>
-                                <li class="text-sm pb-2"> <router-link to="/" exact>  Home </router-link> </li>
+                                {{-- <li class="text-sm pb-2"> <router-link to="/" exact>  Home </router-link> </li> --}}
                                 <li class="text-sm pb-2"> <router-link to="/biografia"> Bio </router-link> </li> 
                                 <li class="text-sm pb-2"> <router-link to="/tour"> Tour </router-link> </li> 
                                 <li class="text-sm pb-2"> <router-link to="/foto"> Foto </router-link> </li>
