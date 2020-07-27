@@ -2084,10 +2084,21 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ __webpack_exports__["default"] = ({// components: {
-  //     VueTyper
-  // },
-});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
 
@@ -2577,6 +2588,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -2584,7 +2598,7 @@ __webpack_require__.r(__webpack_exports__);
         nome: '1 - Solo guai',
         path: 'solo-guai',
         numero: 1,
-        testo: 'testo1'
+        testo: 'Starnutisco per unallergia Vino rosso sopra i vestiti che non va più via (ahhh) E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)'
       }, {
         nome: '2 - Sempre in due',
         path: 'sempre-in-due',
@@ -2595,11 +2609,65 @@ __webpack_require__.r(__webpack_exports__);
         path: 'polaroid',
         numero: 3,
         testo: 'testo3'
+      }, {
+        nome: '4 - Lucky Strike',
+        path: 'lucky-strike',
+        numero: 4,
+        testo: 'testo4'
+      }, {
+        nome: '5 - Enjoy',
+        path: 'enjoy',
+        numero: 5,
+        testo: 'testo5'
+      }, {
+        nome: '6 - Tararì Tararà',
+        path: 'tararì-tararà',
+        numero: 6,
+        testo: 'testo6'
+      }, {
+        nome: '7 - Perfavore',
+        path: 'perfavore',
+        numero: 7,
+        testo: 'testo7'
+      }, {
+        nome: '8 - Noccioline',
+        path: 'noccioline',
+        numero: 8,
+        testo: 'testo8'
+      }, {
+        nome: '9 - Alla tua',
+        path: 'alla-tua',
+        numero: 9,
+        testo: 'testo9'
+      }, {
+        nome: '10 - Pellaria',
+        path: 'pellaria',
+        numero: 10,
+        testo: 'testo10'
+      }, {
+        nome: '11 - Medusa',
+        path: 'medusa',
+        numero: 11,
+        testo: 'testo11'
+      }, {
+        nome: '12 - Cheregazzina',
+        path: 'cheregazzina',
+        numero: 12,
+        testo: 'testo12'
+      }, {
+        nome: '13 - Avocado',
+        path: 'avocado',
+        numero: 13,
+        testo: 'testo13'
+      }, {
+        nome: '14 - Argentario',
+        path: 'argentario',
+        numero: 14,
+        testo: 'testo14'
       }]
     };
   },
-  created: function created() {
-    console.log('Polaroid');
+  created: function created() {// console.log('Polaroid');
   }
 });
 
@@ -2652,16 +2720,1317 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+/* harmony default export */ __webpack_exports__["default"] = ({
+  created: function created() {
+    console.log(this.canzone);
+  },
+  props: {
+    id: {
+      type: String | Number,
+      required: true
+    },
+    canzone: {
+      type: Object,
+      required: true
+    }
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/SoloGuai.vue?vue&type=script&lang=js&":
-/*!*************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/SoloGuai.vue?vue&type=script&lang=js& ***!
-  \*************************************************************************************************************************************************************************/
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Argentario.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Argentario.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Avocado.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Avocado.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Medusa.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Medusa.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2769,7 +4138,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".vue-typer {\n  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;\n  font-size: 40px;\n  margin-left:10%\n}\r\n", ""]);
+exports.push([module.i, ".vue-typer {\n  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;\n  font-size: 32px;\n}\n.vue-typer .custom.char {\n  color: #3d3d3d;\n}\r\n", ""]);
 
 // exports
 
@@ -4205,35 +5574,62 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", [
-    _c(
-      "div",
-      { staticClass: "flex" },
-      [
-        _c("vue-typer", {
-          attrs: {
-            text: [
-              "Benvenuti nel sito dedicato a Carl Brave!",
-              "Qui potrete trovare tutti i contenuti e le informazioni su di lui.",
-              "Buon viaggio!"
-            ],
-            repeat: Infinity,
-            shuffle: false,
-            "initial-action": "typing",
-            "pre-type-delay": 70,
-            "type-delay": 70,
-            "pre-erase-delay": 2000,
-            "erase-delay": 250,
-            "erase-style": "select-all",
-            "erase-on-complete": false,
-            "caret-animation": "smooth"
-          }
-        })
-      ],
-      1
-    )
+    _c("div", { staticClass: "flex" }, [
+      _c(
+        "div",
+        {
+          staticClass:
+            "w-1/3 flex flex-col items-center justify-center -ml-6 mr-6 mb-4"
+        },
+        [
+          _c("h1", { staticClass: "text-6xl text-blue-800 mb-4" }, [
+            _vm._v("Carl Brave")
+          ]),
+          _vm._v(" "),
+          _c("vue-typer", {
+            attrs: {
+              text: [
+                "Daje, benvenuti nel sito di Carlo!",
+                "Qui troverete molti contenuti!",
+                "Foto!",
+                "Video!",
+                "Testi delle canzoni!",
+                "E molto altro ancora!",
+                "Più caciara, nun sento!"
+              ],
+              repeat: Infinity,
+              shuffle: false,
+              "initial-action": "typing",
+              "pre-type-delay": 70,
+              "type-delay": 70,
+              "pre-erase-delay": 2000,
+              "erase-delay": 250,
+              "erase-style": "select-all",
+              "erase-on-complete": false,
+              "caret-animation": "smooth"
+            }
+          })
+        ],
+        1
+      ),
+      _vm._v(" "),
+      _vm._m(0)
+    ])
   ])
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "w-1/2" }, [
+      _c("img", {
+        staticClass: "mx-10 rounded-lg",
+        attrs: { src: "/images/home/carlo-home.jpg" }
+      })
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -4665,12 +6061,16 @@ var staticRenderFns = [
               _c(
                 "div",
                 {
-                  staticClass: "text-lg text-gray-700 rounded-md px-2 py-2 mt-4"
+                  staticClass: "text-xl text-gray-800 rounded-md px-2 py-2 mt-4"
                 },
                 [
-                  _c("div", { staticClass: "flex-grow font-bold px-2" }, [
-                    _vm._v(" Nuove date prossimamente! Non mancate! ")
-                  ])
+                  _c(
+                    "div",
+                    {
+                      staticClass: "flex-grow font-semibold px-2 tracking-wide"
+                    },
+                    [_vm._v(" Nuove date prossimamente! Non mancate! ")]
+                  )
                 ]
               )
             ])
@@ -5025,11 +6425,14 @@ var render = function() {
         _vm._v(" "),
         _c(
           "ul",
-          { attrs: { id: "example-1" } },
-          _vm._l(this.canzoni, function(canzone) {
+          { staticClass: "leading-7" },
+          _vm._l(_vm.canzoni, function(canzone) {
             return _c(
               "li",
-              { key: canzone.nome },
+              {
+                key: canzone.nome,
+                staticClass: "text-base text-gray-700 hover:text-blue-600"
+              },
               [
                 _c(
                   "router-link",
@@ -5073,9 +6476,23 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "mr-24 pr-20 pb-20" }, [
       _c("img", {
+        staticClass: "mb-3",
         staticStyle: { height: "450px" },
         attrs: { src: "/images/albums/album-polaroid-1.jpg", alt: "logo" }
-      })
+      }),
+      _vm._v(" "),
+      _c(
+        "a",
+        {
+          staticClass:
+            "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+          attrs: {
+            download: "Polaroid Copertina",
+            href: "/images/albums/album-polaroid-1.jpg"
+          }
+        },
+        [_vm._v("\r\n                    Copertina \r\n                ")]
+      )
     ])
   },
   function() {
@@ -5155,6 +6572,1393 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", [
+    _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              "\r\n\r\n                  " +
+                _vm._s(_vm.canzone) +
+                " \r\n\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  ])
+}
+var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=template&id=0c99ae99&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=template&id=0c99ae99& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Alla tua ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Argentario.vue?vue&type=template&id=460fdd63&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Argentario.vue?vue&type=template&id=460fdd63& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Argentario ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Avocado.vue?vue&type=template&id=9108ad48&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Avocado.vue?vue&type=template&id=9108ad48& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Avocado ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=template&id=7ccfd486&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=template&id=7ccfd486& ***!
+  \******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Cheregazzina ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=template&id=b38e0638&":
+/*!***********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=template&id=b38e0638& ***!
+  \***********************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Enjoy ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=template&id=5793ced3&":
+/*!*****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=template&id=5793ced3& ***!
+  \*****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Lucky Strike ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Medusa.vue?vue&type=template&id=53597e2e&":
+/*!************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Medusa.vue?vue&type=template&id=53597e2e& ***!
+  \************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Medusa ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=template&id=bbf6589c&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=template&id=bbf6589c& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Noccioline")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=template&id=0273e916&":
+/*!**************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=template&id=0273e916& ***!
+  \**************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Pellaria ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=template&id=cb1c82c6&":
+/*!***************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=template&id=cb1c82c6& ***!
+  \***************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Perfavore ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=template&id=16962ab8&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=template&id=16962ab8& ***!
+  \******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Polaroid ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=template&id=25fd36a0&":
+/*!*****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=template&id=25fd36a0& ***!
+  \*****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/polaroid" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Sempre in due ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex" }, [
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco126]\r\nIo faccio lo scemo ma co' lei no, non attacca\r\nIo tipo da Campari, lei da oliva nel Manhattan\r\nLa volante passa, stasera tira un'ariaccia\r\nNon ho mai imparato a fare il nodo alla cravatta\r\nMa tanto tutto passa, forse dovrei cambiare aria\r\nPrendere il primo volo Alitalia\r\nUbriaco in strada con i miei canto Albachiara\r\nAl distributore senza scheda sanitaria\r\nIo che c'ho solo guai dentro le tasche dei miei Levi's\r\nVorrei rubare i desideri a Fontana di Trevi\r\nAbbiamo stesso sangue, no, non serve che mi spieghi\r\nTe dimmi dove sei mi faccio tutta Roma a piedi\r\nIl tuo ricordo sfuma, una notte senza luna\r\nLei si morde un'unghia e fuma\r\nE questa birra è tutta schiuma\r\nSorrido a mio fratello, siamo su di giri\r\nFiori cresciuti in mezzo ai sampietrini\r\n\r\n[Ritornello: Franco126]\r\nE c’avrei scommesso su noi due\r\nUna vita intera sempre in due\r\nE c’avrei scommesso su noi due\r\nE invece ognuno per le sue\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nSveglia all'alba pe' 'l mercato delle sette\r\nHo tamponato una mini ferma al verde\r\nIl ragazzino in auto mi fa \"Gne gne gne gne\"\r\nIl nasone scorre sempre non la smette\r\nHo perso il treno poi l'aereo pe' Berlino\r\nVorrei trasformare questa pioggia in vino\r\nA Nettuno i miei ricordi Polaroid\r\nCiocco le foto porno di Leotta su un tabloid\r\nScotch sulla fotocamera del Mac\r\nNon ce la faccio più-uh va bene coffee break\r\nHo passato mesi a balla’ la techno\r\nIl mio amico veneto mi chiama vecchio\r\nLa mia amica che nasconde il sushi nella borsa Gucci\r\nA terra panni sporchi che non stendo (no no no no no)\r\nUn’altra multa di sale che prendo (oh oh oh)\r\n\r\n[Ritornello: Franco126]\r\nE c’avrei scommesso su noi due\r\nUna vita intera sempre in due\r\nE c’avrei scommesso su noi due\r\nE invece ognuno per le sue\r\nE c’avrei scommesso su noi due\r\nUna vita intera sempre in due\r\nE c’avrei scommesso su noi due\r\nE invece ognuno per le sue\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=template&id=af954368&":
+/*!**************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=template&id=af954368& ***!
+  \**************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
     _c("div", { staticClass: "flex items-start" }, [
       _vm._m(0),
       _vm._v(" "),
@@ -5220,7 +8024,11 @@ var staticRenderFns = [
             staticClass:
               "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
-          [_vm._v(" \r\n                    testo1\r\n            ")]
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
         )
       ]),
       _vm._v(" "),
@@ -5231,7 +8039,11 @@ var staticRenderFns = [
             staticClass:
               "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
-          [_vm._v(" \r\n                    testo2\r\n            ")]
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+            )
+          ]
         )
       ])
     ])
@@ -5243,10 +8055,10 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/SoloGuai.vue?vue&type=template&id=633d9831&":
-/*!*****************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/SoloGuai.vue?vue&type=template&id=633d9831& ***!
-  \*****************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=template&id=afdc2012&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=template&id=afdc2012& ***!
+  \******************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5307,7 +8119,7 @@ var staticRenderFns = [
       [
         _vm._v(" Testo | \r\n            "),
         _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
-          _vm._v("Solo Guai ")
+          _vm._v("Tararì Tararà ")
         ])
       ]
     )
@@ -20555,8 +23367,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _routes__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./routes */ "./resources/js/routes.js");
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! axios */ "./node_modules/axios/index.js");
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var vue_typer__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! vue-typer */ "./node_modules/vue-typer/dist/vue-typer.min.js");
-/* harmony import */ var vue_typer__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(vue_typer__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var vue_typer__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! vue-typer */ "./node_modules/vue-typer/dist/vue-typer.min.js");
+/* harmony import */ var vue_typer__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(vue_typer__WEBPACK_IMPORTED_MODULE_4__);
 
 
 
@@ -20564,7 +23376,7 @@ __webpack_require__.r(__webpack_exports__);
 
 window.axios = __webpack_require__(/*! axios */ "./node_modules/axios/index.js");
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]);
-vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_typer__WEBPACK_IMPORTED_MODULE_5___default.a);
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_typer__WEBPACK_IMPORTED_MODULE_4___default.a);
 var app = new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
   el: '#app',
   router: new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"](_routes__WEBPACK_IMPORTED_MODULE_2__["default"])
@@ -21436,18 +24248,18 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/components/songs/SoloGuai.vue":
-/*!****************************************************!*\
-  !*** ./resources/js/components/songs/SoloGuai.vue ***!
-  \****************************************************/
+/***/ "./resources/js/components/songs/polaroid/AllaTua.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/AllaTua.vue ***!
+  \************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _SoloGuai_vue_vue_type_template_id_633d9831___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SoloGuai.vue?vue&type=template&id=633d9831& */ "./resources/js/components/songs/SoloGuai.vue?vue&type=template&id=633d9831&");
-/* harmony import */ var _SoloGuai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SoloGuai.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/SoloGuai.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _AllaTua_vue_vue_type_template_id_0c99ae99___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./AllaTua.vue?vue&type=template&id=0c99ae99& */ "./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=template&id=0c99ae99&");
+/* harmony import */ var _AllaTua_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./AllaTua.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
 
@@ -21456,9 +24268,9 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 
 var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _SoloGuai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _SoloGuai_vue_vue_type_template_id_633d9831___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _SoloGuai_vue_vue_type_template_id_633d9831___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  _AllaTua_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _AllaTua_vue_vue_type_template_id_0c99ae99___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _AllaTua_vue_vue_type_template_id_0c99ae99___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
   null,
   null,
@@ -21468,38 +24280,935 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 
 /* hot reload */
 if (false) { var api; }
-component.options.__file = "resources/js/components/songs/SoloGuai.vue"
+component.options.__file = "resources/js/components/songs/polaroid/AllaTua.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
 
 /***/ }),
 
-/***/ "./resources/js/components/songs/SoloGuai.vue?vue&type=script&lang=js&":
-/*!*****************************************************************************!*\
-  !*** ./resources/js/components/songs/SoloGuai.vue?vue&type=script&lang=js& ***!
-  \*****************************************************************************/
+/***/ "./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./SoloGuai.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/SoloGuai.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AllaTua_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./AllaTua.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AllaTua_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
-/***/ "./resources/js/components/songs/SoloGuai.vue?vue&type=template&id=633d9831&":
-/*!***********************************************************************************!*\
-  !*** ./resources/js/components/songs/SoloGuai.vue?vue&type=template&id=633d9831& ***!
-  \***********************************************************************************/
+/***/ "./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=template&id=0c99ae99&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=template&id=0c99ae99& ***!
+  \*******************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_template_id_633d9831___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./SoloGuai.vue?vue&type=template&id=633d9831& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/SoloGuai.vue?vue&type=template&id=633d9831&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_template_id_633d9831___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_AllaTua_vue_vue_type_template_id_0c99ae99___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./AllaTua.vue?vue&type=template&id=0c99ae99& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/AllaTua.vue?vue&type=template&id=0c99ae99&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_AllaTua_vue_vue_type_template_id_0c99ae99___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_template_id_633d9831___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_AllaTua_vue_vue_type_template_id_0c99ae99___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Argentario.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Argentario.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Argentario_vue_vue_type_template_id_460fdd63___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Argentario.vue?vue&type=template&id=460fdd63& */ "./resources/js/components/songs/polaroid/Argentario.vue?vue&type=template&id=460fdd63&");
+/* harmony import */ var _Argentario_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Argentario.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/Argentario.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Argentario_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Argentario_vue_vue_type_template_id_460fdd63___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Argentario_vue_vue_type_template_id_460fdd63___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/Argentario.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Argentario.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Argentario.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Argentario_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Argentario.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Argentario.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Argentario_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Argentario.vue?vue&type=template&id=460fdd63&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Argentario.vue?vue&type=template&id=460fdd63& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Argentario_vue_vue_type_template_id_460fdd63___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Argentario.vue?vue&type=template&id=460fdd63& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Argentario.vue?vue&type=template&id=460fdd63&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Argentario_vue_vue_type_template_id_460fdd63___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Argentario_vue_vue_type_template_id_460fdd63___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Avocado.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Avocado.vue ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Avocado_vue_vue_type_template_id_9108ad48___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Avocado.vue?vue&type=template&id=9108ad48& */ "./resources/js/components/songs/polaroid/Avocado.vue?vue&type=template&id=9108ad48&");
+/* harmony import */ var _Avocado_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Avocado.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/Avocado.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Avocado_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Avocado_vue_vue_type_template_id_9108ad48___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Avocado_vue_vue_type_template_id_9108ad48___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/Avocado.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Avocado.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Avocado.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Avocado_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Avocado.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Avocado.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Avocado_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Avocado.vue?vue&type=template&id=9108ad48&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Avocado.vue?vue&type=template&id=9108ad48& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Avocado_vue_vue_type_template_id_9108ad48___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Avocado.vue?vue&type=template&id=9108ad48& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Avocado.vue?vue&type=template&id=9108ad48&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Avocado_vue_vue_type_template_id_9108ad48___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Avocado_vue_vue_type_template_id_9108ad48___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Cheregazzina.vue":
+/*!*****************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Cheregazzina.vue ***!
+  \*****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Cheregazzina_vue_vue_type_template_id_7ccfd486___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Cheregazzina.vue?vue&type=template&id=7ccfd486& */ "./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=template&id=7ccfd486&");
+/* harmony import */ var _Cheregazzina_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Cheregazzina.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Cheregazzina_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Cheregazzina_vue_vue_type_template_id_7ccfd486___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Cheregazzina_vue_vue_type_template_id_7ccfd486___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/Cheregazzina.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Cheregazzina_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Cheregazzina.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Cheregazzina_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=template&id=7ccfd486&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=template&id=7ccfd486& ***!
+  \************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Cheregazzina_vue_vue_type_template_id_7ccfd486___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Cheregazzina.vue?vue&type=template&id=7ccfd486& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Cheregazzina.vue?vue&type=template&id=7ccfd486&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Cheregazzina_vue_vue_type_template_id_7ccfd486___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Cheregazzina_vue_vue_type_template_id_7ccfd486___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Enjoy.vue":
+/*!**********************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Enjoy.vue ***!
+  \**********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Enjoy_vue_vue_type_template_id_b38e0638___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Enjoy.vue?vue&type=template&id=b38e0638& */ "./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=template&id=b38e0638&");
+/* harmony import */ var _Enjoy_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Enjoy.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Enjoy_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Enjoy_vue_vue_type_template_id_b38e0638___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Enjoy_vue_vue_type_template_id_b38e0638___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/Enjoy.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Enjoy_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Enjoy.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Enjoy_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=template&id=b38e0638&":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=template&id=b38e0638& ***!
+  \*****************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Enjoy_vue_vue_type_template_id_b38e0638___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Enjoy.vue?vue&type=template&id=b38e0638& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Enjoy.vue?vue&type=template&id=b38e0638&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Enjoy_vue_vue_type_template_id_b38e0638___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Enjoy_vue_vue_type_template_id_b38e0638___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/LuckyStrike.vue":
+/*!****************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/LuckyStrike.vue ***!
+  \****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _LuckyStrike_vue_vue_type_template_id_5793ced3___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./LuckyStrike.vue?vue&type=template&id=5793ced3& */ "./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=template&id=5793ced3&");
+/* harmony import */ var _LuckyStrike_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./LuckyStrike.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _LuckyStrike_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _LuckyStrike_vue_vue_type_template_id_5793ced3___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _LuckyStrike_vue_vue_type_template_id_5793ced3___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/LuckyStrike.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_LuckyStrike_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./LuckyStrike.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_LuckyStrike_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=template&id=5793ced3&":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=template&id=5793ced3& ***!
+  \***********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LuckyStrike_vue_vue_type_template_id_5793ced3___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./LuckyStrike.vue?vue&type=template&id=5793ced3& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/LuckyStrike.vue?vue&type=template&id=5793ced3&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LuckyStrike_vue_vue_type_template_id_5793ced3___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LuckyStrike_vue_vue_type_template_id_5793ced3___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Medusa.vue":
+/*!***********************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Medusa.vue ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Medusa_vue_vue_type_template_id_53597e2e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Medusa.vue?vue&type=template&id=53597e2e& */ "./resources/js/components/songs/polaroid/Medusa.vue?vue&type=template&id=53597e2e&");
+/* harmony import */ var _Medusa_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Medusa.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/Medusa.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Medusa_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Medusa_vue_vue_type_template_id_53597e2e___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Medusa_vue_vue_type_template_id_53597e2e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/Medusa.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Medusa.vue?vue&type=script&lang=js&":
+/*!************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Medusa.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Medusa_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Medusa.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Medusa.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Medusa_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Medusa.vue?vue&type=template&id=53597e2e&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Medusa.vue?vue&type=template&id=53597e2e& ***!
+  \******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Medusa_vue_vue_type_template_id_53597e2e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Medusa.vue?vue&type=template&id=53597e2e& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Medusa.vue?vue&type=template&id=53597e2e&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Medusa_vue_vue_type_template_id_53597e2e___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Medusa_vue_vue_type_template_id_53597e2e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Noccioline.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Noccioline.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Noccioline_vue_vue_type_template_id_bbf6589c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Noccioline.vue?vue&type=template&id=bbf6589c& */ "./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=template&id=bbf6589c&");
+/* harmony import */ var _Noccioline_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Noccioline.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Noccioline_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Noccioline_vue_vue_type_template_id_bbf6589c___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Noccioline_vue_vue_type_template_id_bbf6589c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/Noccioline.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Noccioline_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Noccioline.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Noccioline_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=template&id=bbf6589c&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=template&id=bbf6589c& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Noccioline_vue_vue_type_template_id_bbf6589c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Noccioline.vue?vue&type=template&id=bbf6589c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Noccioline.vue?vue&type=template&id=bbf6589c&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Noccioline_vue_vue_type_template_id_bbf6589c___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Noccioline_vue_vue_type_template_id_bbf6589c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Pellaria.vue":
+/*!*************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Pellaria.vue ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Pellaria_vue_vue_type_template_id_0273e916___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Pellaria.vue?vue&type=template&id=0273e916& */ "./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=template&id=0273e916&");
+/* harmony import */ var _Pellaria_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Pellaria.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Pellaria_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Pellaria_vue_vue_type_template_id_0273e916___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Pellaria_vue_vue_type_template_id_0273e916___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/Pellaria.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Pellaria_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Pellaria.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Pellaria_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=template&id=0273e916&":
+/*!********************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=template&id=0273e916& ***!
+  \********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Pellaria_vue_vue_type_template_id_0273e916___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Pellaria.vue?vue&type=template&id=0273e916& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Pellaria.vue?vue&type=template&id=0273e916&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Pellaria_vue_vue_type_template_id_0273e916___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Pellaria_vue_vue_type_template_id_0273e916___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Perfavore.vue":
+/*!**************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Perfavore.vue ***!
+  \**************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Perfavore_vue_vue_type_template_id_cb1c82c6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Perfavore.vue?vue&type=template&id=cb1c82c6& */ "./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=template&id=cb1c82c6&");
+/* harmony import */ var _Perfavore_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Perfavore.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Perfavore_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Perfavore_vue_vue_type_template_id_cb1c82c6___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Perfavore_vue_vue_type_template_id_cb1c82c6___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/Perfavore.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Perfavore_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Perfavore.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Perfavore_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=template&id=cb1c82c6&":
+/*!*********************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=template&id=cb1c82c6& ***!
+  \*********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Perfavore_vue_vue_type_template_id_cb1c82c6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Perfavore.vue?vue&type=template&id=cb1c82c6& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/Perfavore.vue?vue&type=template&id=cb1c82c6&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Perfavore_vue_vue_type_template_id_cb1c82c6___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Perfavore_vue_vue_type_template_id_cb1c82c6___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/PolaroidSong.vue":
+/*!*****************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/PolaroidSong.vue ***!
+  \*****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _PolaroidSong_vue_vue_type_template_id_16962ab8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./PolaroidSong.vue?vue&type=template&id=16962ab8& */ "./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=template&id=16962ab8&");
+/* harmony import */ var _PolaroidSong_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PolaroidSong.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _PolaroidSong_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _PolaroidSong_vue_vue_type_template_id_16962ab8___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _PolaroidSong_vue_vue_type_template_id_16962ab8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/PolaroidSong.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_PolaroidSong_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./PolaroidSong.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_PolaroidSong_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=template&id=16962ab8&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=template&id=16962ab8& ***!
+  \************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PolaroidSong_vue_vue_type_template_id_16962ab8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./PolaroidSong.vue?vue&type=template&id=16962ab8& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/PolaroidSong.vue?vue&type=template&id=16962ab8&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PolaroidSong_vue_vue_type_template_id_16962ab8___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PolaroidSong_vue_vue_type_template_id_16962ab8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/SempreInDue.vue":
+/*!****************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/SempreInDue.vue ***!
+  \****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SempreInDue_vue_vue_type_template_id_25fd36a0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SempreInDue.vue?vue&type=template&id=25fd36a0& */ "./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=template&id=25fd36a0&");
+/* harmony import */ var _SempreInDue_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SempreInDue.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _SempreInDue_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _SempreInDue_vue_vue_type_template_id_25fd36a0___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _SempreInDue_vue_vue_type_template_id_25fd36a0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/SempreInDue.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SempreInDue_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./SempreInDue.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SempreInDue_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=template&id=25fd36a0&":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=template&id=25fd36a0& ***!
+  \***********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SempreInDue_vue_vue_type_template_id_25fd36a0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./SempreInDue.vue?vue&type=template&id=25fd36a0& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/SempreInDue.vue?vue&type=template&id=25fd36a0&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SempreInDue_vue_vue_type_template_id_25fd36a0___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SempreInDue_vue_vue_type_template_id_25fd36a0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/SoloGuai.vue":
+/*!*************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/SoloGuai.vue ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SoloGuai_vue_vue_type_template_id_af954368___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SoloGuai.vue?vue&type=template&id=af954368& */ "./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=template&id=af954368&");
+/* harmony import */ var _SoloGuai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SoloGuai.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _SoloGuai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _SoloGuai_vue_vue_type_template_id_af954368___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _SoloGuai_vue_vue_type_template_id_af954368___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/SoloGuai.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./SoloGuai.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=template&id=af954368&":
+/*!********************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=template&id=af954368& ***!
+  \********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_template_id_af954368___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./SoloGuai.vue?vue&type=template&id=af954368& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/SoloGuai.vue?vue&type=template&id=af954368&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_template_id_af954368___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SoloGuai_vue_vue_type_template_id_af954368___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/TararìTararà.vue":
+/*!*****************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/TararìTararà.vue ***!
+  \*****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Tarar_Tarar_vue_vue_type_template_id_afdc2012___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./TararìTararà.vue?vue&type=template&id=afdc2012& */ "./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=template&id=afdc2012&");
+/* harmony import */ var _Tarar_Tarar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./TararìTararà.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Tarar_Tarar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Tarar_Tarar_vue_vue_type_template_id_afdc2012___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Tarar_Tarar_vue_vue_type_template_id_afdc2012___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/polaroid/TararìTararà.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Tarar_Tarar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./TararìTararà.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Tarar_Tarar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=template&id=afdc2012&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=template&id=afdc2012& ***!
+  \************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Tarar_Tarar_vue_vue_type_template_id_afdc2012___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./TararìTararà.vue?vue&type=template&id=afdc2012& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/polaroid/TararìTararà.vue?vue&type=template&id=afdc2012&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Tarar_Tarar_vue_vue_type_template_id_afdc2012___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Tarar_Tarar_vue_vue_type_template_id_afdc2012___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -21522,11 +25231,24 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Foto__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/Foto */ "./resources/js/components/Foto.vue");
 /* harmony import */ var _components_Video__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/Video */ "./resources/js/components/Video.vue");
 /* harmony import */ var _components_albums_Polaroid__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/albums/Polaroid */ "./resources/js/components/albums/Polaroid.vue");
-/* harmony import */ var _components_songs_SoloGuai__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/songs/SoloGuai */ "./resources/js/components/songs/SoloGuai.vue");
-/* harmony import */ var _components_albums_NottiBrave__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/albums/NottiBrave */ "./resources/js/components/albums/NottiBrave.vue");
-/* harmony import */ var _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./components/albums/NottiBraveAfter */ "./resources/js/components/albums/NottiBraveAfter.vue");
-/* harmony import */ var _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./components/albums/NewAlbum */ "./resources/js/components/albums/NewAlbum.vue");
-/* harmony import */ var _components_LePolaroid__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./components/LePolaroid */ "./resources/js/components/LePolaroid.vue");
+/* harmony import */ var _components_songs_polaroid_SoloGuai__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/songs/polaroid/SoloGuai */ "./resources/js/components/songs/polaroid/SoloGuai.vue");
+/* harmony import */ var _components_songs_polaroid_SempreInDue__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./components/songs/polaroid/SempreInDue */ "./resources/js/components/songs/polaroid/SempreInDue.vue");
+/* harmony import */ var _components_songs_polaroid_PolaroidSong__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./components/songs/polaroid/PolaroidSong */ "./resources/js/components/songs/polaroid/PolaroidSong.vue");
+/* harmony import */ var _components_songs_polaroid_LuckyStrike__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./components/songs/polaroid/LuckyStrike */ "./resources/js/components/songs/polaroid/LuckyStrike.vue");
+/* harmony import */ var _components_songs_polaroid_Enjoy__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./components/songs/polaroid/Enjoy */ "./resources/js/components/songs/polaroid/Enjoy.vue");
+/* harmony import */ var _components_songs_polaroid_Tarar_Tarar___WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./components/songs/polaroid/TararìTararà */ "./resources/js/components/songs/polaroid/TararìTararà.vue");
+/* harmony import */ var _components_songs_polaroid_Perfavore__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./components/songs/polaroid/Perfavore */ "./resources/js/components/songs/polaroid/Perfavore.vue");
+/* harmony import */ var _components_songs_polaroid_Noccioline__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./components/songs/polaroid/Noccioline */ "./resources/js/components/songs/polaroid/Noccioline.vue");
+/* harmony import */ var _components_songs_polaroid_AllaTua__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./components/songs/polaroid/AllaTua */ "./resources/js/components/songs/polaroid/AllaTua.vue");
+/* harmony import */ var _components_songs_polaroid_Pellaria__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./components/songs/polaroid/Pellaria */ "./resources/js/components/songs/polaroid/Pellaria.vue");
+/* harmony import */ var _components_songs_polaroid_Medusa__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./components/songs/polaroid/Medusa */ "./resources/js/components/songs/polaroid/Medusa.vue");
+/* harmony import */ var _components_songs_polaroid_Cheregazzina__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./components/songs/polaroid/Cheregazzina */ "./resources/js/components/songs/polaroid/Cheregazzina.vue");
+/* harmony import */ var _components_songs_polaroid_Avocado__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./components/songs/polaroid/Avocado */ "./resources/js/components/songs/polaroid/Avocado.vue");
+/* harmony import */ var _components_songs_polaroid_Argentario__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./components/songs/polaroid/Argentario */ "./resources/js/components/songs/polaroid/Argentario.vue");
+/* harmony import */ var _components_albums_NottiBrave__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./components/albums/NottiBrave */ "./resources/js/components/albums/NottiBrave.vue");
+/* harmony import */ var _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./components/albums/NottiBraveAfter */ "./resources/js/components/albums/NottiBraveAfter.vue");
+/* harmony import */ var _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./components/albums/NewAlbum */ "./resources/js/components/albums/NewAlbum.vue");
+/* harmony import */ var _components_LePolaroid__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./components/LePolaroid */ "./resources/js/components/LePolaroid.vue");
 
  //MAIN
 
@@ -21535,6 +25257,19 @@ __webpack_require__.r(__webpack_exports__);
 
 
  //ALBUMS
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -21551,6 +25286,7 @@ __webpack_require__.r(__webpack_exports__);
     component: _components_NotFound__WEBPACK_IMPORTED_MODULE_0__["default"]
   }, {
     path: '/',
+    name: 'Home',
     component: _components_Home__WEBPACK_IMPORTED_MODULE_2__["default"]
   }, {
     path: '/biografia',
@@ -21572,20 +25308,65 @@ __webpack_require__.r(__webpack_exports__);
     component: _components_albums_Polaroid__WEBPACK_IMPORTED_MODULE_7__["default"]
   }, {
     path: '/polaroid/solo-guai',
-    component: _components_songs_SoloGuai__WEBPACK_IMPORTED_MODULE_8__["default"]
+    component: _components_songs_polaroid_SoloGuai__WEBPACK_IMPORTED_MODULE_8__["default"]
+  }, {
+    path: '/polaroid/sempre-in-due',
+    component: _components_songs_polaroid_SempreInDue__WEBPACK_IMPORTED_MODULE_14__["default"]
+  }, {
+    path: '/polaroid/polaroid',
+    component: _components_songs_polaroid_PolaroidSong__WEBPACK_IMPORTED_MODULE_15__["default"]
+  }, {
+    path: '/polaroid/lucky-strike',
+    component: _components_songs_polaroid_LuckyStrike__WEBPACK_IMPORTED_MODULE_16__["default"]
+  }, {
+    path: '/polaroid/enjoy',
+    component: _components_songs_polaroid_Enjoy__WEBPACK_IMPORTED_MODULE_17__["default"]
+  }, {
+    path: '/polaroid/tararì-tararà',
+    component: _components_songs_polaroid_Tarar_Tarar___WEBPACK_IMPORTED_MODULE_18__["default"]
+  }, {
+    path: '/polaroid/perfavore',
+    component: _components_songs_polaroid_Perfavore__WEBPACK_IMPORTED_MODULE_19__["default"]
+  }, {
+    path: '/polaroid/noccioline',
+    component: _components_songs_polaroid_Noccioline__WEBPACK_IMPORTED_MODULE_20__["default"]
+  }, {
+    path: '/polaroid/alla-tua',
+    component: _components_songs_polaroid_AllaTua__WEBPACK_IMPORTED_MODULE_21__["default"]
+  }, {
+    path: '/polaroid/pellaria',
+    component: _components_songs_polaroid_Pellaria__WEBPACK_IMPORTED_MODULE_22__["default"]
+  }, {
+    path: '/polaroid/medusa',
+    component: _components_songs_polaroid_Medusa__WEBPACK_IMPORTED_MODULE_23__["default"]
+  }, {
+    path: '/polaroid/cheregazzina',
+    component: _components_songs_polaroid_Cheregazzina__WEBPACK_IMPORTED_MODULE_24__["default"]
+  }, {
+    path: '/polaroid/avocado',
+    component: _components_songs_polaroid_Avocado__WEBPACK_IMPORTED_MODULE_25__["default"]
+  }, {
+    path: '/polaroid/argentario',
+    component: _components_songs_polaroid_Argentario__WEBPACK_IMPORTED_MODULE_26__["default"]
   }, {
     path: '/notti-brave',
-    component: _components_albums_NottiBrave__WEBPACK_IMPORTED_MODULE_9__["default"]
+    component: _components_albums_NottiBrave__WEBPACK_IMPORTED_MODULE_10__["default"]
   }, {
     path: '/notti-brave-after',
-    component: _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_10__["default"]
+    component: _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_11__["default"]
   }, {
     path: '/nuovo-album',
-    component: _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_11__["default"]
+    component: _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_12__["default"]
   }, {
     path: '/le-polaroid',
-    component: _components_LePolaroid__WEBPACK_IMPORTED_MODULE_12__["default"]
-  }]
+    component: _components_LePolaroid__WEBPACK_IMPORTED_MODULE_13__["default"]
+  } //test 
+  // {
+  //     path: '/polaroid/:id',
+  //     name: 'polaroid',
+  //     component: Canzone
+  // },
+  ]
 });
 
 /***/ }),

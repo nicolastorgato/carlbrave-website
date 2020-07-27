@@ -1,9 +1,9 @@
 <template>
 <div>
-    <div class="flex items-start">
+    <!-- <div class="flex items-start">
 
         <h1 class="font-normal text-3xl leading-none mb-6 mr-16"> Testo | 
-            <span class="uppercase text-2xl font-semibold">Solo Guai </span> 
+            <span class="uppercase text-2xl font-semibold">  {{ this.$route.params }}  </span> 
         </h1>
 
         <a class="mt-1" title="Torna all'album"> 
@@ -14,7 +14,7 @@
             </router-link> 
         </a>
 
-    </div>
+    </div> -->
         
     
 
@@ -22,15 +22,13 @@
 
         <div class="w-1/3 mr-24">
             <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-                    testo1
+                   <!-- {{ this.$route.params }}  -->
+
+                  {{ canzone }} 
+
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-                    testo2
-            </p>
-        </div>
 
     </div>
 
@@ -40,7 +38,21 @@
 
 <script>
     export default {
-    
+       created: function () {
+           console.log(this.canzone)
+        },
+
+        props:{
+          id:{
+            type: String|Number,
+            required: true,
+          },
+          canzone:{
+            type: Object,
+            required: true,
+          }
+        }
+
 
     }
 </script>

@@ -12,18 +12,14 @@
               rel="stylesheet">
         
     </head>
-    <body class="font-body antialiased">
+    <body class="font-body antialiased h-full">
         <div id="app">
 
-            <div class="bg-gray px-16 pb-20">
-
-                <header class="py-4">
-                    {{-- <h1 class=" font-bold text-4xl">Carl Brave Assets</h1> --}}
-                    <router-link to="/" exact> <img class="object-contain h-20 -ml-8" src="/images/loghi/carlo_logo2.jpg" alt="Logo"> </router-link>
-                </header>
-
-
-                <main class="flex mt-4">
+            <div class="px-16 mb-16 mt-6">
+   
+                <router-link :to="{ name: 'Home'}" exact> <img class="object-contain h-20 -ml-8" src="/images/loghi/carlo_logo2.jpg" style="display: inline" alt="Logo"> </router-link>
+                
+                <main class="flex mt-20">
 
                     <aside class="w-1/5">
 
@@ -60,7 +56,7 @@
                         
                     </aside>
 
-                    <div class="primary flex-1">
+                    <div class="primary flex-1 -mt-20">
                         <transition name="fade" mode="out-in">
                             <router-view/>
                         </transition>

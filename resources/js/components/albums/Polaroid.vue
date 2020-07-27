@@ -18,7 +18,10 @@
 
 
             <div class="mr-24 pr-20 pb-20">
-                <img style="height: 450px;" src="/images/albums/album-polaroid-1.jpg" alt="logo" />
+                <img class="mb-3" style="height: 450px;" src="/images/albums/album-polaroid-1.jpg" alt="logo" />
+                <a download="Polaroid Copertina" href="/images/albums/album-polaroid-1.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Copertina 
+                </a>
             </div>
 
 
@@ -43,8 +46,8 @@
             </div> -->
 
 
-            <ul id="example-1">
-                <li v-for="canzone in this.canzoni" :key="canzone.nome">
+            <ul class="leading-7">
+                <li v-for="canzone in canzoni" :key="canzone.nome" class="text-base text-gray-700 hover:text-blue-600">
                     <router-link :to="'/polaroid/' + canzone.path"> {{ canzone.nome }} </router-link>
                 </li>
             </ul>
@@ -90,7 +93,7 @@
                     nome: '1 - Solo guai',
                     path: 'solo-guai',
                     numero: 1,
-                    testo: 'testo1'
+                    testo: 'Starnutisco per unallergia Vino rosso sopra i vestiti che non va più via (ahhh) E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)'
                     },
                     {
                     nome: '2 - Sempre in due',
@@ -104,6 +107,72 @@
                     numero: 3,
                     testo: 'testo3'
                     },
+                    {
+                    nome: '4 - Lucky Strike',
+                    path: 'lucky-strike',
+                    numero: 4,
+                    testo: 'testo4'
+                    },
+                    {
+                    nome: '5 - Enjoy',
+                    path: 'enjoy',
+                    numero: 5,
+                    testo: 'testo5'
+                    },
+                    {
+                    nome: '6 - Tararì Tararà',
+                    path: 'tararì-tararà',
+                    numero: 6,
+                    testo: 'testo6'
+                    },
+                    {
+                    nome: '7 - Perfavore',
+                    path: 'perfavore',
+                    numero: 7,
+                    testo: 'testo7'
+                    },
+                    {
+                    nome: '8 - Noccioline',
+                    path: 'noccioline',
+                    numero: 8,
+                    testo: 'testo8'
+                    },
+                    {
+                    nome: '9 - Alla tua',
+                    path: 'alla-tua',
+                    numero: 9,
+                    testo: 'testo9'
+                    },
+                    {
+                    nome: '10 - Pellaria',
+                    path: 'pellaria',
+                    numero: 10,
+                    testo: 'testo10'
+                    },
+                    {
+                    nome: '11 - Medusa',
+                    path: 'medusa',
+                    numero: 11,
+                    testo: 'testo11'
+                    },
+                    {
+                    nome: '12 - Cheregazzina',
+                    path: 'cheregazzina',
+                    numero: 12,
+                    testo: 'testo12'
+                    },
+                    {
+                    nome: '13 - Avocado',
+                    path: 'avocado',
+                    numero: 13,
+                    testo: 'testo13'
+                    },
+                    {
+                    nome: '14 - Argentario',
+                    path: 'argentario',
+                    numero: 14,
+                    testo: 'testo14'
+                    },
                 ],
 
 
@@ -116,7 +185,7 @@
 
 
        created() {
-            console.log('Polaroid');
+            // console.log('Polaroid');
         },
     }
 </script>
