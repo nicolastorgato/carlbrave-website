@@ -6,6 +6,9 @@ import VueTyperPlugin from 'vue-typer'
 
 window.axios = require("axios");
 
+import Navbar from './components/Navbar'
+Vue.component('navbar', Navbar)
+
 
 Vue.use(VueRouter)
 Vue.use(VueTyperPlugin)

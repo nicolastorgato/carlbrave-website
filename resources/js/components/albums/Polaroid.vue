@@ -8,7 +8,7 @@
             </span> 
         </h1>
 
-        <div class="flex mb-4">
+        <div class="flex flex-col lg:flex-row mb-4">
             <!-- <div class="w-1/2 mr-24 pr-20 pb-20">
                 <img class="object-contain mb-3" src="/images/albums/album-polaroid-1.jpg">
                 <a href="/images/albums/album-polaroid-1.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
@@ -25,27 +25,6 @@
             </div>
 
 
-            <!-- <div class="w-1/2 flex-col items-center">
-                <p class=" text-lg font-medium mb-3">Tracce</p>
-                <ul class="leading-7">
-                    <li class="text-base text-gray-700 hover:text-gray-900 "> <router-link to="/polaroid/solo-guai"> 1 - Solo Guai </router-link> </li> 
-                    <li> 2 - Sempre in due </li>
-                    <li> 3 - Polaroid </li>
-                    <li> 4 - Lucky Strike </li>
-                    <li> 5 - Enjoy </li>
-                    <li> 6 - Tararì Tararà </li>
-                    <li> 7 - Perfavore </li>
-                    <li> 8 - Noccioline </li>
-                    <li> 9 - Alla tua </li>
-                    <li> 10 - Pellaria </li>
-                    <li> 11 - Medusa </li>
-                    <li> 12 - Cheregazzina </li>
-                    <li> 13 - Avocado </li>
-                    <li> 14 - Argentario </li>
-                </ul>
-            </div> -->
-
-
             <ul class="leading-7">
                 <li v-for="canzone in canzoni" :key="canzone.nome" class="text-base text-gray-700 hover:text-blue-600">
                     <router-link :to="'/polaroid/' + canzone.path"> {{ canzone.nome }} </router-link>
@@ -57,16 +36,16 @@
 
         </div>
 
-        <div class="flex">
+        <div class="flex flex-col lg:flex-row">
 
-            <div class="bg-white w-1/3 mr-16">
+            <div class="bg-white w-full md:w-1/3 mr-16 mb-4">
                 <img src="/images/albums/album-polaroid-2.jpg" alt="Copertina (versione 2)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
                 <a href="/images/albums/album-polaroid-2.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Copertina (versione 2)
                 </a>
             </div>
 
-            <div class="bg-white w-1/3">
+            <div class="bg-white w-full md:w-1/3">
                 <img src="/images/albums/album-polaroid-3.jpg" alt="Copertina (versione 3)" class="w-full object-cover h-32 sm:h-48 md:h-64 mb-3">
                 <a href="/images/albums/album-polaroid-3.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Copertina (versione 3)

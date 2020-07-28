@@ -3,9 +3,9 @@
 
     <h1 class="font-normal text-3xl leading-none mb-8"> Biografia</h1>
 
-    <div class="flex">
+    <div class="flex flex-col lg:flex-row">
 
-        <div class="w-1/3 mr-24">
+        <div class="w-full lg:w-1/3 mr-24">
             <p class="text-gray-800 text-justify leading-relaxed"> Classe 1990, Carl Brave è lo pseudonimo di Carlo Luigi Coraggio. Dal 2007 nel gruppo Molto Peggio Crew, ha debuttato come solista con un EP intitolato Brave EP. 
                 Il successo su scala nazionale è arrivato con l’accoppiata in salsa social con il collega Franco 126, con cui ha conquistato il popolo di YouTube a suon di rap.
                 <br>L’11 maggio 2018 è uscito il singolo Fotografia, in collaborazione con Francesca Michielin e Fabri Fibra. Contestuale anche il suo album di esordio nel percorso 
@@ -20,7 +20,7 @@
             </p>
         </div>
 
-        <div class="w-1/3">
+        <div class="w-full lg:w-1/3">
             <p class="text-gray-800 text-justify leading-relaxed"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque fugiat voluptas magnam quisquam alias 
                 quibusdam dicta, quia eveniet magni a quasi ad sint molestias praesentium amet adipisci non modi error cumque sequi fugit? Unde et suscipit accusantium illum 
                 recusandae labore a velit molestias reiciendis tempore, fuga ipsam, culpa omnis nihil deserunt alias, inventore numquam officiis explicabo error. <br>
