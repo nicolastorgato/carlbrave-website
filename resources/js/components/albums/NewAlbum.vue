@@ -12,9 +12,9 @@
         
             <div class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
                 <div class="lg:w-1/2">
-                    <div class="h-64 bg-cover lg:rounded-lg lg:h-full" style="background-image:url('/images/varie/new-album.jpg')"></div>
+                    <div class="h-64 bg-cover bg-center lg:rounded-lg lg:h-full" style="background-image:url('/images/varie/new-album.jpg')"></div>
                 </div>
-                <div class="py-12 px-6 max-w-xl lg:max-w-5xl lg:w-1/2">
+                <div class="py-12 px-0 lg:px-6 max-w-xl lg:max-w-5xl lg:w-1/2">
                     <h2 class="text-3xl text-gray-800 font-bold">Nuovo Album</h2>
                     <p class="mt-4 text-gray-700">Dopo i singoli Che poi, Regina Coeli, Spigoli e l'ultimissima Fratellì, 
                                                   Carl Brave pubblicherà il suo prossimo album a Settembre. <br><br>

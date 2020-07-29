@@ -26,7 +26,9 @@
     },
     "dependencies": {
         "tailwindcss": "^1.5.1",
+        "vue-clickaway": "^2.2.2",
         "vue-router": "^3.3.4",
+        "vue-tailwind": "^0.4.6",
         "vue-typer": "^1.2.0"
     }
 }

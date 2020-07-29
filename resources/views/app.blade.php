@@ -15,50 +15,17 @@
     <body class="font-body antialiased h-full">
         <div id="app">
 
-            <div class="px-16 mb-16 mt-6">
+            <div class="">
+
+                <navbar></navbar>
    
-                <router-link :to="{ name: 'Home'}" exact> <img class="object-contain h-20 -ml-8" src="/images/loghi/carlo_logo2.jpg" style="display: inline" alt="Logo"> </router-link>
                 
-                <main class="flex mt-20">
+                
+               
+               
+                <main class="">
 
-                    
-
-                    <aside class="w-1/5 invisible lg:visible ">
-
-                        <section class="mb-8">
-                            <h5 class="uppercase text-lg font-bold mb-3">Vita</h5>
-                            <ul>
-                             
-                                <li class="text-sm pb-2"> <router-link to="/biografia"> Bio </router-link> </li> 
-                                <li class="text-sm pb-2"> <router-link to="/tour"> Tour </router-link> </li> 
-                                <li class="text-sm pb-2"> <router-link to="/foto"> Foto </router-link> </li>
-                                <li class="text-sm pb-2"> <router-link to="/video"> Video </router-link> </li>
-                            </ul>
-                        </section>
-
-
-                        <section class="mb-8">
-                            <h5 class="uppercase text-lg font-bold mb-3">Album e Testi</h5>
-                            <ul>
-                                <li class="text-sm pb-2"> <router-link to="/polaroid"> Polaroid </router-link> </li>
-                                <li class="text-sm pb-2"> <router-link to="/notti-brave"> Notti Brave </router-link> </li>
-                                <li class="text-sm pb-2"> <router-link to="/notti-brave-after"> Notti Brave After </router-link> </li>
-                                <li class="text-sm pb-2 mr-1"> 
-                                    <router-link to="/nuovo-album"> Nuovo Album 
-                                        <span class="bg-blue-600 font-thin text-xs text-white rounded-full py-1 px-3 ml-1">New</span> 
-                                    </router-link> </li>
-                            </ul>
-                        </section>
-
-                        <section>
-                            <h5 class="uppercase text-lg font-bold mb-3"> <router-link to="/le-polaroid"> Le Polaroid </router-link> </h5>
-                        </section>
-
-                        
-                        
-                    </aside>
-
-                    <div class="primary flex-1 -mt-20">
+                    <div class="primary flex-1 px-8">
                         <transition name="fade" mode="out-in">
                             <router-view/>
                         </transition>
