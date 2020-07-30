@@ -5677,7 +5677,7 @@ var render = function() {
                 "button",
                 {
                   staticClass:
-                    "mt-10 border border-teal-500 text-teal-500 block rounded-md font-bold text-lg tracking-wider py-4 px-6 mr-2 flex items-center hover:bg-teal-500 hover:text-white focus:outline-none"
+                    "mt-10 border border-teal-500 text-teal-500 block rounded-md font-bold text-lg tracking-wider py-3 px-5 mr-2 flex items-center hover:bg-teal-500 hover:text-white focus:outline-none"
                 },
                 [
                   _c(
@@ -6649,6 +6649,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "flex flex-col lg:flex-row flex-wrap" }, [
         _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
+            staticClass: "object-contain sm:h-64 sm:w-1/2",
             attrs: {
               src: "https://www.youtube.com/embed/7c1VUPVAkPs",
               frameborder: "0",
@@ -6660,6 +6661,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
+            staticClass: "object-contain sm:h-64 sm:w-1/2",
             attrs: {
               src: "https://www.youtube.com/embed/7FZg0uKe5DM",
               frameborder: "0",
@@ -6672,6 +6674,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
+            staticClass: "object-contain sm:h-64 sm:w-1/2",
             attrs: {
               src: "https://www.youtube.com/embed/pfUMEj_ZbKI",
               frameborder: "0",
@@ -6684,6 +6687,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
+            staticClass: "object-contain sm:h-64 sm:w-1/2",
             attrs: {
               src: "https://www.youtube.com/embed/gGp8kwz3wOI",
               frameborder: "0",
@@ -6696,6 +6700,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
+            staticClass: "object-contain sm:h-64 sm:w-1/2",
             attrs: {
               src: "https://www.youtube.com/embed/2smKMa2ePIU",
               frameborder: "0",
@@ -6708,6 +6713,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
+            staticClass: "object-contain sm:h-64 sm:w-1/2",
             attrs: {
               src: "https://www.youtube.com/embed/xF1iShHqJjU",
               frameborder: "0",
