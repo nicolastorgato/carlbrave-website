@@ -1949,6 +1949,18 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -2061,6 +2073,35 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2291,11 +2332,23 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
       isOpen: false
     };
+  },
+  methods: {
+    closeMenu: function closeMenu() {
+      var _this = this;
+
+      setTimeout(function () {
+        _this.isOpen = !_this.isOpen;
+      }, 800);
+    }
   }
 });
 
@@ -2461,13 +2514,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -2555,16 +2601,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -4166,7 +4202,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".vue-typer {\n  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;\n  font-size: 32px;\n}\n.vue-typer .custom.char {\n  color: #3d3d3d;\n}\r\n", ""]);
+exports.push([module.i, "/* .vue-typer {\r\n  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;\r\n  font-size: 32px;\r\n}\r\n.vue-typer .custom.char {\r\n  color: #3d3d3d;\r\n} */\r\n", ""]);
 
 // exports
 
@@ -5343,8 +5379,8 @@ var staticRenderFns = [
         _vm._v(" Biografia")
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "flex flex-col lg:flex-row" }, [
-        _c("div", { staticClass: "w-full lg:w-1/3 mr-24" }, [
+      _c("div", { staticClass: "flex flex-col lg:flex-row mb-8" }, [
+        _c("div", { staticClass: "w-full lg:w-2/5 mr-24" }, [
           _c(
             "p",
             { staticClass: "text-gray-800 text-justify leading-relaxed" },
@@ -5358,36 +5394,41 @@ var staticRenderFns = [
               ),
               _c("br"),
               _vm._v(
-                "\r\n\r\n                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim obcaecati, non, provident expedita ut voluptatum nihil placeat illo quod consectetur debitis assumenda \r\n                maiores fuga magnam, magni quae. Quia totam aliquam recusandae labore temporibus. Error enim totam at ex dolore reiciendis doloremque temporibus vitae dicta, \r\n                consectetur, veritatis, dolorem commodi. Blanditiis, labore? "
+                "\r\n\r\n                Nel 2017 ha pubblicato “Polaroid” in coppia con Franco126. Un disco emerso rapidamente e con forza dal tam tam del web per poi entrare stabilmente non solo nelle \r\n                classifiche di vendita, ma anche e soprattutto nell’immaginario collettivo contemporaneo. Un nuovo sound fresco e coinvolgente scaturito dall’abile produzione di Brave \r\n                che ha composto tutte le basi presenti nel disco. "
               ),
               _c("br"),
               _vm._v(
-                "\r\n                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim obcaecati, non, provident expedita ut voluptatum nihil placeat illo quod consectetur debitis assumenda \r\n                maiores fuga magnam, magni quae. Quia totam aliquam recusandae labore temporibus. Error enim totam at ex dolore reiciendis doloremque temporibus vitae dicta, \r\n                consectetur, veritatis, dolorem commodi. Blanditiis, labore.\r\n            "
+                " \r\n                “Polaroid” ha conquistato tutta la penisola grazie anche alle decine di concerti sold-out messi a segno tra maggio 2017 e settembre 2018.\r\n                La prolifica capacità compositiva di Carl Brave è sfociata nell’esordio solista “Notti Brave”. L’album, uscito a maggio 2018, è entrato diretto al primo posto in classifica,\r\n                 restandoci per due settimane. Notti Brave è senza dubbio un disco che ha colpito nel segno, trainato dal singolo “Fotografia” interpretato assieme a Fabri Fibra e \r\n                 Francesca Michielin. La produzione di Brave si sposa perfettamente con i due ospiti che colorano ulteriormente il pezzo con il loro stile inconfondibile. \r\n                 “Fotografia” con la sua immediata freschezza e sincerità è stato tra i più trasmessi dalle radio. Molti altri sono stati gli artisti che hanno animato le “Notti Brave” \r\n                 di Carl. Le quindici tracce dell’album vedono infatti altre collaborazioni eccellenti come Coez, Franco126, Emis Killa, Federica Abbate, Gemitaiz, Giorgio Poi, \r\n                 Pretty Solero, Frah Quintale, B e Ugo Borghetti. "
+              ),
+              _c("br"),
+              _vm._v(
+                "\r\n                Un caleidoscopio di generi e sfumature che, dal pop, all’indie, al rap fa il paio con l’instancabile verve di Carl Brave. Una continua ricerca di dettagli sonori che si \r\n                riflette nei testi sempre densi di atmosfere e pratiche quotidiane in cui riconoscersi.\r\n            "
               )
             ]
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "w-full lg:w-1/3" }, [
+        _c("div", { staticClass: "w-full lg:w-2/5" }, [
           _c(
             "p",
             { staticClass: "text-gray-800 text-justify leading-relaxed" },
             [
               _vm._v(
-                " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque fugiat voluptas magnam quisquam alias \r\n                quibusdam dicta, quia eveniet magni a quasi ad sint molestias praesentium amet adipisci non modi error cumque sequi fugit? Unde et suscipit accusantium illum \r\n                recusandae labore a velit molestias reiciendis tempore, fuga ipsam, culpa omnis nihil deserunt alias, inventore numquam officiis explicabo error. "
+                " Se traducessimo in musica l’american dream, ma lo trasportassimo qui da noi in Italia, per rendere al meglio\r\n                 l’idea sarebbe opportuno portare come esempio la storia di Carl Brave. Un metro e 90 di ragazzo, una ben avviata carriera da giocatore di basket \r\n                 (è arrivato anche a calcare i parquet della Serie B), presto votato alla musica, al rap soprattutto. All’inizio è una non carriera, come quella di quasi tutti \r\n                 i rapper italiani e stranieri, prima che il genere conquistasse orecchie ben più numerose di quelle di una ristretta nicchia. Poi l’incontro, nel 2016, \r\n                 con Franco126, mentre la discografia mainstream è già morta, il mercato è ormai già stato ampiamente sbranato dagli indie, e i due insieme danno vita al progetto\r\n                 Carl Brave x Franco126 e all’album “Polaroid”. "
               ),
               _c("br"),
               _vm._v(
-                "\r\n                Placeat sapiente dicta, quibusdam autem, eaque est dignissimos libero alias eligendi quidem eius cupiditate, veniam suscipit ut qui similique corporis \r\n                laudantium? Voluptates animi distinctio magnam iusto quos culpa nostrum vitae quis id repellat. Recusandae, laudantium commodi? Eum at reprehenderit \r\n                aliquid eligendi voluptatum nostrum? "
+                "\r\n\r\n                Un successo che viene cavalcato insieme per un anno prima di stringersi la mano e prendere ognuno la propria strada. Quella di Carlo Luigi Coraggio, \r\n                così come risulta all’anagrafe, scorre velocissima dietro il finestrino, il suo primo singolo solista si intitola “Fotografia”, lo canta in featuring con \r\n                Francesca Michielin e Fabri Fibra, 64 milioni di visualizzazioni su YouTube ad oggi, a un anno dalla pubblicazione, 48 milioni di stream su Spotify e il \r\n                successo assoluto che gli permette un salto dall’universo della musica indipendente al mainstream, uno dei pochi in realtà ad esserci riuscito in maniera così totale come lui.\r\n                Grazie non solo al suo talento, ma anche ad una predisposizione naturale verso la creazione di un personaggio ben definito, ben riconoscibile e che, \r\n                soprattutto, è amatissimo dal pubblico. "
               ),
               _c("br"),
-              _vm._v(
-                "\r\n                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim obcaecati, non, provident expedita ut voluptatum nihil placeat illo quod consectetur debitis assumenda \r\n                maiores fuga magnam, magni quae. "
-              ),
+              _c("br"),
+              _c("br"),
               _c("br"),
               _vm._v(
-                " Error enim totam at ex dolore reiciendis doloremque temporibus vitae dicta, \r\n                consectetur, veritatis, dolorem commodi. Blanditiis, labore? Error enim totam at ex dolore reiciendis doloremque temporibus vitae dicta, \r\n                consectetur, veritatis, dolorem commodi. Blanditiis, labore.\r\n            "
-              )
+                "\r\n\r\n                “Io non mi colloco. Faccio un mix di tante cose. Trap e Indie, come dicono loro, cantautorato e pop…ormai etichettare la musica è diventato molto più \r\n                difficile, sia per gente come me che per altri artisti. Quindi sono contro le etichette, sono solo me stesso”. "
+              ),
+              _c("br"),
+              _vm._v(" Carl brave.\r\n            ")
             ]
           )
         ])
@@ -5602,28 +5643,254 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", [
+    _c("div", { staticClass: "flex flex-col sm:flex-row mb-8 mt-0 sm:mt-32" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass:
+            "w-full flex flex-col items-center justify-around sm:justify-center"
+        },
+        [
+          _c("h1", { staticClass: "text-6xl text-gray-800" }, [
+            _vm._v("Carl Brave")
+          ]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-2xl text-gray-600 text-center" }, [
+            _vm._v(
+              " \r\n                Foto, video, lyrics, polaroid e tanti altri contenuti!\r\n            "
+            )
+          ]),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              attrs: {
+                href: "https://braveshop23.bigcartel.com/",
+                target: "_blank"
+              }
+            },
+            [
+              _c(
+                "button",
+                {
+                  staticClass:
+                    "mt-10 border border-teal-500 text-teal-500 block rounded-md font-bold text-lg tracking-wider py-4 px-6 mr-2 flex items-center hover:bg-teal-500 hover:text-white focus:outline-none"
+                },
+                [
+                  _c(
+                    "svg",
+                    {
+                      staticClass: "h-6 w-6 mr-4 fill-current",
+                      attrs: {
+                        xmlns: "http://www.w3.org/2000/svg",
+                        viewBox: "0 0 20 20"
+                      }
+                    },
+                    [
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "M4 2h16l-3 9H4a1 1 0 1 0 0 2h13v2H4a3 3 0 0 1 0-6h.33L3 5 2 2H0V0h3a1 1 0 0 1 1 1v1zm1 18a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm10 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"
+                        }
+                      })
+                    ]
+                  ),
+                  _vm._v("\r\n                Brave Shop\r\n            ")
+                ]
+              )
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass:
+                "w-1/2 sm:w-1/5 flex items-center justify-around mt-10"
+            },
+            [
+              _c(
+                "a",
+                {
+                  attrs: {
+                    href: "https://www.instagram.com/carlbrave23/",
+                    target: "_blank"
+                  }
+                },
+                [
+                  _c(
+                    "svg",
+                    {
+                      staticClass: "h-5 w-5",
+                      attrs: {
+                        "enable-background": "new 0 0 24 24",
+                        viewBox: "0 0 24 24",
+                        xmlns: "http://www.w3.org/2000/svg",
+                        "xmlns:xlink": "http://www.w3.org/1999/xlink"
+                      }
+                    },
+                    [
+                      _c(
+                        "linearGradient",
+                        {
+                          attrs: {
+                            id: "SVGID_1_",
+                            gradientTransform:
+                              "matrix(0 -1.982 -1.844 0 -132.522 -51.077)",
+                            gradientUnits: "userSpaceOnUse",
+                            x1: "-37.106",
+                            x2: "-26.555",
+                            y1: "-72.705",
+                            y2: "-84.047"
+                          }
+                        },
+                        [
+                          _c("stop", {
+                            attrs: { offset: "0", "stop-color": "#fd5" }
+                          }),
+                          _c("stop", {
+                            attrs: { offset: ".5", "stop-color": "#ff543e" }
+                          }),
+                          _c("stop", {
+                            attrs: { offset: "1", "stop-color": "#c837ab" }
+                          })
+                        ],
+                        1
+                      ),
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "m1.5 1.633c-1.886 1.959-1.5 4.04-1.5 10.362 0 5.25-.916 10.513 3.878 11.752 1.497.385 14.761.385 16.256-.002 1.996-.515 3.62-2.134 3.842-4.957.031-.394.031-13.185-.001-13.587-.236-3.007-2.087-4.74-4.526-5.091-.559-.081-.671-.105-3.539-.11-10.173.005-12.403-.448-14.41 1.633z",
+                          fill: "url(#SVGID_1_)"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "m11.998 3.139c-3.631 0-7.079-.323-8.396 3.057-.544 1.396-.465 3.209-.465 5.805 0 2.278-.073 4.419.465 5.804 1.314 3.382 4.79 3.058 8.394 3.058 3.477 0 7.062.362 8.395-3.058.545-1.41.465-3.196.465-5.804 0-3.462.191-5.697-1.488-7.375-1.7-1.7-3.999-1.487-7.374-1.487zm-.794 1.597c7.574-.012 8.538-.854 8.006 10.843-.189 4.137-3.339 3.683-7.211 3.683-7.06 0-7.263-.202-7.263-7.265 0-7.145.56-7.257 6.468-7.263zm5.524 1.471c-.587 0-1.063.476-1.063 1.063s.476 1.063 1.063 1.063 1.063-.476 1.063-1.063-.476-1.063-1.063-1.063zm-4.73 1.243c-2.513 0-4.55 2.038-4.55 4.551s2.037 4.55 4.55 4.55 4.549-2.037 4.549-4.55-2.036-4.551-4.549-4.551zm0 1.597c3.905 0 3.91 5.908 0 5.908-3.904 0-3.91-5.908 0-5.908z",
+                          fill: "#fff"
+                        }
+                      })
+                    ],
+                    1
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  attrs: {
+                    href: "https://it-it.facebook.com/carlbrave23/",
+                    target: "_blank"
+                  }
+                },
+                [
+                  _c(
+                    "svg",
+                    {
+                      staticClass: "h-5 w-5",
+                      attrs: {
+                        viewBox: "0 0 512 512",
+                        xmlns: "http://www.w3.org/2000/svg"
+                      }
+                    },
+                    [
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "m512 256c0 141.386719-114.613281 256-256 256s-256-114.613281-256-256 114.613281-256 256-256 256 114.613281 256 256zm0 0",
+                          fill: "#4a7aff"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "m267.234375 511.738281c136.171875-5.878906 244.765625-118.121093 244.765625-255.738281 0-.996094-.027344-1.988281-.039062-2.984375l-177.699219-177.703125-190 198.59375 105.566406 105.566406-48.675781 66.183594zm0 0",
+                          fill: "#0053bf"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "m334.261719 75.3125v57.96875s-66.554688-9.660156-66.554688 33.277344v42.9375h60.113281l-7.511718 65.480468h-52.601563v170.679688h-66.554687v-170.679688l-56.894532-1.074218v-64.40625h55.820313v-49.378906s-3.683594-73.457032 68.703125-86.949219c30.058594-5.605469 65.480469 2.144531 65.480469 2.144531zm0 0",
+                          fill: "#fff"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "m334.261719 133.28125v-57.96875s-35.421875-7.75-65.480469-2.144531c-4.695312.875-9.0625 2.007812-13.136719 3.347656v369.140625h12.0625v-170.679688h52.597657l7.515624-65.480468h-60.113281s0 0 0-42.9375 66.554688-33.277344 66.554688-33.277344zm0 0",
+                          fill: "#dce1eb"
+                        }
+                      })
+                    ]
+                  )
+                ]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  attrs: {
+                    href:
+                      "https://www.youtube.com/channel/UCgFZq7T7O4kbFqY63Mrmypw",
+                    target: "_blank"
+                  }
+                },
+                [
+                  _c(
+                    "svg",
+                    {
+                      staticClass: "h-6 w-6",
+                      attrs: {
+                        viewBox: "0 -77 512.00213 512",
+                        xmlns: "http://www.w3.org/2000/svg"
+                      }
+                    },
+                    [
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "m501.453125 56.09375c-5.902344-21.933594-23.195313-39.222656-45.125-45.128906-40.066406-10.964844-200.332031-10.964844-200.332031-10.964844s-160.261719 0-200.328125 10.546875c-21.507813 5.902344-39.222657 23.617187-45.125 45.546875-10.542969 40.0625-10.542969 123.148438-10.542969 123.148438s0 83.503906 10.542969 123.148437c5.90625 21.929687 23.195312 39.222656 45.128906 45.128906 40.484375 10.964844 200.328125 10.964844 200.328125 10.964844s160.261719 0 200.328125-10.546875c21.933594-5.902344 39.222656-23.195312 45.128906-45.125 10.542969-40.066406 10.542969-123.148438 10.542969-123.148438s.421875-83.507812-10.546875-123.570312zm0 0",
+                          fill: "#f00"
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("path", {
+                        attrs: {
+                          d:
+                            "m204.96875 256 133.269531-76.757812-133.269531-76.757813zm0 0",
+                          fill: "#fff"
+                        }
+                      })
+                    ]
+                  )
+                ]
+              )
+            ]
+          )
+        ]
+      )
+    ])
+  ])
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [
-      _c("div", { staticClass: "flex flex-col sm:flex-row" }, [
-        _c("div", { staticClass: "w-full sm:w-3/5 mt-5" }, [
-          _c("img", {
-            staticClass: "mx-4 rounded-lg",
-            attrs: { src: "/images/home/carlo-home.jpg" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-2/5 flex items-center justify-center" }, [
-          _c("h1", { staticClass: "text-6xl text-blue-800 mb-4" }, [
-            _vm._v("Carl Brave")
-          ])
-        ])
-      ])
+    return _c("div", { staticClass: "w-full sm:w-3/5 mt-5 mb-3" }, [
+      _c("img", {
+        staticClass: " rounded-lg",
+        attrs: { src: "/images/home/carlo-home.jpg" }
+      })
     ])
   }
 ]
@@ -5656,7 +5923,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("div", { staticClass: "flex-col" }, [
+      _c("div", { staticClass: "flex-col mb-8" }, [
         _c("h1", { staticClass: "font-normal text-3xl leading-none mb-8" }, [
           _vm._v(" Le Polaroid ")
         ]),
@@ -5967,7 +6234,10 @@ var render = function() {
   return _c("div", [
     _c(
       "header",
-      { staticClass: "sm:flex sm:justify-between sm:px-4 sm:py-3 mb-6" },
+      {
+        staticClass:
+          "sm:flex sm:justify-between sm:items-center sm:px-8 sm:py-3 mb-6 mt-1"
+      },
       [
         _c(
           "div",
@@ -6027,21 +6297,23 @@ var render = function() {
         _c(
           "div",
           {
-            staticClass: "pl-8 py-0 sm:py-3 pb-3 sm:pb-0 sm:flex",
-            class: _vm.isOpen ? "block" : "hidden"
+            staticClass:
+              "pl-4 py-0 sm:py-3 pb-3 sm:pb-0 sm:flex sm:items-baseline",
+            class: _vm.isOpen ? "block" : "hidden",
+            attrs: { id: "menu" }
           },
           [
             _c(
               "div",
               {
-                staticClass: "px-2 font-medium text-xl mt-3 sm:-mt-1 uppercase"
+                staticClass: "px-2 font-medium text-lg mt-3 sm:mt-0 uppercase"
               },
               [_vm._v(" Vita")]
             ),
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/", exact: "" } }, [
                   _vm._v(" Home ")
@@ -6052,7 +6324,7 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/biografia" } }, [
                   _vm._v(" Bio ")
@@ -6063,7 +6335,7 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/tour" } }, [
                   _vm._v(" Tour ")
@@ -6074,7 +6346,7 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/foto" } }, [
                   _vm._v(" Foto ")
@@ -6085,7 +6357,7 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/video" } }, [
                   _vm._v(" Video ")
@@ -6099,14 +6371,14 @@ var render = function() {
             _c(
               "div",
               {
-                staticClass: "px-2 font-medium text-xl mt-3 sm:-mt-1 uppercase"
+                staticClass: "px-2 font-medium text-lg mt-3 sm:mt-0 uppercase"
               },
               [_vm._v(" Album")]
             ),
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/polaroid" } }, [
                   _vm._v(" Polaroid ")
@@ -6117,7 +6389,7 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/notti-brave" } }, [
                   _vm._v(" Notti Brave ")
@@ -6128,7 +6400,7 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
                   _vm._v(" Notti Brave After ")
@@ -6139,7 +6411,7 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", attrs: { href: "" } },
+              { staticClass: "px-2", on: { click: _vm.closeMenu } },
               [
                 _c("router-link", { attrs: { to: "/nuovo-album" } }, [
                   _vm._v(" Nuovo Album ")
@@ -6153,8 +6425,8 @@ var render = function() {
             _c(
               "a",
               {
-                staticClass: "px-2 font-medium text-xl sm:-mt-1 uppercase",
-                attrs: { href: "" }
+                staticClass: "px-2 font-medium text-lg sm:mt-0 uppercase",
+                on: { click: _vm.closeMenu }
               },
               [
                 _c("router-link", { attrs: { to: "/le-polaroid" } }, [
@@ -6177,7 +6449,7 @@ var staticRenderFns = [
     return _c("div", [
       _c("a", { attrs: { href: "/" } }, [
         _c("img", {
-          staticClass: "h-12",
+          staticClass: "-ml-3 sm:m-0 h-12",
           attrs: { src: "/images/loghi/carlo_logo2.jpg", alt: "Logo" }
         })
       ])
@@ -6253,7 +6525,7 @@ var staticRenderFns = [
                 "div",
                 {
                   staticClass:
-                    "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-5 lg:gap-20 mb-5 text-gray-700 hover:text-blue-400 hover:bg-blue-100 rounded-md px-2 py-2 my-2"
+                    "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-5 lg:gap-20 mb-5 text-gray-700 hover:text-blue-400 hover:bg-blue-100 rounded-md px-2 py-2 my-2"
                 },
                 [
                   _c("div", { staticClass: "flex-grow font-medium px-2" }, [
@@ -6272,7 +6544,7 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass:
-                        " text-base font-bold text-blue-500 hover:text-blue-700 tracking-wider uppercase cursor-pointer ml-2 lg:ml-0",
+                        " text-base font-bold text-blue-500 hover:text-blue-600 tracking-wider uppercase cursor-pointer ml-2 lg:ml-0",
                       attrs: {
                         target: "_blank",
                         href:
@@ -6288,7 +6560,7 @@ var staticRenderFns = [
                 "div",
                 {
                   staticClass:
-                    "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-5 lg:gap-20 mb-2 text-gray-700 hover:text-blue-400 hover:bg-blue-100 rounded-md px-2 py-2 my-2"
+                    "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-5 lg:gap-20 mb-2 text-gray-700 hover:text-blue-400 hover:bg-blue-100 rounded-md px-2 py-2 my-2"
                 },
                 [
                   _c("div", { staticClass: "flex-grow font-medium px-2" }, [
@@ -6307,7 +6579,7 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass:
-                        " text-base font-bold text-blue-500 hover:text-blue-700 tracking-wider uppercase cursor-pointer ml-2 lg:ml-0",
+                        " text-base font-bold text-blue-500 hover:text-blue-600 tracking-wider uppercase cursor-pointer ml-2 lg:ml-0",
                       attrs: {
                         target: "_blank",
                         href:
@@ -6375,25 +6647,20 @@ var staticRenderFns = [
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "flex flex-col lg:flex-row flex-wrap" }, [
-        _c("div", { staticClass: "w-1/2 mb-16" }, [
+        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
             attrs: {
-              width: "520",
-              height: "315",
               src: "https://www.youtube.com/embed/7c1VUPVAkPs",
               frameborder: "0",
               allow:
-                "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-              allowfullscreen: ""
+                "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             }
           })
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "w-1/2 mb-16" }, [
+        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
             attrs: {
-              width: "520",
-              height: "315",
               src: "https://www.youtube.com/embed/7FZg0uKe5DM",
               frameborder: "0",
               allow:
@@ -6403,11 +6670,9 @@ var staticRenderFns = [
           })
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "w-1/2 mb-16" }, [
+        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
             attrs: {
-              width: "520",
-              height: "315",
               src: "https://www.youtube.com/embed/pfUMEj_ZbKI",
               frameborder: "0",
               allow:
@@ -6417,11 +6682,9 @@ var staticRenderFns = [
           })
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "w-1/2 mb-16" }, [
+        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
             attrs: {
-              width: "520",
-              height: "315",
               src: "https://www.youtube.com/embed/gGp8kwz3wOI",
               frameborder: "0",
               allow:
@@ -6431,11 +6694,9 @@ var staticRenderFns = [
           })
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "w-1/2 mb-16" }, [
+        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
             attrs: {
-              width: "520",
-              height: "315",
               src: "https://www.youtube.com/embed/2smKMa2ePIU",
               frameborder: "0",
               allow:
@@ -6445,11 +6706,9 @@ var staticRenderFns = [
           })
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "w-1/2 mb-16" }, [
+        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
           _c("iframe", {
             attrs: {
-              width: "520",
-              height: "315",
               src: "https://www.youtube.com/embed/xF1iShHqJjU",
               frameborder: "0",
               allow:
@@ -6491,12 +6750,12 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("div", [
+      _c("div", { staticClass: "flex items-center justify-center sm:mt-48" }, [
         _c(
           "div",
           {
             staticClass:
-              "bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
+              "bg-white lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
           },
           [
             _c("div", { staticClass: "lg:w-1/2" }, [
@@ -6680,7 +6939,7 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", [
-    _c("div", { staticClass: "flex-col" }, [
+    _c("div", { staticClass: "flex-col mb-8" }, [
       _vm._m(0),
       _vm._v(" "),
       _c("div", { staticClass: "flex flex-col lg:flex-row mb-4" }, [
@@ -6688,7 +6947,7 @@ var render = function() {
         _vm._v(" "),
         _c(
           "ul",
-          { staticClass: "leading-7" },
+          { staticClass: "leading-7 mb-5" },
           _vm._l(_vm.canzoni, function(canzone) {
             return _c(
               "li",
@@ -6721,11 +6980,11 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c(
       "h1",
-      { staticClass: "font-normal text-3xl leading-none mb-10" },
+      { staticClass: "flex flex-col font-normal text-3xl leading-none mb-10" },
       [
-        _vm._v(" Album | \r\n            "),
-        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
-          _vm._v("Polaroid \r\n                "),
+        _vm._v(" Album  \r\n            "),
+        _c("span", { staticClass: "mt-2 uppercase text-2xl font-semibold" }, [
+          _vm._v("Polaroid \r\n            "),
           _c("span", { staticClass: "uppercase text-xl font-normal" }, [
             _vm._v("(con Franco 126)")
           ])
@@ -6737,33 +6996,36 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "mr-24 pr-20 pb-20" }, [
-      _c("img", {
-        staticClass: "mb-3",
-        staticStyle: { height: "450px" },
-        attrs: { src: "/images/albums/album-polaroid-1.jpg", alt: "logo" }
-      }),
-      _vm._v(" "),
-      _c(
-        "a",
-        {
-          staticClass:
-            "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
-          attrs: {
-            download: "Polaroid Copertina",
-            href: "/images/albums/album-polaroid-1.jpg"
-          }
-        },
-        [_vm._v("\r\n                    Copertina \r\n                ")]
-      )
-    ])
+    return _c(
+      "div",
+      { staticClass: "w-full sm:w-auto mr-24 pr-20 pb-10 sm:pb-20" },
+      [
+        _c("img", {
+          staticClass: "mb-3",
+          attrs: { src: "/images/albums/album-polaroid-1.jpg", alt: "logo" }
+        }),
+        _vm._v(" "),
+        _c(
+          "a",
+          {
+            staticClass:
+              "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+            attrs: {
+              download: "Polaroid Copertina",
+              href: "/images/albums/album-polaroid-1.jpg"
+            }
+          },
+          [_vm._v("\r\n                    Copertina \r\n                ")]
+        )
+      ]
+    )
   },
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "flex flex-col lg:flex-row" }, [
-      _c("div", { staticClass: "bg-white w-full md:w-1/3 mr-16 mb-4" }, [
+      _c("div", { staticClass: "bg-white w-full md:w-1/3 mr-16 mb-6" }, [
         _c("img", {
           staticClass: "w-full object-cover h-32 sm:h-48 md:h-64 mb-3",
           attrs: {
@@ -8279,13 +8541,13 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
@@ -8295,12 +8557,12 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
@@ -46542,14 +46804,15 @@ __webpack_require__.r(__webpack_exports__);
 /*!********************************************!*\
   !*** ./resources/js/components/Navbar.vue ***!
   \********************************************/
-/*! exports provided: default */
+/*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Navbar_vue_vue_type_template_id_6dde423b___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Navbar.vue?vue&type=template&id=6dde423b& */ "./resources/js/components/Navbar.vue?vue&type=template&id=6dde423b&");
 /* harmony import */ var _Navbar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Navbar.vue?vue&type=script&lang=js& */ "./resources/js/components/Navbar.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _Navbar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _Navbar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
 
@@ -46579,7 +46842,7 @@ component.options.__file = "resources/js/components/Navbar.vue"
 /*!*********************************************************************!*\
   !*** ./resources/js/components/Navbar.vue?vue&type=script&lang=js& ***!
   \*********************************************************************/
-/*! exports provided: default */
+/*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";

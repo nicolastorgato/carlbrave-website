@@ -18,10 +18,10 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
 [Strofa 1: Franco 126]
 Starnutisco per un'allergia
 Vino rosso sopra i vestiti che non va più via (ahhh)
@@ -49,8 +49,8 @@ Ma tanto ormai, ma tanto ormai
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
 [Strofa 2: Carl Brave]
 In mano un'IPA e si riflette sopra il suo Huawei
 Una lattina, sulla sua pelle sta contando i nei

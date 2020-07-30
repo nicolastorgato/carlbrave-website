@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Carl Brave Assets</title>
+        <title>Carl Brave </title>
 
         <link rel="stylesheet" href="/css/main.css">
 
@@ -20,12 +20,9 @@
                 <navbar></navbar>
    
                 
-                
-               
-               
                 <main class="">
 
-                    <div class="primary flex-1 px-8">
+                    <div class="primary flex-1 px-6 sm:px-12">
                         <transition name="fade" mode="out-in">
                             <router-view/>
                         </transition>

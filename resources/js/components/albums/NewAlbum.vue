@@ -1,16 +1,9 @@
 <template>
 <div>
-    <!-- <h1 class="font-normal text-3xl leading-none"> Nuovo Album</h1> -->
 
-
-    <!-- <div class="w-full min-h-full h-48 flex justify-center items-center">
-        <h1 class=" text-5xl">Prossimamente</h1>
-    </div> -->
-
-
-    <div>
+    <div class="flex items-center justify-center sm:mt-48">
         
-            <div class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
+            <div class="bg-white lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
                 <div class="lg:w-1/2">
                     <div class="h-64 bg-cover bg-center lg:rounded-lg lg:h-full" style="background-image:url('/images/varie/new-album.jpg')"></div>
                 </div>
