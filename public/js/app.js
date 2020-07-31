@@ -2348,6 +2348,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -5834,7 +5835,7 @@ var render = function() {
                 "button",
                 {
                   staticClass:
-                    "mt-10 border border-teal-500 text-teal-500 block rounded-md font-bold text-lg tracking-wider py-3 px-5 mr-2 flex items-center hover:bg-teal-500 hover:text-white focus:outline-none"
+                    "mt-10 border border-teal-500 text-teal-500 block rounded-md font-bold text-lg tracking-wider py-3 px-5 mr-2 flex items-center hover:bg-teal-500 hover:text-white focus:outline-none transition duration-500 ease-in-out transform hover:scale-105"
                 },
                 [
                   _c(
@@ -5855,7 +5856,8 @@ var render = function() {
                       })
                     ]
                   ),
-                  _vm._v("\r\n                Brave Shop\r\n            ")
+                  _vm._v(" "),
+                  _c("p", [_vm._v("Brave Shop")])
                 ]
               )
             ]
@@ -5871,6 +5873,8 @@ var render = function() {
               _c(
                 "a",
                 {
+                  staticClass:
+                    "transition duration-500 ease-in-out transform hover:scale-125",
                   attrs: {
                     href: "https://www.instagram.com/carlbrave23/",
                     target: "_blank"
@@ -5940,6 +5944,8 @@ var render = function() {
               _c(
                 "a",
                 {
+                  staticClass:
+                    "transition duration-500 ease-in-out transform hover:scale-125",
                   attrs: {
                     href: "https://it-it.facebook.com/carlbrave23/",
                     target: "_blank"
@@ -5995,6 +6001,8 @@ var render = function() {
               _c(
                 "a",
                 {
+                  staticClass:
+                    "transition duration-500 ease-in-out transform hover:scale-125",
                   attrs: {
                     href:
                       "https://www.youtube.com/channel/UCgFZq7T7O4kbFqY63Mrmypw",
@@ -6463,14 +6471,18 @@ var render = function() {
             _c(
               "div",
               {
-                staticClass: "px-2 font-medium text-lg mt-3 sm:mt-0 uppercase"
+                staticClass:
+                  "px-2 font-medium text-lg mt-3 sm:mt-0 uppercase text-gray-800"
               },
               [_vm._v(" Vita")]
             ),
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/", exact: "" } }, [
                   _vm._v(" Home ")
@@ -6481,7 +6493,10 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/biografia" } }, [
                   _vm._v(" Bio ")
@@ -6492,7 +6507,10 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/tour" } }, [
                   _vm._v(" Tour ")
@@ -6503,7 +6521,10 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/foto" } }, [
                   _vm._v(" Foto ")
@@ -6514,7 +6535,10 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/video" } }, [
                   _vm._v(" Video ")
@@ -6528,14 +6552,18 @@ var render = function() {
             _c(
               "div",
               {
-                staticClass: "px-2 font-medium text-lg mt-3 sm:mt-0 uppercase"
+                staticClass:
+                  "px-2 font-medium text-lg mt-3 sm:mt-0 uppercase text-gray-800"
               },
               [_vm._v(" Album")]
             ),
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/polaroid" } }, [
                   _vm._v(" Polaroid ")
@@ -6546,7 +6574,10 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/notti-brave" } }, [
                   _vm._v(" Notti Brave ")
@@ -6557,7 +6588,10 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
                   _vm._v(" Notti Brave After ")
@@ -6568,7 +6602,10 @@ var render = function() {
             _vm._v(" "),
             _c(
               "a",
-              { staticClass: "px-2", on: { click: _vm.closeMenu } },
+              {
+                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                on: { click: _vm.closeMenu }
+              },
               [
                 _c("router-link", { attrs: { to: "/nuovo-album" } }, [
                   _vm._v(" Nuovo Album ")
@@ -6577,12 +6614,22 @@ var render = function() {
               1
             ),
             _vm._v(" "),
+            _c(
+              "span",
+              {
+                staticClass:
+                  "flex rounded-full bg-blue-500 uppercase px-2 py-1 text-xs font-semibold"
+              },
+              [_vm._v("New")]
+            ),
+            _vm._v(" "),
             _c("div", { staticClass: "px-8 mt-4" }),
             _vm._v(" "),
             _c(
               "a",
               {
-                staticClass: "px-2 font-medium text-lg sm:mt-0 uppercase",
+                staticClass:
+                  "px-2 font-medium text-lg sm:mt-0 uppercase text-gray-800 hover:text-gray-900",
                 on: { click: _vm.closeMenu }
               },
               [
@@ -6606,7 +6653,8 @@ var staticRenderFns = [
     return _c("div", [
       _c("a", { attrs: { href: "/" } }, [
         _c("img", {
-          staticClass: "-ml-3 sm:m-0 h-12",
+          staticClass:
+            "-ml-3 sm:m-0 h-12 transition duration-500 ease-in-out transform hover:scale-105",
           attrs: { src: "/images/loghi/carlo_logo2.jpg", alt: "Logo" }
         })
       ])
@@ -6754,7 +6802,7 @@ var staticRenderFns = [
                   staticClass: "text-lg text-gray-800 rounded-md px-2 py-2 mt-4"
                 },
                 [
-                  _c("div", { staticClass: "flex-grow font-medium px-2 " }, [
+                  _c("div", { staticClass: "flex-grow font-medium px-2" }, [
                     _vm._v(" Nuove date prossimamente! Non mancate! ")
                   ])
                 ]

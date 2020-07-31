@@ -29,7 +29,7 @@
                 </div>      
                     
                 <div class="text-lg text-gray-800 rounded-md px-2 py-2 mt-4">
-                    <div class="flex-grow font-medium px-2 "> Nuove date prossimamente! Non mancate! </div>
+                    <div class="flex-grow font-medium px-2"> Nuove date prossimamente! Non mancate! </div>
                 </div>
                 
 
