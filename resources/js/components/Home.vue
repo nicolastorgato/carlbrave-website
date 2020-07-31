@@ -26,6 +26,7 @@
             </a>
 
 
+
             <div class="w-1/2 sm:w-1/5 flex items-center justify-around mt-10">
                 <a href="https://www.instagram.com/carlbrave23/" target="_blank">
                     <svg class="h-5 w-5" enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
