@@ -28,8 +28,8 @@
                        href="https://www.ticketone.it/carl-brave-biglietti.html?affiliate=ITT&doc=artistPages/tickets&fun=artist&action=tickets&kuid=540324">BIGLIETTI</a>
                 </div>      
                     
-                <div class="text-xl text-gray-800 rounded-md px-2 py-2 mt-4">
-                    <div class="flex-grow font-semibold px-2 tracking-wide"> Nuove date prossimamente! Non mancate! </div>
+                <div class="text-lg text-gray-800 rounded-md px-2 py-2 mt-4">
+                    <div class="flex-grow font-medium px-2 "> Nuove date prossimamente! Non mancate! </div>
                 </div>
                 
 

@@ -18,63 +18,72 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1: Franco 126]
-Starnutisco per un'allergia
-Vino rosso sopra i vestiti che non va più via (ahhh)
-E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)
-Dici che non ci tengo, lo sai che è una fesseria (ma va la)
-Birre come da copione, sigarette a colazione
-In piazza una chitarra suona sempre la stessa canzone
-Asfalto caldo brucia le mie suole
-Mio padre mi racconta un'altra Roma, il bagno al Fontanone
-Io barcollo che forse ne ho bevuta una di troppo
-Poi smadonno e ritornare a casa è un terno al lotto
-Con la testa sempre a un altro posto
-Mio fratello torna a casa, scalo a Francoforte
-Faccio tardi all'aereoporto
-Non si muove una foglia, mi passa la voglia
-Inzuppo il riso dentro alla salsa di soia
-Stappo queste bottiglie con un accendino
-Balliamo sopra i sampietrini con il motorino
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 1: Carl Brave]
+Pijo l'Enjoy, metto la retro
+Do un bacetto al Pandino dei tuoi
+'Na settimana che facciamo quello che vuoi
+E 'sta domenica Porta Portese è isterica
+Io con la solita scena patetica (ehi)
+Ridimmi il nome che
+Quando mi presento penso solo a come dire il mio
+Sai che so' un bravo fijo, lei mangia frutta Bio
+È del Fleming ed è come se venissimo da altri pianeti
+Così lontani però come fratelli siamesi
+La terra trema, brividi da sotto i nostri piedi
+Basterebbe preme' invio per dirti tutto in una mail
+E tu sei online ma non ci sei
+Famo una colla pe' una boccia a Ponte Milvio
+Ci contagiamo come dopo uno sbadiglio
+'Na mezza rissa con un boro x
+Mi so' scordato un'altra volta il mio codice PIN
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Franco126]
+E sì davvero stavamo un po' fuori
+Ce ne siamo dette di ogni, di tutti i colori
+Ti parlo sopra non sento ragioni
+Abbiamo chiuso porte e sbattuto i portoni
+E oggi mi sembra tutto sbagliato
+Da rifare da punto e daccapo
+Lei ha le lacrime e il trucco sbavato
+Vorrei svegliarmi che è tutto passato
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2: Carl Brave]
-In mano un'IPA e si riflette sopra il suo Huawei
-Una lattina, sulla sua pelle sta contando i nei
-Dici che ti ho tradita e che penso a lei (lei, ehi)
-Noi sopra un pedalò
-Ho visto la vita da un oblò e ho detto no
-Mi sono perso, poi tu mi hai dato in mano un TomTom
-Sono passato da fase REM a fase Rom
-Roma d'estate è sola, io col cuore in gola
-Lei che era bella bionda ora s'è fatta mora
-Squaglio le cioce sui sampietrini, amici desaparecidi
-Americane alla John Cabot, parcheggiatori abusivi
-La solita vecchia Santa Maria, 
-'na margherita a porta' via
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 2: Franco126]
+Lei si specchia con la selfie dell'iPhone
+Beve Sauvignon
+Un urlo tra i palazzi: la Roma avrà fatto un gol
+A una piotta sull'Enjoy, buchiamo un altro stop
+Abbiamo litigato e mi pareva una sitcom
+E fuori è tutto buio
+A parte qualche luce blu e una farmacia di turno
+Mi sei sparita giusto nel tempo di uno starnuto
+E io cocciuto che so' tre ore che ti chiamo
+Ma tu metti in muto
+C’è la tramontana e un tormentone in radio
+Giacche false a metà prezzo a un banco di Via Sannio
+Hai rubato tutte le mie felpe dall'armadio
+So' aumentate anche le sigarette al tabaccaio
+So per certo cosa dire ma non te l’ho detto mai
+E mi esce solo un "Come stai?"
+C’è un Super Tele che galleggia sopra il Tevere
+Una boccata al mozzicone e soffio via la cenere
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Franco126]
+E sì davvero stavamo un po' fuori
+Ce ne siamo dette di ogni, di tutti i colori
+Ti parlo sopra non sento ragioni
+Abbiamo chiuso porte e sbattuto i portoni
+E oggi mi sembra tutto sbagliato
+Da rifare da punto e daccapo
+Lei ha le lacrime e il trucco sbavato
+Vorrei svegliarmi che è tutto passato
             </p>
         </div>
 

@@ -18,63 +18,73 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1: Franco 126]
-Starnutisco per un'allergia
-Vino rosso sopra i vestiti che non va più via (ahhh)
-E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)
-Dici che non ci tengo, lo sai che è una fesseria (ma va la)
-Birre come da copione, sigarette a colazione
-In piazza una chitarra suona sempre la stessa canzone
-Asfalto caldo brucia le mie suole
-Mio padre mi racconta un'altra Roma, il bagno al Fontanone
-Io barcollo che forse ne ho bevuta una di troppo
-Poi smadonno e ritornare a casa è un terno al lotto
-Con la testa sempre a un altro posto
-Mio fratello torna a casa, scalo a Francoforte
-Faccio tardi all'aereoporto
-Non si muove una foglia, mi passa la voglia
-Inzuppo il riso dentro alla salsa di soia
-Stappo queste bottiglie con un accendino
-Balliamo sopra i sampietrini con il motorino
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 1: Carl Brave]
+Onda verde per le strade la mattina
+Sosta all'Eni col profumo di benzina
+Una filippina ferma a una panchina (sognando Manila)
+Mi finisco questo scolo di Punk-IPA
+E sto all'Anagnina co' una signorina (ehi prego)
+Ma lei non si fida, cheregazzina
+È nervosa parla gioca a fa la diva
+Dice che l'ex uomo non l'ha mai capita
+Mo che hai suonato canta
+C'ho i buffi con la banca
+E mia madre è sempre stanca (mamma)
+No svolte ma si campa (dai)
+E lei mi piace e non mi so' mai avvicinato (mai)
+Solo quella volta in cui ero allucinato
+Che regazzino, sarà pe' il vino
+Sarà pe' una battuta un po' di serie b, detta così
+Ma in buona fede
+Che non si vede?
+Ma chi ci crede
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Carl Brave & Franco126]
+E m'ha attaccato col pippone di due ore
+Io ancora cotto dall'hangover
+Io che volevo fa' il piacione
+T'ho detto ciao e te ciaone
+Cheregazzina cheregazzina
+Cheregazzina cheregazzina
+Cheregazzina cheregazzina
+Cheregazzina cheregazzina
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2: Carl Brave]
-In mano un'IPA e si riflette sopra il suo Huawei
-Una lattina, sulla sua pelle sta contando i nei
-Dici che ti ho tradita e che penso a lei (lei, ehi)
-Noi sopra un pedalò
-Ho visto la vita da un oblò e ho detto no
-Mi sono perso, poi tu mi hai dato in mano un TomTom
-Sono passato da fase REM a fase Rom
-Roma d'estate è sola, io col cuore in gola
-Lei che era bella bionda ora s'è fatta mora
-Squaglio le cioce sui sampietrini, amici desaparecidi
-Americane alla John Cabot, parcheggiatori abusivi
-La solita vecchia Santa Maria, 
-'na margherita a porta' via
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 2: Franco126]
+Palleggiamo una boccia di falanghina (tie' pija)
+In piazzetta bori stanno in comitiva (aoh)
+Sembro uscito da uno dei film dei Vanzina
+Siamo belli andanti tutti in parlantina
+C'è questa tipa (mbè) da copertina (eeh!)
+Ma non si fida (eh che?) cheregazzina (cheregazzina)
+Io parlo a vanvera, sta' a fa' la splendida
+Quando apre bocca giuro mi farei una pennica
+E lei è amica di un'amica di un'amica mia (ah sì?)
+Sogna Bahia, prende la vita con filosofia
+Barcollo, pare sto facendo una coreografia
+Metti ci sta, io tocco ferro per scaramanzia (tie')
+Cheregazzina
+Due ore che gli faccio il filo ma comunque se la tira (se la tira)
+Prendo una bira
+E una schedina che magari vinco pure diecimila
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Bridge: Carl Brave x Franco126]
+Eddai, ma perché non ci stai?
+Resta qua, dove vai?
+Sai, colpa del Ballantine aiaiaiai
+Eddai, ma perché non ci stai?
+Resta qua, dove vai?
+Sai, colpa del Ballantine aiaiaiai
+Eddai, ma perché non ci stai?
+Resta qua, dove vai?
+Sai, colpa del Ballantine aiaiaiai
             </p>
         </div>
 

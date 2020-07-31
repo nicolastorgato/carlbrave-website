@@ -63,7 +63,7 @@ export default {
 
     methods: {
 		closeMenu () {
-            setTimeout(() => { this.isOpen = !this.isOpen }, 800);
+            setTimeout(() => { this.isOpen = !this.isOpen }, 700);
 		}
 	}
 

@@ -18,63 +18,73 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1: Franco 126]
-Starnutisco per un'allergia
-Vino rosso sopra i vestiti che non va più via (ahhh)
-E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)
-Dici che non ci tengo, lo sai che è una fesseria (ma va la)
-Birre come da copione, sigarette a colazione
-In piazza una chitarra suona sempre la stessa canzone
-Asfalto caldo brucia le mie suole
-Mio padre mi racconta un'altra Roma, il bagno al Fontanone
-Io barcollo che forse ne ho bevuta una di troppo
-Poi smadonno e ritornare a casa è un terno al lotto
-Con la testa sempre a un altro posto
-Mio fratello torna a casa, scalo a Francoforte
-Faccio tardi all'aereoporto
-Non si muove una foglia, mi passa la voglia
-Inzuppo il riso dentro alla salsa di soia
-Stappo queste bottiglie con un accendino
-Balliamo sopra i sampietrini con il motorino
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 1: Franco126]
+Sto bestemmiando da due ore contro un bancomat
+Mi sa tanto che mi ha fregato la mia MasterCard
+Lei su un gradino che sta litigando coi collant
+E ci mancavano solo le rose e il vucumprà
+A cosa serve il Conto Arancio se sto sempre in rosso
+Mi sto fumando sotto
+Per darti spago ho perso il filo del discorso
+Pareva una sitcom sì con le risate sotto
+Dici che faccio "bla bla bla"
+Io sento solo "co-co-dè"
+E barcolliamo un cha cha cha
+Tranquilla bevo anche per te
+Eh, ehi-eh eh
+Caffè amaro
+Cerco il telecomando tra i cuscini del divano
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Franco126]
+Ho fatto una battuta e non faceva ride' (ehi-eh)
+Di colpo il gelo non sapevo più che dire (ehi-eh)
+M'hai detto famo aperitivo io ho preso tre bire (eh)
+E ho finito pure le tue noccioline (ehi-eh)
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
 [Strofa 2: Carl Brave]
-In mano un'IPA e si riflette sopra il suo Huawei
-Una lattina, sulla sua pelle sta contando i nei
-Dici che ti ho tradita e che penso a lei (lei, ehi)
-Noi sopra un pedalò
-Ho visto la vita da un oblò e ho detto no
-Mi sono perso, poi tu mi hai dato in mano un TomTom
-Sono passato da fase REM a fase Rom
-Roma d'estate è sola, io col cuore in gola
-Lei che era bella bionda ora s'è fatta mora
-Squaglio le cioce sui sampietrini, amici desaparecidi
-Americane alla John Cabot, parcheggiatori abusivi
-La solita vecchia Santa Maria, 
-'na margherita a porta' via
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+Tuo nonno m'ha detto che era meglio quando c'era lui
+E che so' tu-tutte ingiurie e che è su tu-tutte le furie
+(Eh, hey)
+Voglio mangiare fino a stare male
+Acqua e vino a colorare, lascia fare
+Lei mi rimbalza come l'acqua sul cucchiaio
+Dice me ne dice un paio se non me la squaglio
+Oh, hey
+Ma prima passami la maio
+Dice non mi sono accorto del suo nuovo taglio
+Sei un rigore tirato di petto ma
+T'ho fatta ride con un meme di Putin a petto
+E t'ho ripresa (ahi, ahi)
+Ma continui a fa' l'offesa
+Che scesa (ahi, ahi)
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Bridge: Carl Brave e Franco126]
+Ah
+Che stai a fa'
+Noi sempre al bar
+E siamo ancora in giro
+Ah
+Che stai a fa'
+Noi sempre al bar
+E siamo ancora in giro
+
+[Ritornello: Franco126]
+Ho fatto una battuta e non faceva ride' (ehi-eh)
+Di colpo il gelo non sapevo più che dire (ehi-eh)
+M'hai detto famo aperitivo io ho preso tre bire
+E ho finito pure le tue noccioline (ehi-eh)
+Ho fatto una battuta e non faceva ride' (ehi-eh)
+Di colpo il gelo non sapevo più che dire (ehi-eh)
+M'hai detto famo aperitivo io ho preso tre bire
+E ho finito pure le tue noccioline (ehi-eh)
             </p>
         </div>
 

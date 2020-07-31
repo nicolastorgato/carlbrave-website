@@ -18,10 +18,10 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
 [Strofa 1: Franco126]
 Io faccio lo scemo ma co' lei no, non attacca
 Io tipo da Campari, lei da oliva nel Manhattan
@@ -49,8 +49,8 @@ E invece ognuno per le sue
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
 [Strofa 2: Carl Brave]
 Sveglia all'alba pe' 'l mercato delle sette
 Ho tamponato una mini ferma al verde

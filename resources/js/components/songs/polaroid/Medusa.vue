@@ -18,63 +18,71 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1: Franco 126]
-Starnutisco per un'allergia
-Vino rosso sopra i vestiti che non va più via (ahhh)
-E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)
-Dici che non ci tengo, lo sai che è una fesseria (ma va la)
-Birre come da copione, sigarette a colazione
-In piazza una chitarra suona sempre la stessa canzone
-Asfalto caldo brucia le mie suole
-Mio padre mi racconta un'altra Roma, il bagno al Fontanone
-Io barcollo che forse ne ho bevuta una di troppo
-Poi smadonno e ritornare a casa è un terno al lotto
-Con la testa sempre a un altro posto
-Mio fratello torna a casa, scalo a Francoforte
-Faccio tardi all'aereoporto
-Non si muove una foglia, mi passa la voglia
-Inzuppo il riso dentro alla salsa di soia
-Stappo queste bottiglie con un accendino
-Balliamo sopra i sampietrini con il motorino
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 1: Carl Brave]
+Abbiamo portato tuo fratello all'Aquafan
+Ha pisciato in acqua e tu gli hai detto "Ba'"
+Perché si inizia a colorare, ti vorresti sotterrare (giù)
+Io che volevo andare al mare
+Un boro co' una maglia "Italians do it better" (oh)
+Lei cammina a passo svelto è fiera del suo setter
+Litighiamo, pare un telefilm di La7
+Abbiamo urlato e pareva che il cielo cadesse
+T’ho scroccato una ciospa anche se non fumo, eh
+Fai trentuno t'ho portata ad Anzio a mangia' il crudo, eh
+Tu che dobbiamo parlare io che resto muto
+In tv un imbecille dice "Italia 1"
+Vorrei lasciare tutto quanto per un chiosco a Bali
+Un cartello dice "Shark attack" e non è Cali
+Noi che d'inverno ci vestiamo a strati
+D'estate famo l'alba e al mare ci andiamo domani
+Lei è spiaggiata che mi scrive "Amore mio ma quando cali"
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Carl Brave]
+Io che t'ho dato tutto mo non posso lascia' mance
+E mi puoi dire tutto tanto tutto non mi tange
+Uramaki California la mia amica
+A caccia di surfisti abbronzi in California
+T’aspetto di qua, non ci so' Cadillac
+Abbiamo fatto crack e amo' lasciami stare
+Io che volevo solo il mare
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2: Carl Brave]
-In mano un'IPA e si riflette sopra il suo Huawei
-Una lattina, sulla sua pelle sta contando i nei
-Dici che ti ho tradita e che penso a lei (lei, ehi)
-Noi sopra un pedalò
-Ho visto la vita da un oblò e ho detto no
-Mi sono perso, poi tu mi hai dato in mano un TomTom
-Sono passato da fase REM a fase Rom
-Roma d'estate è sola, io col cuore in gola
-Lei che era bella bionda ora s'è fatta mora
-Squaglio le cioce sui sampietrini, amici desaparecidi
-Americane alla John Cabot, parcheggiatori abusivi
-La solita vecchia Santa Maria, 
-'na margherita a porta' via
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 2: Franco126]
+Do un calcio a un Super Santos, ma va un po' dove vuole lui
+Alzo lo sguardo al cielo e strizzo gli occhi al sole
+Nel naso il fumo di uno zampirone
+Il ronzio di zanzare e quello del ventilatore
+Scendi sotto casa e ti passo a pigliare
+Ed oggi il meteo dice che il mare è una tavola
+Ma sto da un'ora fermo in coda in tangenziale
+Butto dal finestrino lo stecco di un Fior di Fragola
+E se resto qua-ah e quando passi fammi un fischio
+Stesso ba-ar e quando vuoi mi trovi là, ehi
+Sulla mano un timbro sbiadito
+Lei attacca sempre al quarto squillo
+Macchia di rossetto il filtro della Winston
+Metti che pijo un last minute e mi invento un'altra vita
+Mi subaffitto casa e scappo per la Costa Rica
+Ritiro gli ultimi risparmi che c’ho sulla VISA
+E come è ita è ita
+Mi penso sopra la spiaggia di quel depliant
+Intanto accolla due spicci per il Telepass
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Carl Brave]
+Io che t'ho dato tutto mo non posso lascia' mance
+E mi puoi dire tutto tanto tutto non mi tange
+Uramaki California la mia amica
+A caccia di surfisti abbronzi in California
+T’aspetto di qua, non ci so' Cadillac
+Abbiamo fatto crack e amo' lasciami stare
+Io che volevo solo il mare
             </p>
         </div>
 

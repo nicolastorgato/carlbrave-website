@@ -18,63 +18,68 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1: Franco 126]
-Starnutisco per un'allergia
-Vino rosso sopra i vestiti che non va più via (ahhh)
-E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)
-Dici che non ci tengo, lo sai che è una fesseria (ma va la)
-Birre come da copione, sigarette a colazione
-In piazza una chitarra suona sempre la stessa canzone
-Asfalto caldo brucia le mie suole
-Mio padre mi racconta un'altra Roma, il bagno al Fontanone
-Io barcollo che forse ne ho bevuta una di troppo
-Poi smadonno e ritornare a casa è un terno al lotto
-Con la testa sempre a un altro posto
-Mio fratello torna a casa, scalo a Francoforte
-Faccio tardi all'aereoporto
-Non si muove una foglia, mi passa la voglia
-Inzuppo il riso dentro alla salsa di soia
-Stappo queste bottiglie con un accendino
-Balliamo sopra i sampietrini con il motorino
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 1: Carl Brave]
+Eri girasole e poi sei diventata ortica, da
+Gemelli siamesi a "Giuro non ti ho mai capita" e
+Ti ho chiamata con un filo tra i bicchieri e
+Ti rivedo dopo anni e sembra ieri
+Stesi sotto i platani
+Sopra una rivista vintage che parla di Platini
+Dici se esce femmina la chiameremo Natalie
+Io poi ho fatto le corna eh
+Canticchiando un ritornello in un inglese fake oh (sorry)
+Tu dimmi cosa vedi nella forma delle nuvole
+Al cinema l'ennesimo remake ne sono usciti tre
+Di quel film cult che non ho visto mai
+Ma che danno ogni Natale in Rai
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Bridge: Franco126]
+E mano nella mano
+Si incrocia la mia linea della vita con la tua
+Com’edere sul muro che si affaccia sulla via (eh)
+Ci perdiamo nel ghiaccio di un bicchiere di Kahlúa
+Brindiamo alla mia, brindiamo alla tua
+
+[Ritornello: Carl Brave e Franco126]
+Alla mia, alla tua
+Brindiamo alla mia, brindiamo alla tua
+Alla mia, alla tua
+Brindiamo alla mia, brindiamo alla tua
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2: Carl Brave]
-In mano un'IPA e si riflette sopra il suo Huawei
-Una lattina, sulla sua pelle sta contando i nei
-Dici che ti ho tradita e che penso a lei (lei, ehi)
-Noi sopra un pedalò
-Ho visto la vita da un oblò e ho detto no
-Mi sono perso, poi tu mi hai dato in mano un TomTom
-Sono passato da fase REM a fase Rom
-Roma d'estate è sola, io col cuore in gola
-Lei che era bella bionda ora s'è fatta mora
-Squaglio le cioce sui sampietrini, amici desaparecidi
-Americane alla John Cabot, parcheggiatori abusivi
-La solita vecchia Santa Maria, 
-'na margherita a porta' via
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 2: Franco126]
+Sul 9 un film in cui vincono i buoni, guardo fuori e sembra ieri
+Con la pioggia nei bicchieri e la testa sempre altrove
+Aspettando da ore il 19 che non passa
+Bastava uno sbadiglio e non servivano parole (eh eh)
+Forse mi stai pensando che mi fischiano le orecchie (eh eh)
+Non ho memoria breve non mantengo le promesse mai (eh)
+Rincorro sempre le lancette
+C’è qualcuno nella tasca che mi annoda le cuffiette sai
+Resto solo in bilico sopra un filo di fumo
+Con l’amaro dei caffè che non abbiamo mai bevuto
+So dove vuoi andare a parare ma ti lascio parlare
+C’è un vento che strattona le persiane
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Bridge: Franco126]
+E mano nella mano
+Si incrocia la mia linea della vita con la tua
+Com’edere sul muro che si affaccia sulla via (eh)
+Ci perdiamo nel ghiaccio di un bicchiere di Kahlúa
+Brindiamo alla mia, brindiamo alla tua
+
+[Ritornello: Carl Brave e Franco126]
+Alla mia alla tua
+Brindiamo alla mia brindiamo alla tua
+Alla mia alla tua
+Brindiamo alla mia brindiamo alla tua
             </p>
         </div>
 

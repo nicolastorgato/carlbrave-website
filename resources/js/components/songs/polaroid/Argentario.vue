@@ -18,63 +18,90 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1: Franco 126]
-Starnutisco per un'allergia
-Vino rosso sopra i vestiti che non va più via (ahhh)
-E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)
-Dici che non ci tengo, lo sai che è una fesseria (ma va la)
-Birre come da copione, sigarette a colazione
-In piazza una chitarra suona sempre la stessa canzone
-Asfalto caldo brucia le mie suole
-Mio padre mi racconta un'altra Roma, il bagno al Fontanone
-Io barcollo che forse ne ho bevuta una di troppo
-Poi smadonno e ritornare a casa è un terno al lotto
-Con la testa sempre a un altro posto
-Mio fratello torna a casa, scalo a Francoforte
-Faccio tardi all'aereoporto
-Non si muove una foglia, mi passa la voglia
-Inzuppo il riso dentro alla salsa di soia
-Stappo queste bottiglie con un accendino
-Balliamo sopra i sampietrini con il motorino
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Intro: Franco126]
+Ooh ooh ooh
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Strofa 1: Franco126]
+Hanno lasciato aperto al quarto piano l'ascensore
+Salgo le scale a due a due di prescia col fiatone
+Accanno il cornicione della pizza nel cartone
+Hanno fatto i baffi alla modella su quel cartellone
+Ho detto tante cazzate che ho battuto tutti i record (oh oh)
+In tasca il tuo accendino e mi hai detto "Si chiama Pietro" (ehi)
+Siamo finiti contro un cedro con la station wagon (che?)
+E le gocce di pioggia si rincorrono sul viso
+E io qui che ci faccio, che poi vorrei tutt'altro
+E poi c'è troppo chiasso, 'sto drink è tutto ghiaccio (aah)
+Abbiamo corso troppo e forse io non stavo al passo
+Mi hai urlato ogni rimpianto
+Ma più che un grido sembrava un pianto (aah)
+Lo so ti ho detto una bugia ma era sincera (ah ah)
+E so che non lo pensi che è una cattiveria (ah ah)
+Mi bevo a grossi sorsi 'sto sabato sera (ah ah)
+Te l'ho giurato a dita incrociate dietro la schiena (ah ah)
+
+[Ritornello: Carl Brave x Franco126]
+Oh oh oh oh
+Sei in testa come un pezzo in radio
+Oh oh oh oh
+Mi accendo una ciospa al contrario
+Oh oh oh oh
+Noi che non siamo mai in orario
+Oh oh oh oh
+E sei scappata all'Argentario
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
 [Strofa 2: Carl Brave]
-In mano un'IPA e si riflette sopra il suo Huawei
-Una lattina, sulla sua pelle sta contando i nei
-Dici che ti ho tradita e che penso a lei (lei, ehi)
-Noi sopra un pedalò
-Ho visto la vita da un oblò e ho detto no
-Mi sono perso, poi tu mi hai dato in mano un TomTom
-Sono passato da fase REM a fase Rom
-Roma d'estate è sola, io col cuore in gola
-Lei che era bella bionda ora s'è fatta mora
-Squaglio le cioce sui sampietrini, amici desaparecidi
-Americane alla John Cabot, parcheggiatori abusivi
-La solita vecchia Santa Maria, 
-'na margherita a porta' via
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+Che zella abbiamo messo sotto un gatto nero a Ostia (ehi)
+Ero ustionato cotto al sole come un'aragosta (ehi)
+C'è il suo ex che ancora le fa le poste (eh)
+La avviso fingendo colpi di tosse (coff coff)
+Due tossici mi fermano in una piazza vuota (yeah)
+Mi chiedono una firma per dire di no alla droga
+Tu eri nervosa hai detto: ''Bah, ora faccio yoga''
+E m'hai strillato tutto contro che mo c'hai la voce roca (eeh)
+In tv Banderas con Rosita, in tasca Morositas
+E stai davanti a me ma lo sento che ormai sei ita
+E t'ho promesso una vita da Costa Rica
+Fermi su lungotevere a partita finita (via)
+Rido alla battuta tua anche se non l'ho capita (ahah)
+Nella sabbia una siringa e un guscio di tellina (eh eh)
+Da un bacio rubato siamo stati vita (e poi?)
+Vicini di rubrica nell'iPhone della tua amica
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Carl Brave x Franco126]
+Oh oh oh oh
+Sei in testa come un pezzo in radio
+Oh oh oh oh
+Mi accendo una ciospa al contrario
+Oh oh oh oh
+Noi che non siamo mai in orario
+Oh oh oh oh
+E sei scappata all'Argentario
+
+[Bridge: Carl Brave]
+Ora no, non mi va, parla tu, non dico ah
+Se vuoi vai, resto qua, troppi drink, patatrac
+Autostop, e si va, dici vai, resto qua
+Sei andata via in un bonsoir
+A fior di pelle il nostro DNA
+
+[Ritornello: Carl Brave x Franco126]
+Oh oh oh oh
+Sei in testa come un pezzo in radio
+Oh oh oh oh
+Mi accendo una ciospa al contrario
+Oh oh oh oh
+Noi che non siamo mai in orario
+Oh oh oh oh
+E sei scappata all'Argentario
             </p>
         </div>
 

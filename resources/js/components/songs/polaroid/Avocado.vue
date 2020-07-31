@@ -18,63 +18,80 @@
         
     
 
-    <div class="flex">
+    <div class="flex flex-col sm:flex-row mb-8">
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1: Franco 126]
-Starnutisco per un'allergia
-Vino rosso sopra i vestiti che non va più via (ahhh)
-E tu che mi dai contro, tanto è sempre colpa mia (colpa mia)
-Dici che non ci tengo, lo sai che è una fesseria (ma va la)
-Birre come da copione, sigarette a colazione
-In piazza una chitarra suona sempre la stessa canzone
-Asfalto caldo brucia le mie suole
-Mio padre mi racconta un'altra Roma, il bagno al Fontanone
-Io barcollo che forse ne ho bevuta una di troppo
-Poi smadonno e ritornare a casa è un terno al lotto
-Con la testa sempre a un altro posto
-Mio fratello torna a casa, scalo a Francoforte
-Faccio tardi all'aereoporto
-Non si muove una foglia, mi passa la voglia
-Inzuppo il riso dentro alla salsa di soia
-Stappo queste bottiglie con un accendino
-Balliamo sopra i sampietrini con il motorino
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 1: Carl Brave]
+C'è una fila greve, arriverò tra due mesetti
+Colpa di Alì al semaforo che vende i fazzoletti
+Pensavo fosse un buon amico, ma era Tavernello
+Urliamo come in spiaggia:
+"Bello cocco, cocco bello" ("cocco fresc'")
+'Sta vita è falsa e arriva come una cinquina (fake)
+Come una madonnina in miniatura made in Cina (ehi)
+E se il cameriere poi ci chiederà chi assaggia, beh
+Annuso il bicchiere come fossi sempre stato un sommelier
+Che poi sa di tappo (poro poro po po)
+Ho mangiato troppo, svacco (poro poro po po)
+Lei sta fuori di melone, piange e scoppia a ride (ehi)
+Non a caso l'uragano ha un nome femminile
+Gladiatori fanno foto al Colosseo
+Lei mi dice: "Non c'ho un euro, offri te, non fa l'ebreo"
+T'ho scritto ti amo, ho fatto sei a Scarabeo
+Non ci rivedremo più come alla cena del liceo
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Carl Brave]
+Avocado, forse dovrei chiamare il mio avvocato (ehi)
+Sei troppo fake, fake, fake, fake, fake
+Troppo fake, fake, fake, fake, fake
+Avocado, forse dovrei chiamare il mio avvocato (ehi)
+Sei troppo fake, fake, fake, fake, fake
+Troppo fake, fake, fake, fake, fake
             </p>
         </div>
 
-        <div class="w-1/3 mr-24">
-            <p class="text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2: Carl Brave]
-In mano un'IPA e si riflette sopra il suo Huawei
-Una lattina, sulla sua pelle sta contando i nei
-Dici che ti ho tradita e che penso a lei (lei, ehi)
-Noi sopra un pedalò
-Ho visto la vita da un oblò e ho detto no
-Mi sono perso, poi tu mi hai dato in mano un TomTom
-Sono passato da fase REM a fase Rom
-Roma d'estate è sola, io col cuore in gola
-Lei che era bella bionda ora s'è fatta mora
-Squaglio le cioce sui sampietrini, amici desaparecidi
-Americane alla John Cabot, parcheggiatori abusivi
-La solita vecchia Santa Maria, 
-'na margherita a porta' via
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+        <div class="w-full sm:w-1/3 mr-24">
+            <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
+[Strofa 2: Franco126]
+Lei mette sei magliette ed esce vaga da H&M
+Poi suona l'antitaccheggio e dà la colpa a me (ehi-eh-eh)
+Mi serve calma zen
+Che il buttafuori vuole un tête-à-tête (eh-eh)
+Lei mette il muso per ripicca
+Sto sempre ad inseguirla
+Ma ormai è partita in quinta
+Aspetta in fila alla shampista
+Mentre disegna sulle facce sopra una rivista
+Siamo entrati e guardo già la scritta exit
+Stavo meglio a casa co' una birra e Netflix
+Era tutto già scritto
+Lei passa per di qua ma fa finta che non m’ha visto
+O-o-ops, mega grezza con quelle tue amiche snob (ops)
+Finisco a manciate tutti i Coco Pops
+C'ha accannato in strada anche la Car2Go, no, no, no
 
-[Ritornello: Franco 126]
-Tu come stai? È un po' che non ci sentiamo
-Io solo guai, meglio se non ne parliamo
-Ti direi dai, prendi un aereo e partiamo
-Ma tanto ormai, ma tanto ormai
+[Ritornello: Carl Brave]
+Avocado, forse dovrei chiamare il mio avvocato (ehi)
+Sei troppo fake, fake, fake, fake, fake
+Troppo fake, fake, fake, fake, fake
+Avocado, forse dovrei chiamare il mio avvocato (ehi)
+Sei troppo fake, fake, fake, fake, fake
+Troppo fake, fake, fake, fake, fake
+
+[Bridge: Carl Brave x Franco126]
+Mayday (mayday), bye bye (bye bye)
+Sei un tuffo nel mare a banzai
+Mayday (mayday), bye bye (bye bye)
+Sei un tuffo in un mare di guai
+Mayday (mayday), bye bye (bye bye)
+Sei un tuffo nel mare a banzai
+Sei un tuffo in un mare di guai
+
+[Outro: Carl Brave]
+Avocado
+Sei troppo fake, fake, fake, fake, fake
+Troppo fake, fake, fake, fake, fake
             </p>
         </div>
 

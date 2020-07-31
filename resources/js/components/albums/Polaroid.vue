@@ -12,9 +12,12 @@
 
             <div class="w-full sm:w-auto mr-24 pr-20 pb-10 sm:pb-20">
                 <img class="mb-3" src="/images/albums/album-polaroid-1.jpg" alt="logo" />
-                <a download="Polaroid Copertina" href="/images/albums/album-polaroid-1.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                <a href="/images/albums/album-polaroid-1.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Copertina 
                 </a>
+                <!-- <a download="Polaroid Copertina" href="/images/albums/album-polaroid-1.jpg" class="">
+                    Cosi cliccando sul link si scarica direttamente l'immagine (download diretto)
+                </a> -->
             </div>
 
 

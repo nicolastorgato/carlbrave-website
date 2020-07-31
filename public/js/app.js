@@ -2060,6 +2060,20 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -2073,7 +2087,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
 //
 //
 //
@@ -2347,7 +2360,7 @@ __webpack_require__.r(__webpack_exports__);
 
       setTimeout(function () {
         _this.isOpen = !_this.isOpen;
-      }, 800);
+      }, 700);
     }
   }
 });
@@ -2655,6 +2668,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -2897,6 +2913,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -2910,6 +2931,33 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3095,6 +3143,23 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -3108,6 +3173,16 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3293,6 +3368,15 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -3306,6 +3390,16 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3491,6 +3585,14 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -3504,6 +3606,16 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3689,6 +3801,14 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -3786,8 +3906,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -3801,6 +3919,12 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -4100,6 +4224,16 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -5473,10 +5607,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
-            attrs: {
-              src: "/images/foto/carlbrave-1.jpg",
-              alt: "Copertina (versione 2)"
-            }
+            attrs: { src: "/images/foto/carlbrave-1.jpg", alt: "Caciarone" }
           }),
           _vm._v(" "),
           _c(
@@ -5493,10 +5624,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
-            attrs: {
-              src: "/images/foto/carlbrave-2.jpg",
-              alt: "Copertina (versione 3)"
-            }
+            attrs: { src: "/images/foto/carlbrave-2.jpg", alt: "Sempre a bere" }
           }),
           _vm._v(" "),
           _c(
@@ -5519,7 +5647,7 @@ var staticRenderFns = [
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: {
               src: "/images/foto/carlbrave-3.jpg",
-              alt: "Copertina (versione 2)"
+              alt: "Classico Carlo"
             }
           }),
           _vm._v(" "),
@@ -5541,10 +5669,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
-            attrs: {
-              src: "/images/foto/carlbrave-4.jpg",
-              alt: "Copertina (versione 3)"
-            }
+            attrs: { src: "/images/foto/carlbrave-4.jpg", alt: "'co Franco" }
           }),
           _vm._v(" "),
           _c(
@@ -5561,10 +5686,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
-            attrs: {
-              src: "/images/foto/carlbrave-5.jpg",
-              alt: "Copertina (versione 3)"
-            }
+            attrs: { src: "/images/foto/carlbrave-5.jpg", alt: "Modello" }
           }),
           _vm._v(" "),
           _c(
@@ -5582,10 +5704,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass:
               "w-full object-cover object-top h-48 sm:h-48 md:h-64 mb-3",
-            attrs: {
-              src: "/images/foto/carlbrave-6.jpg",
-              alt: "Copertina (versione 3)"
-            }
+            attrs: { src: "/images/foto/carlbrave-6.jpg", alt: "Red Bull" }
           }),
           _vm._v(" "),
           _c(
@@ -5602,10 +5721,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
-            attrs: {
-              src: "/images/foto/carlbrave-7.jpg",
-              alt: "Copertina (versione 3)"
-            }
+            attrs: { src: "/images/foto/carlbrave-7.jpg", alt: "Più caciara" }
           }),
           _vm._v(" "),
           _c(
@@ -5616,6 +5732,47 @@ var staticRenderFns = [
               attrs: { href: "/images/foto/carlbrave-7.jpg" }
             },
             [_vm._v("\r\n                    Più caciara\r\n                ")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+          _c("img", {
+            staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
+            attrs: { src: "/images/foto/carlbrave-8.jpg", alt: "Live in due" }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+              attrs: { href: "/images/foto/carlbrave-8.jpg" }
+            },
+            [_vm._v("\r\n                    Live in due\r\n                ")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+          _c("img", {
+            staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
+            attrs: {
+              src: "/images/foto/carlbrave-9.png",
+              alt: "Polaroid sobrie"
+            }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+              attrs: { href: "/images/foto/carlbrave-9.png" }
+            },
+            [
+              _vm._v(
+                "\r\n                    Polaroid sobrie\r\n                "
+              )
+            ]
           )
         ])
       ])
@@ -6594,16 +6751,12 @@ var staticRenderFns = [
               _c(
                 "div",
                 {
-                  staticClass: "text-xl text-gray-800 rounded-md px-2 py-2 mt-4"
+                  staticClass: "text-lg text-gray-800 rounded-md px-2 py-2 mt-4"
                 },
                 [
-                  _c(
-                    "div",
-                    {
-                      staticClass: "flex-grow font-semibold px-2 tracking-wide"
-                    },
-                    [_vm._v(" Nuove date prossimamente! Non mancate! ")]
-                  )
+                  _c("div", { staticClass: "flex-grow font-medium px-2 " }, [
+                    _vm._v(" Nuove date prossimamente! Non mancate! ")
+                  ])
                 ]
               )
             ])
@@ -7016,10 +7169,7 @@ var staticRenderFns = [
           {
             staticClass:
               "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
-            attrs: {
-              download: "Polaroid Copertina",
-              href: "/images/albums/album-polaroid-1.jpg"
-            }
+            attrs: { href: "/images/albums/album-polaroid-1.jpg" }
           },
           [_vm._v("\r\n                    Copertina \r\n                ")]
         )
@@ -7203,32 +7353,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              ' \r\n[Strofa 1: Carl Brave]\r\nEri girasole e poi sei diventata ortica, da\r\nGemelli siamesi a "Giuro non ti ho mai capita" e\r\nTi ho chiamata con un filo tra i bicchieri e\r\nTi rivedo dopo anni e sembra ieri\r\nStesi sotto i platani\r\nSopra una rivista vintage che parla di Platini\r\nDici se esce femmina la chiameremo Natalie\r\nIo poi ho fatto le corna eh\r\nCanticchiando un ritornello in un inglese fake oh (sorry)\r\nTu dimmi cosa vedi nella forma delle nuvole\r\nAl cinema l\'ennesimo remake ne sono usciti tre\r\nDi quel film cult che non ho visto mai\r\nMa che danno ogni Natale in Rai\r\n\r\n[Bridge: Franco126]\r\nE mano nella mano\r\nSi incrocia la mia linea della vita con la tua\r\nCom’edere sul muro che si affaccia sulla via (eh)\r\nCi perdiamo nel ghiaccio di un bicchiere di Kahlúa\r\nBrindiamo alla mia, brindiamo alla tua\r\n\r\n[Ritornello: Carl Brave e Franco126]\r\nAlla mia, alla tua\r\nBrindiamo alla mia, brindiamo alla tua\r\nAlla mia, alla tua\r\nBrindiamo alla mia, brindiamo alla tua\r\n            '
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Franco126]\r\nSul 9 un film in cui vincono i buoni, guardo fuori e sembra ieri\r\nCon la pioggia nei bicchieri e la testa sempre altrove\r\nAspettando da ore il 19 che non passa\r\nBastava uno sbadiglio e non servivano parole (eh eh)\r\nForse mi stai pensando che mi fischiano le orecchie (eh eh)\r\nNon ho memoria breve non mantengo le promesse mai (eh)\r\nRincorro sempre le lancette\r\nC’è qualcuno nella tasca che mi annoda le cuffiette sai\r\nResto solo in bilico sopra un filo di fumo\r\nCon l’amaro dei caffè che non abbiamo mai bevuto\r\nSo dove vuoi andare a parare ma ti lascio parlare\r\nC’è un vento che strattona le persiane\r\n\r\n[Bridge: Franco126]\r\nE mano nella mano\r\nSi incrocia la mia linea della vita con la tua\r\nCom’edere sul muro che si affaccia sulla via (eh)\r\nCi perdiamo nel ghiaccio di un bicchiere di Kahlúa\r\nBrindiamo alla mia, brindiamo alla tua\r\n\r\n[Ritornello: Carl Brave e Franco126]\r\nAlla mia alla tua\r\nBrindiamo alla mia brindiamo alla tua\r\nAlla mia alla tua\r\nBrindiamo alla mia brindiamo alla tua\r\n            "
             )
           ]
         )
@@ -7315,32 +7465,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Intro: Franco126]\r\nOoh ooh ooh\r\n\r\n[Strofa 1: Franco126]\r\nHanno lasciato aperto al quarto piano l'ascensore\r\nSalgo le scale a due a due di prescia col fiatone\r\nAccanno il cornicione della pizza nel cartone\r\nHanno fatto i baffi alla modella su quel cartellone\r\nHo detto tante cazzate che ho battuto tutti i record (oh oh)\r\nIn tasca il tuo accendino e mi hai detto \"Si chiama Pietro\" (ehi)\r\nSiamo finiti contro un cedro con la station wagon (che?)\r\nE le gocce di pioggia si rincorrono sul viso\r\nE io qui che ci faccio, che poi vorrei tutt'altro\r\nE poi c'è troppo chiasso, 'sto drink è tutto ghiaccio (aah)\r\nAbbiamo corso troppo e forse io non stavo al passo\r\nMi hai urlato ogni rimpianto\r\nMa più che un grido sembrava un pianto (aah)\r\nLo so ti ho detto una bugia ma era sincera (ah ah)\r\nE so che non lo pensi che è una cattiveria (ah ah)\r\nMi bevo a grossi sorsi 'sto sabato sera (ah ah)\r\nTe l'ho giurato a dita incrociate dietro la schiena (ah ah)\r\n\r\n[Ritornello: Carl Brave x Franco126]\r\nOh oh oh oh\r\nSei in testa come un pezzo in radio\r\nOh oh oh oh\r\nMi accendo una ciospa al contrario\r\nOh oh oh oh\r\nNoi che non siamo mai in orario\r\nOh oh oh oh\r\nE sei scappata all'Argentario\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Carl Brave]\r\nChe zella abbiamo messo sotto un gatto nero a Ostia (ehi)\r\nEro ustionato cotto al sole come un'aragosta (ehi)\r\nC'è il suo ex che ancora le fa le poste (eh)\r\nLa avviso fingendo colpi di tosse (coff coff)\r\nDue tossici mi fermano in una piazza vuota (yeah)\r\nMi chiedono una firma per dire di no alla droga\r\nTu eri nervosa hai detto: ''Bah, ora faccio yoga''\r\nE m'hai strillato tutto contro che mo c'hai la voce roca (eeh)\r\nIn tv Banderas con Rosita, in tasca Morositas\r\nE stai davanti a me ma lo sento che ormai sei ita\r\nE t'ho promesso una vita da Costa Rica\r\nFermi su lungotevere a partita finita (via)\r\nRido alla battuta tua anche se non l'ho capita (ahah)\r\nNella sabbia una siringa e un guscio di tellina (eh eh)\r\nDa un bacio rubato siamo stati vita (e poi?)\r\nVicini di rubrica nell'iPhone della tua amica\r\n\r\n[Ritornello: Carl Brave x Franco126]\r\nOh oh oh oh\r\nSei in testa come un pezzo in radio\r\nOh oh oh oh\r\nMi accendo una ciospa al contrario\r\nOh oh oh oh\r\nNoi che non siamo mai in orario\r\nOh oh oh oh\r\nE sei scappata all'Argentario\r\n\r\n[Bridge: Carl Brave]\r\nOra no, non mi va, parla tu, non dico ah\r\nSe vuoi vai, resto qua, troppi drink, patatrac\r\nAutostop, e si va, dici vai, resto qua\r\nSei andata via in un bonsoir\r\nA fior di pelle il nostro DNA\r\n\r\n[Ritornello: Carl Brave x Franco126]\r\nOh oh oh oh\r\nSei in testa come un pezzo in radio\r\nOh oh oh oh\r\nMi accendo una ciospa al contrario\r\nOh oh oh oh\r\nNoi che non siamo mai in orario\r\nOh oh oh oh\r\nE sei scappata all'Argentario\r\n            "
             )
           ]
         )
@@ -7427,32 +7577,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nC'è una fila greve, arriverò tra due mesetti\r\nColpa di Alì al semaforo che vende i fazzoletti\r\nPensavo fosse un buon amico, ma era Tavernello\r\nUrliamo come in spiaggia:\r\n\"Bello cocco, cocco bello\" (\"cocco fresc'\")\r\n'Sta vita è falsa e arriva come una cinquina (fake)\r\nCome una madonnina in miniatura made in Cina (ehi)\r\nE se il cameriere poi ci chiederà chi assaggia, beh\r\nAnnuso il bicchiere come fossi sempre stato un sommelier\r\nChe poi sa di tappo (poro poro po po)\r\nHo mangiato troppo, svacco (poro poro po po)\r\nLei sta fuori di melone, piange e scoppia a ride (ehi)\r\nNon a caso l'uragano ha un nome femminile\r\nGladiatori fanno foto al Colosseo\r\nLei mi dice: \"Non c'ho un euro, offri te, non fa l'ebreo\"\r\nT'ho scritto ti amo, ho fatto sei a Scarabeo\r\nNon ci rivedremo più come alla cena del liceo\r\n\r\n[Ritornello: Carl Brave]\r\nAvocado, forse dovrei chiamare il mio avvocato (ehi)\r\nSei troppo fake, fake, fake, fake, fake\r\nTroppo fake, fake, fake, fake, fake\r\nAvocado, forse dovrei chiamare il mio avvocato (ehi)\r\nSei troppo fake, fake, fake, fake, fake\r\nTroppo fake, fake, fake, fake, fake\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Franco126]\r\nLei mette sei magliette ed esce vaga da H&M\r\nPoi suona l'antitaccheggio e dà la colpa a me (ehi-eh-eh)\r\nMi serve calma zen\r\nChe il buttafuori vuole un tête-à-tête (eh-eh)\r\nLei mette il muso per ripicca\r\nSto sempre ad inseguirla\r\nMa ormai è partita in quinta\r\nAspetta in fila alla shampista\r\nMentre disegna sulle facce sopra una rivista\r\nSiamo entrati e guardo già la scritta exit\r\nStavo meglio a casa co' una birra e Netflix\r\nEra tutto già scritto\r\nLei passa per di qua ma fa finta che non m’ha visto\r\nO-o-ops, mega grezza con quelle tue amiche snob (ops)\r\nFinisco a manciate tutti i Coco Pops\r\nC'ha accannato in strada anche la Car2Go, no, no, no\r\n\r\n[Ritornello: Carl Brave]\r\nAvocado, forse dovrei chiamare il mio avvocato (ehi)\r\nSei troppo fake, fake, fake, fake, fake\r\nTroppo fake, fake, fake, fake, fake\r\nAvocado, forse dovrei chiamare il mio avvocato (ehi)\r\nSei troppo fake, fake, fake, fake, fake\r\nTroppo fake, fake, fake, fake, fake\r\n\r\n[Bridge: Carl Brave x Franco126]\r\nMayday (mayday), bye bye (bye bye)\r\nSei un tuffo nel mare a banzai\r\nMayday (mayday), bye bye (bye bye)\r\nSei un tuffo in un mare di guai\r\nMayday (mayday), bye bye (bye bye)\r\nSei un tuffo nel mare a banzai\r\nSei un tuffo in un mare di guai\r\n\r\n[Outro: Carl Brave]\r\nAvocado\r\nSei troppo fake, fake, fake, fake, fake\r\nTroppo fake, fake, fake, fake, fake\r\n            "
             )
           ]
         )
@@ -7539,32 +7689,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nOnda verde per le strade la mattina\r\nSosta all'Eni col profumo di benzina\r\nUna filippina ferma a una panchina (sognando Manila)\r\nMi finisco questo scolo di Punk-IPA\r\nE sto all'Anagnina co' una signorina (ehi prego)\r\nMa lei non si fida, cheregazzina\r\nÈ nervosa parla gioca a fa la diva\r\nDice che l'ex uomo non l'ha mai capita\r\nMo che hai suonato canta\r\nC'ho i buffi con la banca\r\nE mia madre è sempre stanca (mamma)\r\nNo svolte ma si campa (dai)\r\nE lei mi piace e non mi so' mai avvicinato (mai)\r\nSolo quella volta in cui ero allucinato\r\nChe regazzino, sarà pe' il vino\r\nSarà pe' una battuta un po' di serie b, detta così\r\nMa in buona fede\r\nChe non si vede?\r\nMa chi ci crede\r\n\r\n[Ritornello: Carl Brave & Franco126]\r\nE m'ha attaccato col pippone di due ore\r\nIo ancora cotto dall'hangover\r\nIo che volevo fa' il piacione\r\nT'ho detto ciao e te ciaone\r\nCheregazzina cheregazzina\r\nCheregazzina cheregazzina\r\nCheregazzina cheregazzina\r\nCheregazzina cheregazzina\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Franco126]\r\nPalleggiamo una boccia di falanghina (tie' pija)\r\nIn piazzetta bori stanno in comitiva (aoh)\r\nSembro uscito da uno dei film dei Vanzina\r\nSiamo belli andanti tutti in parlantina\r\nC'è questa tipa (mbè) da copertina (eeh!)\r\nMa non si fida (eh che?) cheregazzina (cheregazzina)\r\nIo parlo a vanvera, sta' a fa' la splendida\r\nQuando apre bocca giuro mi farei una pennica\r\nE lei è amica di un'amica di un'amica mia (ah sì?)\r\nSogna Bahia, prende la vita con filosofia\r\nBarcollo, pare sto facendo una coreografia\r\nMetti ci sta, io tocco ferro per scaramanzia (tie')\r\nCheregazzina\r\nDue ore che gli faccio il filo ma comunque se la tira (se la tira)\r\nPrendo una bira\r\nE una schedina che magari vinco pure diecimila\r\n\r\n[Bridge: Carl Brave x Franco126]\r\nEddai, ma perché non ci stai?\r\nResta qua, dove vai?\r\nSai, colpa del Ballantine aiaiaiai\r\nEddai, ma perché non ci stai?\r\nResta qua, dove vai?\r\nSai, colpa del Ballantine aiaiaiai\r\nEddai, ma perché non ci stai?\r\nResta qua, dove vai?\r\nSai, colpa del Ballantine aiaiaiai\r\n            "
             )
           ]
         )
@@ -7651,32 +7801,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nPijo l'Enjoy, metto la retro\r\nDo un bacetto al Pandino dei tuoi\r\n'Na settimana che facciamo quello che vuoi\r\nE 'sta domenica Porta Portese è isterica\r\nIo con la solita scena patetica (ehi)\r\nRidimmi il nome che\r\nQuando mi presento penso solo a come dire il mio\r\nSai che so' un bravo fijo, lei mangia frutta Bio\r\nÈ del Fleming ed è come se venissimo da altri pianeti\r\nCosì lontani però come fratelli siamesi\r\nLa terra trema, brividi da sotto i nostri piedi\r\nBasterebbe preme' invio per dirti tutto in una mail\r\nE tu sei online ma non ci sei\r\nFamo una colla pe' una boccia a Ponte Milvio\r\nCi contagiamo come dopo uno sbadiglio\r\n'Na mezza rissa con un boro x\r\nMi so' scordato un'altra volta il mio codice PIN\r\n\r\n[Ritornello: Franco126]\r\nE sì davvero stavamo un po' fuori\r\nCe ne siamo dette di ogni, di tutti i colori\r\nTi parlo sopra non sento ragioni\r\nAbbiamo chiuso porte e sbattuto i portoni\r\nE oggi mi sembra tutto sbagliato\r\nDa rifare da punto e daccapo\r\nLei ha le lacrime e il trucco sbavato\r\nVorrei svegliarmi che è tutto passato\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Franco126]\r\nLei si specchia con la selfie dell'iPhone\r\nBeve Sauvignon\r\nUn urlo tra i palazzi: la Roma avrà fatto un gol\r\nA una piotta sull'Enjoy, buchiamo un altro stop\r\nAbbiamo litigato e mi pareva una sitcom\r\nE fuori è tutto buio\r\nA parte qualche luce blu e una farmacia di turno\r\nMi sei sparita giusto nel tempo di uno starnuto\r\nE io cocciuto che so' tre ore che ti chiamo\r\nMa tu metti in muto\r\nC’è la tramontana e un tormentone in radio\r\nGiacche false a metà prezzo a un banco di Via Sannio\r\nHai rubato tutte le mie felpe dall'armadio\r\nSo' aumentate anche le sigarette al tabaccaio\r\nSo per certo cosa dire ma non te l’ho detto mai\r\nE mi esce solo un \"Come stai?\"\r\nC’è un Super Tele che galleggia sopra il Tevere\r\nUna boccata al mozzicone e soffio via la cenere\r\n\r\n[Ritornello: Franco126]\r\nE sì davvero stavamo un po' fuori\r\nCe ne siamo dette di ogni, di tutti i colori\r\nTi parlo sopra non sento ragioni\r\nAbbiamo chiuso porte e sbattuto i portoni\r\nE oggi mi sembra tutto sbagliato\r\nDa rifare da punto e daccapo\r\nLei ha le lacrime e il trucco sbavato\r\nVorrei svegliarmi che è tutto passato\r\n            "
             )
           ]
         )
@@ -7763,32 +7913,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nDue rom fanno un falò con le buste Crai\r\nQuel puttanone c'ha sicuro l'AIDS\r\nSiamo finiti ancora dritti al night\r\nIn foto eri bella ho messo like\r\nL'ho solo trescata non ricordo il nome\r\nSchimichiamo dallo zozzone\r\nPiscio su una fratta di Parco Sempione\r\nPrendo meno del tuo filippino\r\nLei nella vasca rilegge Cioè\r\nOdio il cappottino del suo carlino\r\nTombini tatuati S.P.Q.R\r\nIn giro solo marocchini e metronotte\r\nI pazzi di quartiere con in mano i cocktail\r\nHo toccato il cielo con il gomito\r\nE le ho scritto un papiro di cazzate con le emoticon\r\n\r\n[Ritornello: Franco 126]\r\nStacco un'aletta dal pacchetto delle Lucky Strike\r\nLei cicca dentro la lattina di una Coca Light\r\nNon so che scrive' le mando un messaggio con gli smile\r\nMetti domani tornerai\r\nSeh, hai visto mai\r\nHai visto mai, hai visto mai, hai visto ma-ai\r\nHai visto mai, hai visto mai, hai visto ma-ai\r\nHai visto mai\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Franco 126]\r\nHo una piramide di piatti nel lavello\r\nNon ricordo mai qual è la strada in cui parcheggio\r\nAl supermercato senza spicci pe' 'l carrello\r\nSotto casa un rom fa spesa dentro un cassonetto\r\nFaccio due lavori e sono entrambi in nero\r\nAl Pigneto mio fratello contratta co' un negro\r\nCazzo non ho rallentato c'era l'autovelox\r\nT'ho tradita, m'hai tanato, io nel dubbio nego\r\nLei tra due esami si laurea in Storia dell'arte\r\nMa se restava zitta era molto più interessante\r\nCompro sottomarche di vodka dal minimarket\r\nPromozione Fastweb? Riaggancio, no grazie\r\nIl mio amico dice che sta sempre un pezzo avanti\r\nNoi che barcolliamo siamo tutti belli andanti\r\nEra la seconda a destra, mi sa che ti sbagli\r\nMi hanno alzato un'altra volta i tergicristalli\r\n\r\n[Ritornello: Franco 126]\r\nStacco un'aletta dal pacchetto delle Lucky Strike\r\nLa cicca dentro la lattina di una Coca Light\r\nNon so che scrive' le mando un messaggio con gli smile\r\nMetti domani tornerai\r\nSeh, hai visto mai\r\nHai visto mai, hai visto mai, hai visto ma-ai\r\nHai visto mai, hai visto mai, hai visto mai\r\nHai visto ma-ai, hai visto mai\r\nStacco un'aletta dal pacchetto delle Lucky Strike\r\nLei cicca dentro la lattina di una Coca Light\r\nNon so che scrive' le mando un messaggio con gli smile\r\nMetti domani tornerai\r\nSeh, hai visto mai\r\n            "
             )
           ]
         )
@@ -7875,32 +8025,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nAbbiamo portato tuo fratello all'Aquafan\r\nHa pisciato in acqua e tu gli hai detto \"Ba'\"\r\nPerché si inizia a colorare, ti vorresti sotterrare (giù)\r\nIo che volevo andare al mare\r\nUn boro co' una maglia \"Italians do it better\" (oh)\r\nLei cammina a passo svelto è fiera del suo setter\r\nLitighiamo, pare un telefilm di La7\r\nAbbiamo urlato e pareva che il cielo cadesse\r\nT’ho scroccato una ciospa anche se non fumo, eh\r\nFai trentuno t'ho portata ad Anzio a mangia' il crudo, eh\r\nTu che dobbiamo parlare io che resto muto\r\nIn tv un imbecille dice \"Italia 1\"\r\nVorrei lasciare tutto quanto per un chiosco a Bali\r\nUn cartello dice \"Shark attack\" e non è Cali\r\nNoi che d'inverno ci vestiamo a strati\r\nD'estate famo l'alba e al mare ci andiamo domani\r\nLei è spiaggiata che mi scrive \"Amore mio ma quando cali\"\r\n\r\n[Ritornello: Carl Brave]\r\nIo che t'ho dato tutto mo non posso lascia' mance\r\nE mi puoi dire tutto tanto tutto non mi tange\r\nUramaki California la mia amica\r\nA caccia di surfisti abbronzi in California\r\nT’aspetto di qua, non ci so' Cadillac\r\nAbbiamo fatto crack e amo' lasciami stare\r\nIo che volevo solo il mare\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Franco126]\r\nDo un calcio a un Super Santos, ma va un po' dove vuole lui\r\nAlzo lo sguardo al cielo e strizzo gli occhi al sole\r\nNel naso il fumo di uno zampirone\r\nIl ronzio di zanzare e quello del ventilatore\r\nScendi sotto casa e ti passo a pigliare\r\nEd oggi il meteo dice che il mare è una tavola\r\nMa sto da un'ora fermo in coda in tangenziale\r\nButto dal finestrino lo stecco di un Fior di Fragola\r\nE se resto qua-ah e quando passi fammi un fischio\r\nStesso ba-ar e quando vuoi mi trovi là, ehi\r\nSulla mano un timbro sbiadito\r\nLei attacca sempre al quarto squillo\r\nMacchia di rossetto il filtro della Winston\r\nMetti che pijo un last minute e mi invento un'altra vita\r\nMi subaffitto casa e scappo per la Costa Rica\r\nRitiro gli ultimi risparmi che c’ho sulla VISA\r\nE come è ita è ita\r\nMi penso sopra la spiaggia di quel depliant\r\nIntanto accolla due spicci per il Telepass\r\n\r\n[Ritornello: Carl Brave]\r\nIo che t'ho dato tutto mo non posso lascia' mance\r\nE mi puoi dire tutto tanto tutto non mi tange\r\nUramaki California la mia amica\r\nA caccia di surfisti abbronzi in California\r\nT’aspetto di qua, non ci so' Cadillac\r\nAbbiamo fatto crack e amo' lasciami stare\r\nIo che volevo solo il mare\r\n            "
             )
           ]
         )
@@ -7987,32 +8137,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              ' \r\n[Strofa 1: Franco126]\r\nSto bestemmiando da due ore contro un bancomat\r\nMi sa tanto che mi ha fregato la mia MasterCard\r\nLei su un gradino che sta litigando coi collant\r\nE ci mancavano solo le rose e il vucumprà\r\nA cosa serve il Conto Arancio se sto sempre in rosso\r\nMi sto fumando sotto\r\nPer darti spago ho perso il filo del discorso\r\nPareva una sitcom sì con le risate sotto\r\nDici che faccio "bla bla bla"\r\nIo sento solo "co-co-dè"\r\nE barcolliamo un cha cha cha\r\nTranquilla bevo anche per te\r\nEh, ehi-eh eh\r\nCaffè amaro\r\nCerco il telecomando tra i cuscini del divano\r\n\r\n[Ritornello: Franco126]\r\nHo fatto una battuta e non faceva ride\' (ehi-eh)\r\nDi colpo il gelo non sapevo più che dire (ehi-eh)\r\nM\'hai detto famo aperitivo io ho preso tre bire (eh)\r\nE ho finito pure le tue noccioline (ehi-eh)\r\n            '
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Carl Brave]\r\nTuo nonno m'ha detto che era meglio quando c'era lui\r\nE che so' tu-tutte ingiurie e che è su tu-tutte le furie\r\n(Eh, hey)\r\nVoglio mangiare fino a stare male\r\nAcqua e vino a colorare, lascia fare\r\nLei mi rimbalza come l'acqua sul cucchiaio\r\nDice me ne dice un paio se non me la squaglio\r\nOh, hey\r\nMa prima passami la maio\r\nDice non mi sono accorto del suo nuovo taglio\r\nSei un rigore tirato di petto ma\r\nT'ho fatta ride con un meme di Putin a petto\r\nE t'ho ripresa (ahi, ahi)\r\nMa continui a fa' l'offesa\r\nChe scesa (ahi, ahi)\r\n\r\n[Bridge: Carl Brave e Franco126]\r\nAh\r\nChe stai a fa'\r\nNoi sempre al bar\r\nE siamo ancora in giro\r\nAh\r\nChe stai a fa'\r\nNoi sempre al bar\r\nE siamo ancora in giro\r\n\r\n[Ritornello: Franco126]\r\nHo fatto una battuta e non faceva ride' (ehi-eh)\r\nDi colpo il gelo non sapevo più che dire (ehi-eh)\r\nM'hai detto famo aperitivo io ho preso tre bire\r\nE ho finito pure le tue noccioline (ehi-eh)\r\nHo fatto una battuta e non faceva ride' (ehi-eh)\r\nDi colpo il gelo non sapevo più che dire (ehi-eh)\r\nM'hai detto famo aperitivo io ho preso tre bire\r\nE ho finito pure le tue noccioline (ehi-eh)\r\n            "
             )
           ]
         )
@@ -8099,32 +8249,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Franco126]\r\nLei scorre con le dita sul touch screen\r\nSorseggiando uno spritz, risponde a monosillabi\r\nTra una settimana parte per Madrid\r\nIo lo sapevo finiva così\r\nHo ciccato dentro tutti i bicchieri\r\nGabbiani frugano nei sacchi neri\r\nTu non mi credi e sbatti i piedi\r\nSai già la risposta, allora perché me lo chiedi?\r\nOggi non ne ho fatta una giusta, mea culpa\r\nÈ più di un'ora fa che avevamo la punta\r\nDi nuovo scontri in curva tra polizia e ultras\r\nFaccio la sauna nella metro nell'ora di punta\r\nLei gira in casa scalza, serrande a mezz'asta\r\nApri la finestra che c'è cappa\r\nÈ passata una vita e non mi passa\r\n\r\n[Ritornello: Franco126]\r\nNa na, ancora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria, eh\r\n\r\nNa na, ancora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria, eh\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Carl Brave]\r\nSul tram un rom suona la fisarmonica\r\nUn SUV, un Casamonica\r\nLa paga è sempre modica (Eh eh)\r\nVilla Pamphilj è verde pare l'Amazzonia\r\nIo a casa che guardavo La Posta di Sonia\r\nI pizzardoni che mi fanno un'altra multa (Eh dai)\r\nSale sul Buitoni dammi un po' di junta (Eh dai)\r\nLei è di Roma però è della Lazio (Eh beh)\r\nAnnoiata sta giocando a Ruzzle\r\nHo speso tutti i miei risparmi all'all you can eat\r\nE ho confuso il venerdì per il lunedì\r\nFamo chiusura ad Ibiza, giuro che sono in lista\r\nRiempi quella Rizla (Eh eh eh)\r\nLei fa la faiga, metto like e lei mi slika\r\nIndossa polo di Stone Island (Eh eh eh)\r\nZanzare tigri in aria\r\nI miei amici che vanno allo stadio a tifa' Roma alè\r\n\r\n[Ritornello: Franco126]\r\nNa na, ancora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria, eh\r\n\r\nNa na, ancora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria\r\nAncora che stamo pe' l'aria, eh\r\n            "
             )
           ]
         )
@@ -8211,32 +8361,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Franco126]\r\nUna Graziella rosso fuoco legata a un lampione\r\nUn piccione ha fatto il nido sopra il cornicione\r\nEsco col nuovo ventone dal ventiquattrore\r\nGli edifici mi sembrano visi di persone\r\nClochard su di una panca di granito\r\nE hanno coperto quel graffito con il manifesto di un partito\r\nIo a passo svelto, infreddolito\r\nCon le mani nelle maniche di un maglione sgualcito\r\n'Sti guai una matrioska, l'abbiamo fatta grossa\r\nSono partito alla rincorsa di quel Frecciarossa\r\nE io mi sono svegliato con un braccio addormentato\r\nE mi hanno disegnato in faccia con l'UniPosca\r\n\r\n[Ritornello: Carl Brave]\r\nQuel per favore 'n era tanto un per favore\r\nLascio alle spalle tutte le mie brutte storie\r\nTiriamo fuori polaroid di vecchie glorie\r\nNoi che famo nottata in un parcheggio a ore\r\nQuel per favore 'n era tanto un per favore\r\nLascio alle spalle tutte le mie brutte storie\r\nTiriamo fuori polaroid di vecchie glorie\r\nNoi che famo nottata in un parcheggio a ore\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Carl Brave]\r\nUna sciarpa della Roma legata a un lampione (ehi)\r\nLascia perde', te l'ho chiesto pure per favore (ehi)\r\nE le cose nuove ormai non hanno più sapore (ehi)\r\nLei brinda co' l'acqua, io che ho fatto il fugone (ehi)\r\nBla-Bla-Car\r\nCambio giro, cambio bar\r\nHo preso nuove Adidas\r\nTu coi tuoi amici radical\r\nPozzanghere di vodka (eh)\r\nLa fronte che scotta (eh)\r\nHai la tua borsa nelle mani e cerchi a gesti circolari\r\nCome a scuola frugavamo nello zaino pe' fa' i vaghi\r\n\r\n[Ritornello: Carl Brave]\r\nQuel per favore 'n era tanto un per favore\r\nLascio alle spalle tutte le mie brutte storie\r\nTiriamo fuori polaroid di vecchie glorie\r\nNoi che famo nottata in un parcheggio a ore\r\nQuel per favore 'n era tanto un per favore\r\nLascio alle spalle tutte le mie brutte storie\r\nTiriamo fuori polaroid di vecchie glorie\r\nNoi che famo nottata in un parcheggio a ore\r\n            "
             )
           ]
         )
@@ -8323,32 +8473,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nGaloppiamo in SH, 'namo in sella\r\nLei è bella bella peccato che è lella\r\nPerché piangi alla patente pora stella\r\nT'hanno bocciata perché sei partita in terza\r\nHo saltato il compleanno di mio nonno\r\nIl giorno dopo è morto, l'ho abbracciato in sogno\r\nLei, ai suoi piedi Jeffrey Campbell (Yeeh, eh, eh)\r\nT'ho cancellata dai social, in mano una boccia\r\nSta vita m’incoccia\r\nSu un cinquantino vado in fretta\r\nStacco un casco a caso a un sottosella a via Libetta\r\n\"Mi chiami amo' che non trovo più il cellulare?\"\r\nNoi che ridiamo anche se siamo messi male\r\nRompo le chiavi nel bauletto\r\nNoi sempre in quel baretto\r\nÈ una vita che t'aspetto\r\n\r\n[Ritornello: Franco 126]\r\nE tu sorridi sempre ma si vede che t'annoi\r\nNoi che veniamo male su tutte le Polaroid\r\nE t'ho portato pure a cena fuori con i tuoi\r\nMa tanto finisce tutto prima o poi\r\nE tu sorridi sempre ma si vede che t'annoi\r\nNoi che veniamo male su tutte le Polaroid\r\nE t'ho portato pure a cena fuori con i tuoi\r\nMa tanto finisce tutto prima o poi\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Franco 126]\r\nDi ieri sera ho fatto tabula rasa\r\nScendo a buttare il pattume sotto casa\r\nNel taschino mezzo biglietto dell'Atac\r\nE qualcuno sopra il muro ha scritto ACAB\r\nVai tranquillo tanto torna tutto apposto\r\nIl mio amico che sta cotto mi chiede se accosto\r\nNon ho un soldo ti accollo col 4088\r\nE mia madre mi sembra invecchiata tutto a un botto\r\nHo i vestiti sparpagliati e i ricordi strappati\r\nMi cerco due calzini uguali tra quelli spaiati\r\nIn foto abbiamo gli occhi rossi e siamo tutti mossi\r\nEd oggi sto in ritardo e ho preso pure tutti rossi\r\nHo perso le chiavi nel tombino\r\nFinestre appannate ci disegno con il dito\r\nTe ne sei ita si vede che era destino\r\nIo c'ho le labbra rosse per il vino\r\n\r\n[Ritornello: Franco 126]\r\nE tu sorridi sempre ma si vede che t'annoi\r\nNoi che veniamo male su tutte le Polaroid\r\nE t'ho portato pure a cena fuori con i tuoi\r\nMa tanto finisce tutto prima o poi\r\nE tu sorridi sempre ma si vede che t'annoi\r\nNoi che veniamo male su tutte le Polaroid\r\nE t'ho portato pure a cena fuori con i tuoi\r\nMa tanto finisce tutto prima o poi\r\n            "
             )
           ]
         )
@@ -8435,13 +8585,13 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
@@ -8451,12 +8601,12 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
@@ -8659,32 +8809,32 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex" }, [
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 1: Franco 126]\r\nStarnutisco per un'allergia\r\nVino rosso sopra i vestiti che non va più via (ahhh)\r\nE tu che mi dai contro, tanto è sempre colpa mia (colpa mia)\r\nDici che non ci tengo, lo sai che è una fesseria (ma va la)\r\nBirre come da copione, sigarette a colazione\r\nIn piazza una chitarra suona sempre la stessa canzone\r\nAsfalto caldo brucia le mie suole\r\nMio padre mi racconta un'altra Roma, il bagno al Fontanone\r\nIo barcollo che forse ne ho bevuta una di troppo\r\nPoi smadonno e ritornare a casa è un terno al lotto\r\nCon la testa sempre a un altro posto\r\nMio fratello torna a casa, scalo a Francoforte\r\nFaccio tardi all'aereoporto\r\nNon si muove una foglia, mi passa la voglia\r\nInzuppo il riso dentro alla salsa di soia\r\nStappo queste bottiglie con un accendino\r\nBalliamo sopra i sampietrini con il motorino\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nAcqua e amarena\r\nE so che sei una fissa passeggera\r\nCome i Pokémon e la Macarena\r\nFaccio scena muta quando fai la scema (mmmh)\r\nFiume in piena\r\nVai a duemila dai ti prego sta a catena\r\nIo che so' notturno come una falena\r\nM'hai svegliato e mi s'è chiusa la vena\r\nHai l'indianino 24h a casa\r\nMangi il bovino ma per lui la mucca è sacra\r\nIn tv una scritta dona un euro per\r\nI terremotati nel TG a Rai tre\r\nLei mangia un Bounty, riga un'Audi\r\nLascia un biglietto vuoto, dice: \"Famo i vaghi\"\r\nRacconta di Miyazaki\r\nMi dice che l'ex uomo parlava di Pippo Inzaghi (bla bla bla)\r\nFamo due spaghi da me\r\nLei dice che ha comprato due biglietti in parterre\r\nMercurio cromo sulle sue ginocchia\r\nE l'ho baciata è diventata una ranocchia\r\n\r\n[Ritornello: Franco126 & Carl Brave]\r\nGrattacieli si prendono il cielo della mia città, tararì tararà\r\nE le stelle sono nei coperti da un dito di fard, tararì tararà\r\nTi ho promesso che questo weekend ti portavo al Momart, tararì tararà\r\nMentre invece ci siamo ubriacati ed andiamo a zig zag, tararì tararà\r\n            "
             )
           ]
         )
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "w-1/3 mr-24" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
           {
             staticClass:
-              "text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
           },
           [
             _vm._v(
-              " \r\n[Strofa 2: Carl Brave]\r\nIn mano un'IPA e si riflette sopra il suo Huawei\r\nUna lattina, sulla sua pelle sta contando i nei\r\nDici che ti ho tradita e che penso a lei (lei, ehi)\r\nNoi sopra un pedalò\r\nHo visto la vita da un oblò e ho detto no\r\nMi sono perso, poi tu mi hai dato in mano un TomTom\r\nSono passato da fase REM a fase Rom\r\nRoma d'estate è sola, io col cuore in gola\r\nLei che era bella bionda ora s'è fatta mora\r\nSquaglio le cioce sui sampietrini, amici desaparecidi\r\nAmericane alla John Cabot, parcheggiatori abusivi\r\nLa solita vecchia Santa Maria, \r\n'na margherita a porta' via\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n\r\n[Ritornello: Franco 126]\r\nTu come stai? È un po' che non ci sentiamo\r\nIo solo guai, meglio se non ne parliamo\r\nTi direi dai, prendi un aereo e partiamo\r\nMa tanto ormai, ma tanto ormai\r\n            "
+              " \r\n[Strofa 2: Franco126]\r\nVia del Corso coatti in tuta coi Carrera\r\nSopra un casco scritto \"Welcome to Favelas\"\r\nHo guardato quella e ti sei fatta seria, m’hai\r\nTenuto il muso per tutta quanta la sera\r\nE lei cura la sua pelle co' aloe vera\r\nNon mangia animali morti ora che è vegan\r\nNel bar più macchinette che a Las Vegas\r\nSpot del Mulino Bianco c’è Banderas\r\nÈ caduta la linea stavo sotto a un tunnel\r\nAlla tv quanto è rifatta Lilli Gruber\r\nPer lei è sempre tutto super\r\nCanta Tiziano Ferro con l’amica in Mini Cooper (Sereee Nere)\r\nBevo una Chouffe, barcollo un blues\r\nLei so' due ore che fruga dentro la borsa in cerca della trousse\r\nMi so' abbioccato mentre guardavamo il Moulin Rouge\r\nE mi sono perso pure il momento clou\r\nMi parla di cose che non so\r\nIo annuisco poi cerco su Google\r\nAi suoi piedi nuove Birkenstock\r\nFamo du spaghi metto un filo d'olio a crudo\r\n\r\n[Ritornello: Franco126 & Carl Brave]\r\nGrattacieli si prendono il cielo della mia città, tararì tararà\r\nE le stelle sono nei coperti da un dito di fard, tararì tararà\r\nTi ho promesso che questo weekend ti portavo al Momart, tararì tararà\r\nMentre invece ci siamo ubriacati ed andiamo a zig zag, tararì tararà\r\nGrattacieli si prendono il cielo della mia città, tararì tararà\r\nE le stelle sono nei coperti da un dito di fard, tararì tararà\r\nTi ho promesso che questo weekend ti portavo al Momart, tararì tararà\r\nMentre invece ci siamo ubriacati ed andiamo a zig zag, tararì tararà\r\n            "
             )
           ]
         )
@@ -46810,15 +46960,14 @@ __webpack_require__.r(__webpack_exports__);
 /*!********************************************!*\
   !*** ./resources/js/components/Navbar.vue ***!
   \********************************************/
-/*! no static exports found */
+/*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Navbar_vue_vue_type_template_id_6dde423b___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Navbar.vue?vue&type=template&id=6dde423b& */ "./resources/js/components/Navbar.vue?vue&type=template&id=6dde423b&");
 /* harmony import */ var _Navbar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Navbar.vue?vue&type=script&lang=js& */ "./resources/js/components/Navbar.vue?vue&type=script&lang=js&");
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _Navbar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _Navbar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
 
@@ -46848,7 +46997,7 @@ component.options.__file = "resources/js/components/Navbar.vue"
 /*!*********************************************************************!*\
   !*** ./resources/js/components/Navbar.vue?vue&type=script&lang=js& ***!
   \*********************************************************************/
-/*! no static exports found */
+/*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
