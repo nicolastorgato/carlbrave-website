@@ -18,7 +18,7 @@
         
     
 
-    <div class="flex flex-col sm:flex-row mb-8">
+    <div class="flex flex-col sm:flex-row mb-12">
 
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 

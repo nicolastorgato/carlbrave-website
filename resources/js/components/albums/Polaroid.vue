@@ -2,10 +2,10 @@
 <div>
 
     <div class="flex-col mb-8">
-        <h1 class="flex flex-col font-normal text-3xl leading-none mb-10"> Album  
-            <span class="mt-2 uppercase text-2xl font-semibold">Polaroid 
+
+        <h1 class="font-normal text-3xl leading-none mb-10"> Album | 
+            <span class="mt-2 uppercase text-2xl font-semibold">Polaroid </span> 
             <span class="uppercase text-xl font-normal">(con Franco 126)</span> 
-            </span> 
         </h1>
 
         <div class="flex flex-col lg:flex-row mb-4">

@@ -1,7 +1,7 @@
 <template>
 <div>
 
-    <div class="flex flex-col sm:flex-row mb-8 mt-0 sm:mt-32">
+    <div class="flex flex-col sm:flex-row mb-8 mt-0 sm:mt-24">
 
         <div class="w-full sm:w-3/5 mt-5 mb-3">
             <img src="/images/home/carlo-home.jpg" class=" rounded-lg">

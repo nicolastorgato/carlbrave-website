@@ -2349,6 +2349,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -2361,7 +2364,7 @@ __webpack_require__.r(__webpack_exports__);
 
       setTimeout(function () {
         _this.isOpen = !_this.isOpen;
-      }, 700);
+      }, 300);
     }
   }
 });
@@ -2453,6 +2456,28 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -5802,7 +5827,7 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", [
-    _c("div", { staticClass: "flex flex-col sm:flex-row mb-8 mt-0 sm:mt-32" }, [
+    _c("div", { staticClass: "flex flex-col sm:flex-row mb-8 mt-0 sm:mt-24" }, [
       _vm._m(0),
       _vm._v(" "),
       _c(
@@ -6401,7 +6426,7 @@ var render = function() {
       "header",
       {
         staticClass:
-          "sm:flex sm:justify-between sm:items-center sm:px-8 sm:py-3 mb-6 mt-1"
+          "sm:flex sm:justify-between sm:items-center sm:px-8 sm:py-3 mb-6 mt-1 mr-2"
       },
       [
         _c(
@@ -6469,18 +6494,10 @@ var render = function() {
           },
           [
             _c(
-              "div",
-              {
-                staticClass:
-                  "px-2 font-medium text-lg mt-3 sm:mt-0 uppercase text-gray-800"
-              },
-              [_vm._v(" Vita")]
-            ),
-            _vm._v(" "),
-            _c(
               "a",
               {
-                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                staticClass:
+                  "px-2 font-medium text-lg sm:mt-0 uppercase text-gray-800 hover:text-gray-900",
                 on: { click: _vm.closeMenu }
               },
               [
@@ -6489,6 +6506,17 @@ var render = function() {
                 ])
               ],
               1
+            ),
+            _vm._v(" "),
+            _c("div", { staticClass: "px-8 mt-4" }),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass:
+                  "px-2 font-medium text-lg mt-3 sm:mt-0 uppercase text-gray-800"
+              },
+              [_vm._v(" Vita")]
             ),
             _vm._v(" "),
             _c(
@@ -6603,7 +6631,8 @@ var render = function() {
             _c(
               "a",
               {
-                staticClass: "px-2 text-gray-700 hover:text-gray-900",
+                staticClass:
+                  "pl-2 pr-0 sm:pl-2 sm:pr-1 text-gray-700 hover:text-gray-900",
                 on: { click: _vm.closeMenu }
               },
               [
@@ -6618,7 +6647,7 @@ var render = function() {
               "span",
               {
                 staticClass:
-                  "flex rounded-full bg-blue-500 uppercase px-2 py-1 text-xs font-semibold"
+                  "rounded-full bg-blue-500 uppercase px-2 py-1 text-xs font-semibold"
               },
               [_vm._v("New")]
             ),
@@ -6847,84 +6876,89 @@ var staticRenderFns = [
         _vm._v(" Video")
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "flex flex-col lg:flex-row flex-wrap" }, [
-        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
-          _c("iframe", {
-            staticClass: "object-contain sm:h-64 sm:w-1/2",
-            attrs: {
-              src: "https://www.youtube.com/embed/7c1VUPVAkPs",
-              frameborder: "0",
-              allow:
-                "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
-          _c("iframe", {
-            staticClass: "object-contain sm:h-64 sm:w-1/2",
-            attrs: {
-              src: "https://www.youtube.com/embed/7FZg0uKe5DM",
-              frameborder: "0",
-              allow:
-                "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-              allowfullscreen: ""
-            }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
-          _c("iframe", {
-            staticClass: "object-contain sm:h-64 sm:w-1/2",
-            attrs: {
-              src: "https://www.youtube.com/embed/pfUMEj_ZbKI",
-              frameborder: "0",
-              allow:
-                "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-              allowfullscreen: ""
-            }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
-          _c("iframe", {
-            staticClass: "object-contain sm:h-64 sm:w-1/2",
-            attrs: {
-              src: "https://www.youtube.com/embed/gGp8kwz3wOI",
-              frameborder: "0",
-              allow:
-                "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-              allowfullscreen: ""
-            }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
-          _c("iframe", {
-            staticClass: "object-contain sm:h-64 sm:w-1/2",
-            attrs: {
-              src: "https://www.youtube.com/embed/2smKMa2ePIU",
-              frameborder: "0",
-              allow:
-                "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-              allowfullscreen: ""
-            }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-full sm:w-1/2 mb-16" }, [
-          _c("iframe", {
-            staticClass: "object-contain sm:h-64 sm:w-1/2",
-            attrs: {
-              src: "https://www.youtube.com/embed/xF1iShHqJjU",
-              frameborder: "0",
-              allow:
-                "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
-              allowfullscreen: ""
-            }
-          })
-        ])
-      ])
+      _c(
+        "div",
+        { staticClass: "grid grid-cols-1 sm:grid-cols-2 gap-16 mb-12" },
+        [
+          _c("div", {}, [
+            _c("iframe", {
+              staticClass: "w-full h-64 sm:h-100",
+              attrs: {
+                src: "https://www.youtube.com/embed/7c1VUPVAkPs",
+                frameborder: "0",
+                allow:
+                  "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                allowfullscreen: ""
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", {}, [
+            _c("iframe", {
+              staticClass: "w-full h-64 sm:h-100",
+              attrs: {
+                src: "https://www.youtube.com/embed/7FZg0uKe5DM",
+                frameborder: "0",
+                allow:
+                  "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                allowfullscreen: ""
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", {}, [
+            _c("iframe", {
+              staticClass: "w-full h-64 sm:h-100",
+              attrs: {
+                src: "https://www.youtube.com/embed/pfUMEj_ZbKI",
+                frameborder: "0",
+                allow:
+                  "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                allowfullscreen: ""
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", {}, [
+            _c("iframe", {
+              staticClass: "w-full h-64 sm:h-100",
+              attrs: {
+                src: "https://www.youtube.com/embed/gGp8kwz3wOI",
+                frameborder: "0",
+                allow:
+                  "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                allowfullscreen: ""
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", {}, [
+            _c("iframe", {
+              staticClass: "w-full h-64 sm:h-100",
+              attrs: {
+                src: "https://www.youtube.com/embed/2smKMa2ePIU",
+                frameborder: "0",
+                allow:
+                  "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                allowfullscreen: ""
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", {}, [
+            _c("iframe", {
+              staticClass: "w-full h-64 sm:h-100",
+              attrs: {
+                src: "https://www.youtube.com/embed/xF1iShHqJjU",
+                frameborder: "0",
+                allow:
+                  "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                allowfullscreen: ""
+              }
+            })
+          ])
+        ]
+      )
     ])
   }
 ]
@@ -6957,7 +6991,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("div", { staticClass: "flex items-center justify-center sm:mt-48" }, [
+      _c("div", { staticClass: "flex items-center justify-center sm:mt-24" }, [
         _c(
           "div",
           {
@@ -7187,14 +7221,15 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c(
       "h1",
-      { staticClass: "flex flex-col font-normal text-3xl leading-none mb-10" },
+      { staticClass: "font-normal text-3xl leading-none mb-10" },
       [
-        _vm._v(" Album  \r\n            "),
+        _vm._v(" Album | \r\n            "),
         _c("span", { staticClass: "mt-2 uppercase text-2xl font-semibold" }, [
-          _vm._v("Polaroid \r\n            "),
-          _c("span", { staticClass: "uppercase text-xl font-normal" }, [
-            _vm._v("(con Franco 126)")
-          ])
+          _vm._v("Polaroid ")
+        ]),
+        _vm._v(" "),
+        _c("span", { staticClass: "uppercase text-xl font-normal" }, [
+          _vm._v("(con Franco 126)")
         ])
       ]
     )
@@ -7401,7 +7436,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -7513,7 +7548,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -7625,7 +7660,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -7737,7 +7772,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -7849,7 +7884,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -7961,7 +7996,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -8073,7 +8108,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -8185,7 +8220,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -8297,7 +8332,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -8409,7 +8444,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -8521,7 +8556,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -8633,7 +8668,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -8745,7 +8780,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",
@@ -8857,7 +8892,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-8" }, [
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
       _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
         _c(
           "p",

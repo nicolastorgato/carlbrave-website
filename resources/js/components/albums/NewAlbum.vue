@@ -1,7 +1,7 @@
 <template>
 <div>
 
-    <div class="flex items-center justify-center sm:mt-48">
+    <div class="flex items-center justify-center sm:mt-24">
         
             <div class="bg-white lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
                 <div class="lg:w-1/2">

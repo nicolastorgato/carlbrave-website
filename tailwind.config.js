@@ -1,7 +1,11 @@
 module.exports = {
     purge: [],
     theme: {
-        extend: {},
+        extend: {
+            height: {
+                '100': '25rem',
+            },
+        },
 
         fontFamily: {
             body: ["Rubik", "sans-serif"],
