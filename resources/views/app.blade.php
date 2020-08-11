@@ -17,12 +17,12 @@
     <body class="font-body antialiased h-full">
         <div id="app">
 
-            <div class="">
+            <div>
 
                 <navbar></navbar>
    
                 
-                <main class="">
+                <main>
 
                     <div class="primary flex-1 px-6 sm:px-12">
                         <transition name="fade" mode="out-in">

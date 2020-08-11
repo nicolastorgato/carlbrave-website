@@ -30,9 +30,43 @@ import Avocado from './components/songs/polaroid/Avocado'
 import Argentario from './components/songs/polaroid/Argentario'
 
 
+
 import NottiBrave from './components/albums/NottiBrave'
 
+import Professorè from './components/songs/nottibrave/Professorè'
+import Fotografia from './components/songs/nottibrave/Fotografia'
+import CamelBlu from './components/songs/nottibrave/CamelBlu'
+import ParcoGondar from './components/songs/nottibrave/ParcoGondar'
+import Vita from './components/songs/nottibrave/Vita'
+import Noi from './components/songs/nottibrave/Noi'
+import PubCrawl from './components/songs/nottibrave/PubCrawl'
+import Malibu from './components/songs/nottibrave/Malibu'
+import Chapeau from './components/songs/nottibrave/Chapeau'
+import E10Song from './components/songs/nottibrave/E10Song'
+import Bretelle from './components/songs/nottibrave/Bretelle'
+import LaCuenta from './components/songs/nottibrave/LaCuenta'
+import Scusa from './components/songs/nottibrave/Scusa'
+import PiantoNoisy from './components/songs/nottibrave/PiantoNoisy'
+import Accuccia from './components/songs/nottibrave/Accuccia'
+
+
+
+
 import NottiBraveAfter from './components/albums/NottiBraveAfter'
+
+import Posso from './components/songs/nottibraveafter/Posso'
+import Merci from './components/songs/nottibraveafter/Merci'
+import Comunque from './components/songs/nottibraveafter/Comunque'
+import SpunteBlu from './components/songs/nottibraveafter/SpunteBlu'
+import MezzoCocktail from './components/songs/nottibraveafter/MezzoCocktail'
+import RidereDiNoi from './components/songs/nottibraveafter/RidereDiNoi'
+import Termini from './components/songs/nottibraveafter/Termini'
+
+
+
+
+
+
 
 import NewAlbum from './components/albums/NewAlbum'
 
@@ -101,7 +135,7 @@ export default {
 
 
 
-
+        //album POLAROID
         {
             path: '/polaroid',
             component: Polaroid
@@ -166,15 +200,128 @@ export default {
 
 
 
+
+
+
+        // album NOTTI BRAVE
         {
             path: '/notti-brave',
             component: NottiBrave
         },
 
         {
+            path: '/notti-brave/professorè',
+            component: Professorè
+        },
+        {
+            path: '/notti-brave/fotografia',
+            component: Fotografia
+        },
+        {
+            path: '/notti-brave/camel-blu',
+            component: CamelBlu
+        },
+        {
+            path: '/notti-brave/parco-gondar',
+            component: ParcoGondar
+        },
+        {
+            path: '/notti-brave/vita',
+            component: Vita
+        },
+        {
+            path: '/notti-brave/noi',
+            component: Noi
+        },
+        {
+            path: '/notti-brave/pub-crawl',
+            component: PubCrawl
+        },
+        {
+            path: '/notti-brave/malibu',
+            component: Malibu
+        },
+        {
+            path: '/notti-brave/chapeau',
+            component: Chapeau
+        },
+        {
+            path: '/notti-brave/e10',
+            component: E10Song
+        },
+        {
+            path: '/notti-brave/bretelle',
+            component: Bretelle
+        },
+        {
+            path: '/notti-brave/la-cuenta',
+            component: LaCuenta
+        },
+        {
+            path: '/notti-brave/scusa',
+            component: Scusa
+        },
+        {
+            path: '/notti-brave/pianto-noisy',
+            component: PiantoNoisy
+        },
+        {
+            path: '/notti-brave/accuccia',
+            component: Accuccia
+        },
+
+
+
+
+
+
+
+
+
+
+        // album NOTTI BRAVE AFTER
+        {
             path: '/notti-brave-after',
             component: NottiBraveAfter
         },
+
+        {
+            path: '/notti-brave-after/posso',
+            component: Posso
+        },
+        {
+            path: '/notti-brave-after/merci',
+            component: Merci
+        },
+        {
+            path: '/notti-brave-after/comunque',
+            component: Comunque
+        },
+        {
+            path: '/notti-brave-after/spunte-blu',
+            component: SpunteBlu
+        },
+        {
+            path: '/notti-brave-after/mezzo-cocktail',
+            component: MezzoCocktail
+        },
+        {
+            path: '/notti-brave-after/ridere-di-noi',
+            component: RidereDiNoi
+        },
+        {
+            path: '/notti-brave-after/termini',
+            component: Termini
+        },
+
+
+
+
+
+
+
+
+
 
         {
             path: '/nuovo-album',

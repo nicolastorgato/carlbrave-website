@@ -13,7 +13,7 @@
                                                   Carl Brave pubblicherà il suo prossimo album a Settembre. <br><br>
                                                   Sono già in programma due concerti live per il prossimo anno e l'attesa è già alle stelle! </p>
                     <div class="mt-8">
-                        <a class="bg-blue-900 text-gray-100 px-5 py-3 font-semibold rounded tracking-wide cursor-default">Fuori a Settembre!</a>
+                        <a class="bg-blue-900 text-gray-100 px-5 py-3 font-semibold rounded tracking-wide cursor-default">Nuovo album fuori a Settembre!</a>
                     </div>
                 </div>
             </div>

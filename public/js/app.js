@@ -2608,7 +2608,95 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ __webpack_exports__["default"] = ({});
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  data: function data() {
+    return {
+      canzoni: [{
+        nome: '1 - Professorè',
+        path: 'professorè',
+        numero: 1,
+        testo: 'testo1'
+      }, {
+        nome: '2 - Fotografia (feat. Francesca Michielin & Fabri Fibra)',
+        path: 'fotografia',
+        numero: 2,
+        testo: 'testo2'
+      }, {
+        nome: '3 - Camel Blu (feat. Giorgio Poi)',
+        path: 'camel-blu',
+        numero: 3,
+        testo: 'testo3'
+      }, {
+        nome: '4 - Parco Gondar (feat. Coez)',
+        path: 'parco-gondar',
+        numero: 4,
+        testo: 'testo4'
+      }, {
+        nome: '5 - Vita',
+        path: 'vita',
+        numero: 5,
+        testo: 'testo5'
+      }, {
+        nome: '6 - Noi',
+        path: 'noi',
+        numero: 6,
+        testo: 'testo6'
+      }, {
+        nome: '7 - Pub Crawl',
+        path: 'pub-crawl',
+        numero: 7,
+        testo: 'testo7'
+      }, {
+        nome: '8 - Malibu (feat. Gemitaiz)',
+        path: 'malibu',
+        numero: 8,
+        testo: 'testo8'
+      }, {
+        nome: '9 - Chapeau (feat. Frah Quintale)',
+        path: 'chapeau',
+        numero: 9,
+        testo: 'testo9'
+      }, {
+        nome: '10 - E10 (feat. Pretty Solero & B)',
+        path: 'e10',
+        numero: 10,
+        testo: 'testo10'
+      }, {
+        nome: '11 - Bretelle (feat. Emis Killa)',
+        path: 'bretelle',
+        numero: 11,
+        testo: 'testo11'
+      }, {
+        nome: '12 - La Cuenta (feat. Franco 126)',
+        path: 'la-cuenta',
+        numero: 12,
+        testo: 'testo12'
+      }, {
+        nome: '13 - Scusa (feat. Ugo Borghetti & B)',
+        path: 'scusa',
+        numero: 13,
+        testo: 'testo13'
+      }, {
+        nome: '14 - Pianto Noisy',
+        path: 'pianto-noisy',
+        numero: 14,
+        testo: 'testo14'
+      }, {
+        nome: '15 - Accuccia',
+        path: 'accuccia',
+        numero: 15,
+        testo: 'testo15'
+      }]
+    };
+  },
+  created: function created() {}
+});
 
 /***/ }),
 
@@ -2627,7 +2715,96 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ __webpack_exports__["default"] = ({});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  data: function data() {
+    return {
+      canzoni: [{
+        nome: '1 - Posso (feat. Max Gazzè)',
+        path: 'posso',
+        numero: 1,
+        testo: 'testo1'
+      }, {
+        nome: '2 - Merci',
+        path: 'merci',
+        numero: 2,
+        testo: 'testo2'
+      }, {
+        nome: '3 - Comunque',
+        path: 'comunque',
+        numero: 3,
+        testo: 'testo3'
+      }, {
+        nome: '4 - Spunte Blu (feat. Guè Pequeno)',
+        path: 'spunte-blu',
+        numero: 4,
+        testo: 'testo4'
+      }, {
+        nome: '5 - Mezzo Cocktail (feat. Ugo Borghetti)',
+        path: 'mezzo-cocktail',
+        numero: 5,
+        testo: 'testo5'
+      }, {
+        nome: '6 - Ridere di noi (feat. Luchè)',
+        path: 'ridere-di-noi',
+        numero: 6,
+        testo: 'testo6'
+      }, {
+        nome: '7 - Termini',
+        path: 'termini',
+        numero: 7,
+        testo: 'testo7'
+      }]
+    };
+  },
+  created: function created() {}
+});
 
 /***/ }),
 
@@ -2841,6 +3018,2358 @@ __webpack_require__.r(__webpack_exports__);
     }
   }
 });
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Noi.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Noi.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Vita.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Vita.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
 
@@ -7036,7 +9565,7 @@ var staticRenderFns = [
                       staticClass:
                         "bg-blue-900 text-gray-100 px-5 py-3 font-semibold rounded tracking-wide cursor-default"
                     },
-                    [_vm._v("Fuori a Settembre!")]
+                    [_vm._v("Nuovo album fuori a Settembre!")]
                   )
                 ])
               ]
@@ -7068,66 +9597,113 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", [
+    _c("div", { staticClass: "flex-col mb-8" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c("div", { staticClass: "flex flex-col lg:flex-row mb-4" }, [
+        _vm._m(1),
+        _vm._v(" "),
+        _c(
+          "ul",
+          { staticClass: "leading-7 mb-5" },
+          _vm._l(_vm.canzoni, function(canzone) {
+            return _c(
+              "li",
+              {
+                key: canzone.nome,
+                staticClass: "text-base text-gray-700 hover:text-blue-600"
+              },
+              [
+                _c(
+                  "router-link",
+                  { attrs: { to: "/notti-brave/" + canzone.path } },
+                  [_vm._v(" " + _vm._s(canzone.nome) + " ")]
+                )
+              ],
+              1
+            )
+          }),
+          0
+        )
+      ]),
+      _vm._v(" "),
+      _vm._m(2)
+    ])
+  ])
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [
-      _c("div", { staticClass: "flex-col" }, [
-        _c("h1", { staticClass: "font-normal text-3xl leading-none mb-10" }, [
-          _vm._v(" Album | \r\n            "),
-          _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
-            _vm._v("Notti Brave\r\n                \r\n            ")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "flex mb-4" }, [
-          _c("div", { staticClass: "mr-24 pr-20 pb-20" }, [
-            _c("img", {
-              staticStyle: { height: "450px" },
-              attrs: { src: "/images/albums/album-nottibrave.jpg", alt: "logo" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "w-1/2 flex-col items-center" }, [
-            _c("p", { staticClass: " text-lg font-medium mb-3" }, [
-              _vm._v("Tracce")
-            ]),
-            _vm._v(" "),
-            _c("ul", { staticClass: "leading-7" }, [
-              _c("li", [_vm._v(" 1 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 2 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 3 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 4 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 5 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 6 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 7 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 8 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 9 -  ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 10 - ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 11 - ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 12 - ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 13 - ")]),
-              _vm._v(" "),
-              _c("li", [_vm._v(" 14 - ")])
-            ])
-          ])
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-10" },
+      [
+        _vm._v(" Album | \r\n            "),
+        _c("span", { staticClass: "mt-2 uppercase text-2xl font-semibold" }, [
+          _vm._v("Notti Brave ")
         ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "w-full sm:w-auto mr-24 pr-20 pb-10 sm:pb-20" },
+      [
+        _c("img", {
+          staticClass: "mb-3",
+          attrs: {
+            width: "500px",
+            src: "/images/albums/album-nottibrave.jpg",
+            alt: "logo"
+          }
+        }),
+        _vm._v(" "),
+        _c(
+          "a",
+          {
+            staticClass:
+              "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+            attrs: { href: "/images/albums/album-nottibrave.jpg" }
+          },
+          [_vm._v("\r\n                    Copertina \r\n                ")]
+        )
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col lg:flex-row" }, [
+      _c("div", { staticClass: "bg-white w-full md:w-1/3 mr-16 mb-6" }, [
+        _c("img", {
+          staticClass: "w-full object-cover h-32 sm:h-48 md:h-64 mb-3",
+          attrs: {
+            src: "/images/albums/album-nottibrave-2.jpg",
+            alt: "Copertina (versione 2)"
+          }
+        }),
+        _vm._v(" "),
+        _c(
+          "a",
+          {
+            staticClass:
+              "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+            attrs: { href: "/images/albums/album-nottibrave-2.jpg" }
+          },
+          [
+            _vm._v(
+              "\r\n                    Copertina (retro)\r\n                "
+            )
+          ]
+        )
       ])
     ])
   }
@@ -7153,11 +9729,137 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("h1", { staticClass: "font-normal text-3xl leading-none" }, [
-    _vm._v(" Notti Brave After")
+  return _c("div", [
+    _c("div", { staticClass: "flex-col mb-8" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c("div", { staticClass: "flex flex-col lg:flex-row mb-4" }, [
+        _vm._m(1),
+        _vm._v(" "),
+        _c(
+          "ul",
+          { staticClass: "leading-7 mb-5" },
+          _vm._l(_vm.canzoni, function(canzone) {
+            return _c(
+              "li",
+              {
+                key: canzone.nome,
+                staticClass: "text-base text-gray-700 hover:text-blue-600"
+              },
+              [
+                _c(
+                  "router-link",
+                  { attrs: { to: "/notti-brave-after/" + canzone.path } },
+                  [_vm._v(" " + _vm._s(canzone.nome) + " ")]
+                )
+              ],
+              1
+            )
+          }),
+          0
+        )
+      ]),
+      _vm._v(" "),
+      _vm._m(2)
+    ])
   ])
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-10" },
+      [
+        _vm._v(" Album | \r\n            "),
+        _c("span", { staticClass: "mt-2 uppercase text-2xl font-semibold" }, [
+          _vm._v("Notti Brave (After) ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "w-full sm:w-auto mr-24 pr-20 pb-10 sm:pb-20" },
+      [
+        _c("img", {
+          staticClass: "mb-3",
+          attrs: {
+            width: "500px",
+            src: "/images/albums/album-nottibraveafter.jpg",
+            alt: "logo"
+          }
+        }),
+        _vm._v(" "),
+        _c(
+          "a",
+          {
+            staticClass:
+              "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+            attrs: { href: "/images/albums/album-nottibraveafter.jpg" }
+          },
+          [_vm._v("\r\n                    Copertina \r\n                ")]
+        )
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col lg:flex-row" }, [
+      _c("div", { staticClass: "bg-white w-full md:w-1/3 mr-16 mb-6" }, [
+        _c("img", {
+          staticClass: "w-full object-cover h-32 sm:h-48 md:h-64 mb-3",
+          attrs: {
+            src: "/images/albums/album-nottibraveafter-2.jpg",
+            alt: "Copertina (versione 2)"
+          }
+        }),
+        _vm._v(" "),
+        _c(
+          "a",
+          {
+            staticClass:
+              "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+            attrs: { href: "/images/albums/album-nottibraveafter-2.jpg" }
+          },
+          [
+            _vm._v(
+              "\r\n                    Copertina (retro)\r\n                "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "bg-white w-full md:w-1/3 mr-16 mb-6" }, [
+        _c("img", {
+          staticClass: "w-full object-cover h-32 sm:h-48 md:h-64 mb-3",
+          attrs: {
+            src: "/images/albums/album-nottibraveafter-3.jpg",
+            alt: "Copertina (versione 2)"
+          }
+        }),
+        _vm._v(" "),
+        _c(
+          "a",
+          {
+            staticClass:
+              "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+            attrs: { href: "/images/albums/album-nottibraveafter-3.jpg" }
+          },
+          [_vm._v("\r\n                    Vinile\r\n                ")]
+        )
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -7357,6 +10059,2470 @@ var render = function() {
   ])
 }
 var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=template&id=0188e097&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=template&id=0188e097& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Accuccia ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=template&id=6fbe6d2c&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=template&id=6fbe6d2c& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Bretelle ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Carl Brave]\r\nBretelle tengono i polmoni al gabbio sottopelle\r\nSopra una maglietta rotta blu XL\r\nNoi che ne abbiamo viste delle belle\r\nFacciamo ancora un po' finta di niente\r\nSpecchio i miei ricordi nei tuoi Persol\r\nCambiare lenti giuro è stato un autogol (ma tu no)\r\nSo che lo puoi sentire se ti penso (ciao)\r\nOggi resto a casa co' un profitterol\r\nPoi vino bianco e Aperol\r\nNon si dice \"ma però\"\r\nCome onde rotte sugli scogli ci infrangiamo\r\nDiventiamo mare con un tuffo nel passato\r\nVenerdì diciassette t'ho cioccata in giro, accarezzavi un setter\r\nM'hai mozzato il fiato, i miei polmoni crackers\r\nE come vernice che si spella dai palazzi\r\nCi siamo lasciati solo scazzi e solo crepe\r\n\r\n[Ritornello: Emis Killa]\r\nVorrei cancellare quella parte di te\r\nChe non ti fa chiedere scusa\r\nE ti fa uscire di casa quando ti svegli nervosa\r\nVorrei cancellare quella parte di me\r\nChe mi fa lanciare le cose\r\nE mi fa alzare la voce\r\nFinché la perdo come perdo te\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Emis Killa]\r\nIn questo angolo di mondo è sempre venerdì\r\nTu sul divano che ti annoi e guardi la tv\r\nIo sono uscito senza un piano e senza un piano B\r\nE ho fatto a botte con un vecchio all'autogrill\r\nSopra l'iPhone cinque chiamate perse, mando un sms\r\nDi insulti e cattiverie, come tutte le sere\r\nVorrei dormire adesso che ho esaurito ogni bugia\r\nSotto il tuo sguardo che ora sembra una radiografia\r\nLungo la via accendo la radio\r\nPassa il mio pezzo preferito ma viene interrotto da una nota audio\r\nDi te che dici che stavolta è l'ultima, lo giuri\r\nGuidando leggo le scritte sui muri\r\nSembra che parlino di noi un po' come quel libro\r\nChe tu mi hai regalato e che io non ho mai finito (mai)\r\nE ora ti dedico un romanzo di brutti pensieri\r\nPensare che stavamo così bene ieri\r\n\r\n[Ritornello: Emis Killa]\r\nVorrei cancellare quella parte di te\r\nChe non ti fa chiedere scusa\r\nE ti fa uscire di casa quando ti svegli nervosa\r\nVorrei cancellare quella parte di me\r\nChe mi fa lanciare le cose\r\nE mi fa alzare la voce\r\nFinché la perdo come perdo te\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=template&id=092f9160&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=template&id=092f9160& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Camel Blu ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Carl Brave]\r\nEh, eh, eh, eh-eh, sì\r\nE mi ricordi un déjà-vu, uh-uhh\r\nIo che fischiavo la carta bordeaux delle caramelle mou-uh-uhh\r\nE che invano aspettavo il notturno passare di qua\r\nNon è sempre domenica-ah-ah-ahh\r\nE mi ricordi un Canta Tu-uh-uhh\r\nUna scenata fuori di melone\r\nDa prigione o anche di più, uh-uhh\r\nE te lo giuro che se te mi dici sì ti porto su-uh-uhh\r\nFacciamoci una pennica-ah-ahh\r\n\r\n[Ritornello: Giorgio Poi]\r\nE sono uscito presto, ma è già giorno\r\nE a casa non ci torno\r\nT'ho scritto prima, ma non m'hai risposto\r\nForse stai dormendo, forse non l'hai letto\r\nMa è vero quello che ti ho detto\r\nE io che ho ancora voglia di fumare\r\nLe Camel Blu alle sei non fanno male\r\nE dai, rispondi adesso perché\r\nMi va di stare con te\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIl ghiaccio sopra al fontanone, mezza birra su un foulard\r\nTu, quell'altra e l'afterone, io ubriaco mar-cio-oh\r\nSpappolato in un abbraccio-oh, ehi\r\nSeduta sul comò scolando du Demon\r\nCol tuo cane-topo in braccio, pare un Pokémon\r\nM'hai detto che non puoi, io ho detto: \"Io può\"\r\nAfferrando una manciata piena di popcorn\r\nVite scontrate hai detto: \"Vado a prende' il Cid\"\r\nE t'ho già detto: \"Ti vorrei da mori'\r\nSulla parete gialla un falso di Dalì\r\nT'ho chiesto \"Allora, tutto bene?\", hai detto: \"Ni\"\r\nNo caffè, ma ginseng\r\nSono partito in quinta, ho preso un altro palo sdeng\r\nE riiniziamo a screziare, aridaje\r\nCi riscordiamo, pare abbiamo già l'Alzheimer\r\nSe tu mi mandassi la tua posizione Whatsapp\r\nPotrei dirti che sono già là\r\nPerò sai pure tu che è un po' ha-hard\r\nE davvero non ho più scusanti da usare per la tua scenata\r\nCi consumiamo con una folata di vento d'autunno\r\n\r\n[Ritornello: Giorgio Poi]\r\nE sono uscito presto, ma è già giorno\r\nE a casa non ci torno\r\nT'ho scritto prima, ma non m'hai risposto\r\nForse stai dormendo, forse non l'hai letto\r\nMa è vero quello che ti ho detto\r\nE io che ho ancora voglia di fumare\r\nLe Camel Blu alle sei non fanno male\r\nE dai, rispondi adesso perché\r\nMi va di stare con te\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=template&id=78e0ecca&":
+/*!***************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=template&id=78e0ecca& ***!
+  \***************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Chapeau ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Intro]\r\nParapara\r\nPa, pa pa\r\n\r\n[Strofa 1: Carl Brave]\r\nMi sveglio ancora a pezzi\r\nUn altro sciopero dei mezzi, ehi\r\nVorrei una Coca e c'è la Pepsi\r\nLa tua famiglia che mi fa senti' un alieno\r\nPiedi a mollo scalcio dentro il Trasimeno\r\nTu a volte dai fastidio come l'acqua nei calzini\r\nE giuro che non rido se mi dici: \"Cosa ridi?\" (Ahahah)\r\nUna testata come Spada, eh eh\r\nMo fai la brava, eh\r\n\r\n[Ritornello: Carl Brave & Frah Quintale]\r\nE sai che c'è\r\nC'è che se non penso più a niente\r\nFinisco a pensa' sempre a te\r\nE mi rifletto in un altro quartino di Chardonnay\r\nTu che c'hai la forza di rifarti la vita da zero\r\nIo no, io no\r\nChapeau, chapeau, chapeau\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nEhi, ehi\r\nE quando famo un viaggio mezzo serio, ehi\r\nNon c'è mai nessuno con il cavo aux\r\nLadispoli pare Rio de Janeiro, eh\r\nE quell'attore boro ha fatto coming out\r\nCi sta lei e devo stare calmo om, eh\r\nE quel campo scuola era un campo rom\r\nL'amico mio mi dice: \"Zio, senti che frio, mannaggia a... te\"\r\n\r\n[Ritornello: Carl Brave & Frah Quintale]\r\nE sai che c'è\r\nC'è che se non penso più a niente\r\nFinisco a pensa' sempre a te\r\nE ti rifletto su un altro quartino di Chardonnay\r\nTu che c'hai la forza di rifarti la vita da zero\r\nIo no, io no\r\nChapeau, chapeau, chapeau\r\n\r\n[Strofa 3: Frah Quintale]\r\nSono di nuovo le 6\r\nE sono ancora in giro senza di lei, ehi\r\nPensavo fosse tutto ok\r\nMa preferisco Roma quando ci sei qui tu con me\r\nTi cerco in fondo a bottiglie di vetro da 66 uh yeah\r\nTe ne sei andata senza neanche un perché (chissà dove sei? ehi)\r\nPoi tu mi fumi il cuore come una Lucky Strike\r\nPalle da bowling su ogni mia storia è uno strike\r\nSto in giro fatto male come scritte con spray\r\nTi prego torna qui sennò poi dove vai?\r\nMi sei entrata in testa una sera a una festa\r\nEri sbronza, molesta, e da qui non esci più\r\nMi faccio a piedi Roma, Milano e anche Brescia ma aspetta\r\nSei l'unica che mi fa stare su\r\n\r\n[Ritornello: Carl Brave & Frah Quintale]\r\nE sai che c'è\r\nC'è che se non penso più a niente\r\nFinisco a pensa' sempre a te\r\nE mi rifletto in un altro quartino di Chardonnay\r\nTu che c'hai la forza di rifarti la vita da zero\r\nIo no, io no\r\nChapeau, chapeau, chapeau\r\n(Ohh, ohh-oh-oh)\r\nChapeau, chapeau, chapeau\r\nChapeau, chapeau, chapeau\r\n(Na-na-na-ra-na-na-na, yeah, yeah)\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=template&id=27afb7be&":
+/*!***************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=template&id=27afb7be& ***!
+  \***************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("E10 ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              ' \r\n[Strofa 1: Carl Brave]\r\nT\'ho detto andiamo a bere ma tu hai detto "No-oh-oh"\r\nHo chiesto qua va bene tu mi hai detto "Boh-oh-oh"\r\nTi porto un bicchiere e hai detto "Ma da solo no"\r\nFacciamo una sveltina fly dentro una Renault\r\nIl nostro baretto ha chiuso ciao ciao ora c\'è\r\nUn caffè gourmet dove un piatto costa "Ehh"\r\nStavo meglio in quello vecchio mi sentivo un re\r\nOra pijo un Peroni prima ne pigliavo tre\r\nLei cucina bene vuole andare a MasterChef\r\nUn filino troppo sale, butta via nel trash\r\nPerso il cell alla stazione ne ritrovo tre\r\nE tu hai cominciato col solito putife-rio\r\nDai ti prego accanna amo\' con il pianto gre-co\r\nNon ti reggo proprio poi lo sai che non mi regolo\r\nInsulti grevi tutti i santi scesi giù dal cielo\r\nSul soffitto un geco, lo guardo di sbieco\r\n\r\n[Ritornello: Carl Brave & B]\r\nE 10, te l\'ho già detto che mi scoccia non vederti\r\nChe un messaggio tuo ormai debba finire con un "baci"\r\nAbbiamo battuto tutti i record\r\nE rifatto circa centomila volte almeno la tessera Arci\r\nEppure oggi mai \'na gioia, solo sole, solo calci, solo storie\r\nIo non voglio entrarci\r\nCiao, ti chiamo un taxi\r\n            '
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Pretty Solero]\r\nSotto al cielo ho perso tempo rigirandomi nel letto\r\nHo visto il sole tra le nuvole e mi batte forte il petto\r\nUn lampione spento, gocce di vino sopra al pavimento\r\nCamminiamo con l'ombrello sotto al temporale\r\nCon l'inverno che ci abbraccia il suo sorriso in faccia\r\nIl mare mosso, la calma piatta\r\nIl suo rossetto sulle labbra\r\nTi chiedo solo un motivo, un fiore in mezzo al giardino\r\nOggi facciamoci un giro dai ti prego pago io yeh-yeh\r\nMi guarda da lontano, mandami un bacio\r\nPerdonami per tutto quanto\r\n\r\n[Ritornello: Carl Brave & B]\r\nE 10, te l'ho già detto che mi scoccia non vederti\r\nChe un messaggio tuo ormai debba finire con un \"baci\"\r\nAbbiamo battuto tutti i record\r\nE rifatto circa centomila volte almeno la tessera Arci\r\nEppure oggi mai 'na gioia, solo sole, solo calci, solo storie\r\nIo non voglio entrarci\r\nCiao, ti chiamo un taxi\r\nE 10, te l'ho già detto che mi scoccia non vedette\r\nChe un messaggio tuo ormai debba finire con un \"baci\"\r\nAbbiamo battuto tutti i record\r\nE rifatto circa centomila volte almeno la tessera Arci\r\nEppure oggi mai 'na gioia, solo sole, solo calci, solo storie\r\nIo non voglio entrarci\r\nCiao, ti chiamo un taxi\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=template&id=0dc02db7&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=template&id=0dc02db7& ***!
+  \******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Fotografia ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Carl Brave]\r\nLei fa \"M'ama non m'ama\" con un quadrifoglio (ok)\r\nNoi testardi come onde su uno scoglio (sì)\r\nE tu vieni ma poi non rimani mai (eh)\r\nEravamo quercia, mo siamo bonsai (eh)\r\nAscolto il ticchettio di pioggia sul tettino (sì)\r\nIn lontananza le sirene \"ni-no, ni-no\" (eh)\r\nL'allarme della cinta suona all'infinito\r\nUna sigaretta affoga in un tombino (eh)\r\nIl Tevere pare l'oceano\r\nNoi che viviamo a notte fonda e al mare ci tuffiamo a bomba\r\nUn mio amico che si apre, giuro che sarò una tomba\r\nLa chiamo un'altra volta e un'altra volta: “TIM informa”\r\nSu una rotonda Alberto Tomba, suora tua\r\nDalla prua di un Toyota belli andanti fai manovra (ehh, ehh)\r\nQua non si campa d'aria-ah (ahh)\r\nE non si torna indietro come ha fatto Minala\r\n\r\n[Ritornello: Francesca Michielin]\r\nVoglio un'ora d'aria in una nuova serie\r\nFammi una foto e non vedere come viene\r\nTi dico \"Ciao\" sopra ad un Ciao\r\nSmezziamoci una margherita e usciamo a bere\r\nHo i tuoi occhi rossi in tasca sul rullino\r\nPiango senza parabrezza in motorino\r\nMa tanto io e te, dai negativi, sì\r\nNe usciamo fuori bene\r\nCome una fotografia\r\nCome una fotografia\r\nCome una fotografia\r\nCome una fotografia\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Fabri Fibra]\r\nEsco di casa solo se ho cose da fare\r\nPerché fuori perdo sempre il mio cellulare\r\nTengo sotto controllo il problema, è normale\r\nSo che dovrei cambiare sistema solare\r\nIl mondo è pieno di hater e già lo sai\r\nSorridi in foto così li confonderai\r\nNessuno crede veramente in ciò che fai\r\nSpero che Dio mi tenga lontano dai guai\r\nQuanto stai bene con quella maglietta Fila\r\nHo preso un disco solo per la copertina\r\nMille messaggi, sempre la stessa faccina\r\nMa se non usi i social nessuno si fida (Ah)\r\nLa moda è bella ma ci rende tutti uguali\r\nChissene frega, guarda ho preso questi occhiali\r\nRestiamo qui a parlare d'arte e di film vari\r\nFinché Marte non ci separi\r\n\r\n[Ritornello: Francesca Michielin]\r\nVoglio un'ora d'aria in una nuova serie\r\nFammi una foto e non vedere come viene\r\nTi dico \"Ciao\" sopra ad un Ciao\r\nSmezziamoci una margherita e usciamo a bere\r\nHo i tuoi occhi rossi in tasca sul rullino\r\nPiango senza fare pezza in motorino\r\nMa tanto io e te, dai negativi, sì\r\nNe usciamo fuori bene\r\n\r\n[Bridge: Francesca Michielin]\r\nE se non me lo dici ti lancio un 3310\r\nCome un sasso in un laghetto dentro la città\r\nAndiamo al cinema all'aperto con il cuore un po' scoperto\r\nE con un Polaretto sciolto nella macchina\r\nE mentre non mi guardi ti scatto una foto\r\nE quando poi ti sposti ti do un bacio a vuoto\r\nE nananana, nananana, naaa\r\n\r\n[Ritornello: Francesca Michielin e Carl Brave]\r\nCome una fotografia\r\nCome una fotografia\r\nCome una fotografia\r\nCome una fotografia\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=template&id=68c0b2b0&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=template&id=68c0b2b0& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("La Cuenta ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Carl Brave]\r\nIn mano una baguette, la radio che balbetta (bla-bla-bla)\r\nE mentre parli il vento fuma la tua sigaretta\r\nOrmai siamo alla cuenta, alla doggy bag\r\nE il tuo profumo che già non sa più di me\r\nViso plumbeo, una schicchera\r\nCome col Subbuteo\r\nSono sveglio ma la testa è ancora a letto\r\nFaccio appassire anche l'ultimo fioretto\r\nEvito i silenzi imbarazzanti in ascensore\r\nLa vicina in doccia sento le doti canore\r\nUna giornata timida che s'è arrossita\r\nIo resto al letto co' 'n filmetto streaming in sub ita\r\nI clacson cantano pare che è lo Zecchino d'Oro\r\nUn vinello vuoto digerisce morti di Marlboro, ehi\r\nSperanze dentro un trolley\r\nNoi che ridevamo a crepapelle in un blue monday e mo\r\n\r\n[Pre-Ritornello: Federica Abbate]\r\nCade giù il soffitto e crolla il cielo in questa stanza\r\nSi aprono le acque mentre passa l'ambulanza\r\nMentre io ti strappo i tatuaggi dalle braccia\r\nLa luna è già di schiena e c'è la gente che si affaccia\r\n\r\n[Ritornello: Federica Abbate]\r\nMa come mai\r\nTe l'avevo detto mille volte facevi sì\r\nMa tu non mi ascolti mai\r\nTi cerco nell'ombra\r\nSotto questi lampioni rotti\r\nMa in questa città\r\nNon c'incontriamo mai\r\nNon c'incontriamo mai\r\nNeanche di notte\r\nMa in questa città\r\nNon c'incontriamo mai\r\nNon c'incontriamo mai\r\nNeanche di notte\r\nNotte\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Franco126]\r\n7:30 io rimando un'altra sveglia\r\nE tiro su il piumone fin sopra la testa, ah ah\r\nTi ho incrociato mentre stavo in dormiveglia\r\nEd esco col maglione messo alla rovescia, ah ah\r\nE sono al bar e sto impegnato a fare niente (eh)\r\nNon ci incontriamo mai, ma io ti cerco sempre ('ndo?)\r\nAl terminal delle partenze (eh)\r\nTra le pieghe del letto (eh)\r\nTra le rughe sul viso della gente\r\nStiamo immobili\r\nCol sole che ci spia dalle veneziane\r\nGli occhi rossi pe' i pollini\r\nSvolazza nel vento un foglio di giornale\r\nE ci sporcavamo i palmi con la Vinavil\r\nE ci perdevamo dentro questi vicoli\r\nE se mi sporgo dalle scale ho le vertigini\r\nCome fossimo vis-à-vis\r\n\r\n[Pre-Ritornello: Federica Abbate]\r\nCade giù il soffitto e crolla il cielo in questa stanza\r\nSi aprono le acque mentre passa l'ambulanza\r\nMentre io ti strappo i tatuaggi dalle braccia\r\nLa luna è già di schiena e c'è la gente che si affaccia\r\n\r\n[Ritornello: Federica Abbate]\r\nMa come mai\r\nTe l'avevo detto mille volte facevi sì\r\nMa tu non mi ascolti mai\r\nTi cerco nell'ombra\r\nSotto questi lampioni rotti\r\nMa in questa città\r\nNon c'incontriamo mai\r\nNon c'incontriamo mai\r\nNeanche di notte\r\nMa in questa città\r\nNon c'incontriamo mai\r\nNon c'incontriamo mai\r\nNeanche di notte\r\nNotte\r\nE forse è meglio così\r\nE forse è meglio\r\nE forse è meglio\r\nÈ meglio così\r\nE forse è meglio\r\nE forse è meglio\r\nCosì, così, così, così, così, così, così, così, così così, così, così\r\nE forse è meglio così\r\nE forse è meglio così\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=template&id=1e0a37ef&":
+/*!**************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=template&id=1e0a37ef& ***!
+  \**************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Malibu ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1: Carl Brave]\r\nE se non metti l'ultimo noi non ce ne andiamo\r\nLei chiama terún tutti i nati da Milano Sud in giù\r\nAmo' ti porto a Malibu, ma prima prendo un Malibu, yeh\r\nCi perdiamo in una maglia di Fruit Of The Loom, yeah\r\nRespiravamo all'unisono finché non hai accennato uno starnuto\r\nEh, eh\r\nE poi m'hai tolto pure il saluto, vabbè\r\nQuel locale pettinato ci sembrava un puttantour\r\nImmaginiamoci a Corfù, poi after al Cocoon\r\nA Pamplona non ce regge la corsa coi tori, eh\r\nQuesta curva, troppa gente, ormai un mazzo di fiori\r\n\r\n[Ritornello: Carl Brave]\r\nUn cane chiuso in auto d'estate\r\nUn'onda in mare che non sa nuotare\r\nVino rosso che non si può bere\r\nMa nient'altro da stappare\r\nE tu sei ghiaccio dentro a un bicchiere\r\nCi siamo senza rimanere\r\nChiedo il conto al cameriere\r\nMa tu sei già andata via\r\nMa tu sei già andata via\r\nMa tu sei già andata via\r\nVia\r\nMa tu sei già andata via\r\nMa tu sei già andata via\r\nVia, via\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Gemitaiz]\r\n(Babe)\r\nSono le 6, fuori sta diluviando, te dove sei?\r\nSto aspettando il sole sembra il '96\r\nNo davvero, non è tutto ok\r\nTu non ti preoccupare, fai come ieri\r\nAsciuga il mare dei tuoi pensieri (Wow)\r\nAltro che Malibu\r\nVinco io se facciamo gara a chi ce ne ha di più\r\nBevo questo, bevo quello e poi\r\nMi giro e ti mando un bacio pure se non vuoi\r\nChe non credo alle favole\r\nMi dici \"Sì\" ma mi sa è lo Chardonnay\r\nFumiamo questa e restiamo abbracciati un po'\r\nTra un orgasmo e un attacco di panico\r\nSì, sono apatico, sì, sono empatico\r\nCome la notte d'estate no?\r\nForse il prossimo anno imparerò, imparerò\r\n\r\n[Bridge: Gemitaiz & Carl Brave]\r\nE mangiamo le pasticche dentro allo stadio\r\nUna sciarpa che ci abbraccia ripescata dall'armadio\r\n\r\n[Ritornello: Carl Brave]\r\nUn cane chiuso in auto d'estate\r\nUn'onda in mare che non sa nuotare\r\nVino rosso che non si può bere\r\nMa nient'altro da stappare\r\nE tu sei ghiaccio dentro a un bicchiere\r\nCi siamo senza rimanere\r\nChiedo il conto al cameriere\r\nMa tu sei già andata via\r\nMa tu sei già andata via\r\nMa tu sei già andata via\r\nVia\r\nMa tu sei già andata via\r\nMa tu sei già andata via\r\nVia, via\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Noi.vue?vue&type=template&id=3c7c990d&":
+/*!***********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Noi.vue?vue&type=template&id=3c7c990d& ***!
+  \***********************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Noi ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nBorbotta il frigo nella notte\r\nHo dieci dita di Bombay\r\nLe nostre voci mezze rotte, eh\r\nUnisco tutti i nostri nei\r\nHo il tuo sorriso sulle labbra\r\nT'ho dato tutti quelli miei\r\nSe spariranno abracadabra\r\nMi tengo il tuo, ehi\r\nE tua madre crede ancora che qualcuno possa metterci la droga nel cocktail (magari)\r\nSe le dicessi \"magari\", credo che lei si potrebbe fare un'idea sbagliata di me\r\nE prima del volo abbiamo riso tutti quei movimenti buffi dell'hostess (ah)\r\nIn caso di emergenza, non posso stare senza te\r\n\r\n[Ritornello]\r\nDimmi una cosa, dimmene due\r\nPija le mie mani (ehi), dammi le tue (ehi)\r\nDimmi una cosa (ehi), dimmene due (ehi, ehi, ehi, ehi)\r\nNoi\r\nDimmi una cosa, dimmene due\r\nPija le mie mani (ehi), dammi le tue (ehi)\r\nDimmi una cosa (ehi), dimmene due (ehi, ehi, ehi, ehi)\r\nNoi\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nNon ti metti la matita sugli occhi (no)\r\nCosì grandi che poi si rimpiccioliscono\r\nAmo quella macchia scura su quel verde\r\nChe se ti stesse dietro il Colosseo sparirebbe, eh\r\nCon te voglio fare il precio\r\nNon valgono gli incroci (no)\r\nE t'ho presa a cavacecio\r\nPerché andiamo troppo veloci\r\n\r\n[Ritornello]\r\nDimmi una cosa, dimmene due\r\nPija le mie mani (ehi), dammi le tue (ehi)\r\nDimmi una cosa (ehi), dimmene due (ehi, ehi, ehi, ehi)\r\nNoi\r\nDimmi una cosa, dimmene due\r\nPija le mie mani (ehi), dammi le tue (ehi)\r\nDimmi una cosa (ehi), dimmene due (ehi, ehi, ehi, ehi)\r\nNoi\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=template&id=e3db687e&":
+/*!*******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=template&id=e3db687e& ***!
+  \*******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Parco Gondar ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Intro]\r\nYeh yeh yeh yeh ehi\r\nAh ah yeh\r\n\r\n[Strofa 1: Carl Brave]\r\nT'ho chiamata il 19\r\nDopo quella foto un po' bora, un po' poser (Pronto amo'?)\r\nHo detto: \"Andiamo\", hai detto: \"Come e dove?\r\nNon mi fido che sei un grande attore, ce lo so\"\r\nAffogo il sonno sotto le pezze\r\nMagliette stese sul balcone morsicate da mollette\r\nA cena tonno in scatolette e due birrette\r\nA Parco Gondar il sole non c'abbronza mai\r\nLa brezza ansima\r\nLei gioca a fare l'ultima romantica, magica\r\nAndiamo per i trenta con le posate in plastica\r\nStava senza tuta all'ora di ginnastica\r\nParto all'inseguimento di una Mini della Red Bull\r\nStormi di PR in strada che s'accollano\r\nRifiuto un'altra russa top sorca fake on Facebook\r\nSchivo l'inghippo al volo come fossi un matador (olè)\r\nIn vacanza con un solo jeans\r\nT'ho cioccata con la tua bff\r\nM'è scesa una lacrima di gin e\r\nParli a gesti, pare che giochi al Gioca jouer\r\n\r\n[Ritornello: Coez]\r\nE io che già ragionavo per due\r\nBallavi, ti tenevo per la gonna\r\nCercavo l'ombra a Parco Gondar\r\nE io che già ragionavo per due\r\nScappavi e ti tiravo per la gonna\r\nCercavo l'ombra a Parco Gondar\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Carl Brave]\r\nIn mare i cavalloni al trotto\r\nS'è ritirato Totti e so' quasi ventotto\r\nSo' baci a mezza bocca, ci so' rimasto sotto\r\nTi cerco nella vodka, ma poi non trovo posto\r\nFa la gnorri-gnorri, ehi\r\nDove corri-corri, ehi\r\nAbbassiamo i toni, si\r\nVorrei dieci Oki, ehi ehi\r\nSo' cotto di lei lo può vedere pure un cieco\r\nVorrei abbracciarti però resto a mezzo metro-o-oh\r\nNon so come andrà, non c'ho la palla di vetro\r\nSo solo che amo quel vedo-non-vedo\r\nE non capisco ancora quei tuoi punti e virgola\r\nTi vorrei ogni mattina come in edicola\r\nVieni a casa mia con me\r\n\r\n[Ritornello: Coez]\r\nE io che già ragionavo per due\r\nBallavi, ti tenevo per la gonna\r\nCercavo l'ombra a Parco Gondar\r\nE io che già ragionavo per due\r\nScappavi e ti tiravo per la gonna\r\nCercavo l'ombra\r\n\r\n[Outro: Coez]\r\nQuando m'hanno puntato una pistola\r\nIl giorno dopo io l'ho detto a scuola\r\nEro tranquillo, forse solo scemo\r\nA volte se mi sei vicino tremo\r\nQuando m'hanno puntato una pistola\r\nE il giorno dopo io l'ho detto a scuola\r\nEro tranquillo, forse solo scemo\r\nA volte se mi sei vicino tremo\r\nOh-oh-ohh, oh-oh-ohh\r\nA volte se mi sei vicino tremo\r\nOh-oh-ohh, oh-oh-ohh\r\nOh-oh-ohh, oh-oh-ohh\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=template&id=bcef54dc&":
+/*!*******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=template&id=bcef54dc& ***!
+  \*******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Pianto Noisy ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\nLei ha due dita in gola e sbratta piano solo bile al cesso\r\nIo co' un mal di testa, porco *** umbriaco lesso\r\nNon capisco che sta a di' alle guardie fuori dal cancello\r\n'Sta sera ho perso il cellulare e ho preso pure un destro\r\nLei mi diceva prima non beveva tanto spesso\r\nAnche io è da un po' che non so' più lo stesso\r\nMi guarda e ride, io non riesco a dire \"a\"\r\nLa sua amica sul sofà, in tv la Serie A\r\nIo per terra come un verme, come una radice\r\nLei si tocca la narice\r\nSorride ma non è felice\r\nVede il quadro uscire via dalla cornice\r\nNon riesco a capire quello che dice in bocca sa di vernice\r\nIl mio cuore paonazzo\r\nRallentiamo l'andazzo\r\nFuori pioggia di ghiacco\r\nSotto un tetto a Testaccio (ehi)\r\nLei apre i rubinetti\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\nBorse sotto gli occhi oasi\r\nVorrei bere dal suo pianto noisy\r\nArrotati pe' questo prodotto\r\nSette anni pe' uno specchio rotto\r\nNoi autodistruttivi kamikaze\r\nT'ho preso tutto, ma non t'ho mai detto grazie\r\nE ti prego di accorciare le distanze\r\nNon bastano due stanze\r\nA divide' i nostri cuori magneti\r\nGrandi come pianeti\r\nTutt'uno con le pareti\r\nLa tua pelle di seta, ho scordato quello che eri\r\nI tuoi nei, bei momenti tuoi, quelli miei\r\nI sorrisi quelli veri a trentadue quando non c'era lei\r\nAl polso un Rolex fatto a morsi, denti tuoi sui polsi\r\nIo che mi sento ricco vero come quando svolti\r\nTu che sorridi sul divano nei tuoi occhi rossi\r\nSei bella vera sempre non mi importa ciò che indossi\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=template&id=35d96a24&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=template&id=35d96a24& ***!
+  \******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Professorè ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Intro]\r\nNon voglio andare a scuola\r\nNon voglio andare a scuola\r\nNon voglio andare a scuola\r\n\r\n[Strofa 1]\r\nVorrei vederti arrossire come il tappo di un Pinot\r\nPedalarti in un risciò, accartocciare i tuoi fuseaux\r\nAlzavo i gradi del termometro sotto a una lampadina\r\nPe' non andare a scuola, almeno non entrare in prima eh, ma eh\r\nTi ho scoppiata a Capodanno in un petardo\r\nIntrappolato il nostro bacio in una gomma sotto a un banco\r\nPoi mi sono impanicato per un tuo ritardo\r\nHo cancellato la mia linea della vita sul tuo palmo\r\nMo' vorrei aver fatto la primina pe' stare accanto a te\r\nO almeno per finire prima, eh, eh\r\nQuand'eri fredda io ho abbracciato un tè\r\nHo cercato nel calore il profumo di te\r\nSotto a quintali di Goleador\r\nMi perdo in un festino hardcore a Roma Nord\r\nPoi ti parlo di cazzate, non ascolti\r\nCome quando parla un prete a un funerale\r\n\r\n[Pre-Ritornello]\r\nEhi, ehi, no, no\r\nNon voglio andare a scuola\r\nNo, no, no, no, no, no\r\nSe mi cerchi puoi trovarmi in una nota sul registro\r\nIn un disegno a cazzo a un cesso démodé\r\n\r\n[Ritornello]\r\nAeh professorè\r\nVorrei vederti a te\r\nMi so' fatto il culo ehh\r\nE poi m'hai messo tre\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nTi facevo uno squilletto per dirti \"Ti penso\"\r\nMa è durato un mesetto il nostro amore immenso\r\nM'hai lasciato co' 'n biglietto\r\nHo fatto canestro nel secchio (ciaf)\r\nMi manca il ferro dei tuoi baci all'apparecchio\r\nE all'appello del supplente\r\nQuando toccava a Rossi lui urlava sempre \"Assente\" (\"Assente\")\r\nQuelle di 5°A so' tutte mega fregne\r\nE so che non avrò mai più così tante scodelle\r\nCo' quella di Ita, 'na rincoglionita\r\nLa confondevamo quando partiva il \"Mmhhh\"\r\nFalsificavo la giustifica se c'era la verifica di fisica (eh, eh)\r\nOgni battuta era \"Tu madre\" o \"Tu sorella\"\r\nPregavo la bidella: \"Suona 'sta campanella\"\r\nE mentre il prof parlava dell'ampere\r\nIo stavo a casa col PC a chatta' su Messenger, Messenger\r\n\r\n[Ritornello]\r\nAeh professorè\r\nVorrei vederti a te\r\nMi so' fatto il culo ehh\r\nE poi m'hai messo tre\r\nAeh professorè\r\nVorrei vederti a te\r\nMi so' fatto il culo ehh\r\nE poi m'hai messo tre\r\n\r\n[Outro]\r\nHola ah oggi non voglio andare a scuola\r\nHola, hola, hola, hola, hola-ah\r\nOggi non voglio andare a scuola\r\nHola, hola, hola, hola\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=template&id=6f79ed96&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=template&id=6f79ed96& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Pub Crawl ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nChe amarezza Piazza Venezia\r\nUn corazziere fermo a fa' la statuetta (che scesa)\r\nLo scroscio a piombo apre le danze ai parabrezza\r\nNei Fori turisti in carrozza che lentezza\r\nE la pioggia che blocca le vie\r\nLa città della lupa è una tartaruga\r\nInvecchio in una ruga della metro B (sì)\r\nPare di sta' sulla luna, Roma è tutta una buca, ehi\r\nIl sanpietrino mi scivola, in moto si pattina, il vento ci spettina\r\nIl biondo Tevere s'è fatto moro (moro)\r\nRoma è più bella quando sto da solo (solo)\r\nSventaglio una bustina di zucchero\r\nE non la chiamo anche se ho fatto il numero (393)\r\nSullo schermo rotto dell'iPhone\r\n\r\n[Ritornello]\r\nPardon, ti mando un corazon, corazon\r\nLo so, mi so' imbucato a questo pub crawl\r\nHo visto dallo specchio la tua maglia Roma, ho letto \"Amor\"\r\nWhere are you from?\r\nPardon, parte il trenino su Brigitte Bardot\r\nBardot, mi so' imbucato a questo pub crawl\r\nHo visto dallo specchio quella scritta Roma, ho letto \"Amor\"\r\nWhere are you from?\r\nMmhhh\r\nWhere are you from?\r\nMmhhh\r\nWhere are you from?\r\nUuuh\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nLe medicine americane so' più strong, sì\r\nLei è una spada a fa' beer pong\r\nIl bancone è il suo futon, ok\r\nIl mio filtro Insta è un Sangiovese doc\r\nChe mi puoi dare l'hotspot?\r\nCampo de' Fiori, buttadentro stanno fuori\r\nI bangla delle rose l'8 marzo c'hanno le mimose\r\nE dico \"Ahó, ahó\", risponde \"Hello\"\r\nUna cerveza e stamo al top\r\nUn clochard si rimbocca le coperte coi giornali\r\nC'è una Smart, parcheggiare a Roma centro è un safari\r\nA dotto' e daje un po'\r\n'Na malattia su Google Chrome\r\nOggi l'Isla Tiberina pare l'Isla dei Peor\r\nIo caffè al bar, lei Starbucks\r\nUna cuffietta a testa, specchiati sul tram\r\nIl capodanno che vorrei, con tuffo di Mister Ok\r\nMa tu stai pellaria nel Maine\r\n\r\n[Ritornello]\r\nPardon, ti mando un corazon, corazon\r\nLo so, mi so' imbucato a questo pub crawl\r\nHo visto dallo specchio la tua maglia Roma, ho letto \"Amor\"\r\nWhere are you from?\r\nPardon, parte il trenino su Brigitte Bardot\r\nBardot, mi so' imbucato a questo pub crawl\r\nHo visto dallo specchio quella scritta Roma, ho letto \"Amor\"\r\nMmhhh\r\nWhere are you from?\r\nMmhhh\r\nWhere are you from?\r\nMmhhh\r\nWhere are you from?\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=template&id=05c3deb8&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=template&id=05c3deb8& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Scusa ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Ritornello: B]\r\nQuante volte ho scritto un messaggio\r\nDa ubriaco e poi cancellato\r\nA volte ho tirato la corda, ma per il piacere di farlo\r\nSoltanto per il gusto di\r\nChiedere scusa, chiedere scusa\r\n\r\n[Strofa 1: Carl Brave]\r\nAl locale lei non paga, lecco il timbro che\r\nLei mi dà il palmo sinistro e glielo tengo spinto (vai)\r\nLei che si nasconde dietro le fossette\r\nChe parla a vanvera nelle dirette\r\nE stasera voglio mette' la mia giacca buona\r\nDirti solo \"Chiudi gli occhi, amo' ti porto a cena\"(no)\r\nÈ la tua voce che mi manda a rota\r\nVorrei fare il morto a galla tra le tue lenzuola\r\nLa nostra storia che caciara, che caciara, che caciara\r\nEh eh eh e lei\r\nHa come cover dell'iPhone le patatine piccole del Mc\r\nMi manda foto osè formato .jpeg\r\nUna bottiglia di rosè e sono da te\r\nE mi ricordo che giocavo al Tamagotchi\r\nNoi sempre più in ritardo andiamo via veloci\r\n\r\n[Ritornello: B]\r\nQuante volte ho scritto un messaggio\r\nDa ubriaco e poi cancellato\r\nA volte ho tirato la corda, ma per il piacere di farlo\r\nSoltanto per il gusto di\r\nChiedere scusa, chiedere scusa\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2: Ugo Borghetti]\r\nLe scarpe slacciate alla stazione\r\nÈ una giornata di merda e è iniziato pure a piove'\r\nUscita da scuola, nascosta nel bagno del treno\r\nSi guarda allo specchio, si vede che è stanca\r\nE scappa da anni dallo stesso pensiero\r\nM'addormento mentre svaniscono 'ste facce\r\nNoi dalle scale a fumare canne\r\nUn bacio, un bicchiere di vino davanti al camino\r\nI sogni hanno fatto spazio al fumo dentro a quer comodino\r\nC'ho sempre il magone mentre scrivo\r\nUna Peroni e un supplì da Venanzio\r\nE i tuoi occhi chiari e la tua pelle bianca\r\nSogna dieci mesi di vacanza\r\n\r\n[Ritornello: B]\r\nQuante volte ho scritto un messaggio\r\nDa ubriaco e poi cancellato\r\nA volte ho tirato la corda, ma per il piacere di farlo\r\nSoltanto per il gusto di\r\nChiedere scusa, chiedere scusa\r\nQuante volte ho scritto un messaggio\r\nDa ubriaco e poi cancellato\r\nA volte ho tirato la corda, ma per il piacere di farlo\r\nSoltanto per il gusto di\r\nChiedere scusa, chiedere scusa\r\nQuante volte ho scritto un messaggio\r\nDa ubriaco e poi cancellato\r\nA volte ho tirato la corda, ma per il piacere di farlo\r\nSoltanto per il gusto di\r\nChiedere scusa, chiedere scusa\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Vita.vue?vue&type=template&id=6a2dd4eb&":
+/*!************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibrave/Vita.vue?vue&type=template&id=6a2dd4eb& ***!
+  \************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Vita ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nCompro un biglietto e poi saltiamo in due il tornello\r\nIo no in mezzo, un Tango, torello\r\nTu mi hai tanato\r\nMentre dormivo hai messo il dito mio sul tasto ho-ho-home\r\nHai esagerato, ma m'hai trovato quelle foto mezze porno co-o-on\r\n(Come si chiama?)\r\nE devo fare pippa\r\nNon posso dire a\r\n\r\n[Ritornello]\r\nSe, ti do (ti do), la mia vita in mano\r\nGiura che (che), poi tu (giura), me la tratti bene bene\r\nE, lo sai\r\nChe te la perdi in borsa\r\nTra i ramini sparsi e il Labello blu\r\nSe, ti do, tutta la mia vita\r\nGiura che, poi tu, te la stringi al petto forte\r\nE poi, però\r\nMe la riporti indietro con qualcosa in più, qualcosa in più\r\n\r\n[Post-Ritornello]\r\nCi siamo alzati le mani\r\nFacciamo pace domani\r\nE conosciamo il finale\r\nCi siamo alzati le mani\r\nFacciamo pace domani\r\nE conosciamo il finale\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nTrovai il tuo numero sul muro dei cessi dell'Autogrill (sì)\r\nAccanto ad una Deborah con l'h (ehi)\r\nSarà il tuo ex che boh la deve ancora digerì\r\nDice che se mi vede poi mi spacca\r\nNoi in coda sulla Roma-Napoli\r\nMetto la prima con il cambio che gratta (se)\r\nEffetto serra e il finestrino scotta sulle braccia (ahia!)\r\n(E lei) E lei ne gira un'altra, ok\r\n\r\n[Ritornello]\r\nSe, ti do (ti do), la mia vita in mano\r\nGiura che (che), poi tu (tu), me la tratti bene bene\r\nE, lo sai\r\nNon te la perdi nella borsa\r\nTra i ramini e il Labello blu\r\nSe, ti do, tutta la mia vita\r\nDici che, poi tu, te la lasci indietro\r\nÈ vero si, ma poi\r\nPoi ti ritorna in mente come un dejà-vu\r\nContenta tu\r\n\r\n[Post-Ritornello]\r\nCi siamo alzati le mani\r\nFacciamo pace domani\r\nE conosciamo il finale (e lo so già)\r\nCi siamo alzati le mani\r\nFacciamo pace domani\r\nE conosciamo il finale\r\n\r\n[Outro]\r\nFaccio A-B-C-D con la linguetta della Coca\r\nPer trovare il nome di un amore che mi corrisponda\r\nE cerco di forzare la tua iniziale\r\nMa va sempre male\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=template&id=84625de4&":
+/*!*********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=template&id=84625de4& ***!
+  \*********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Comunque ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=template&id=0691f92e&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=template&id=0691f92e& ***!
+  \******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Merci ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=template&id=562cb304&":
+/*!**************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=template&id=562cb304& ***!
+  \**************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Mezzo Cocktail ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=template&id=18d86359&":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=template&id=18d86359& ***!
+  \******************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Posso ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=template&id=1fe20efe&":
+/*!************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=template&id=1fe20efe& ***!
+  \************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Ridere di noi ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=template&id=05f94a6d&":
+/*!**********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=template&id=05f94a6d& ***!
+  \**********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Spunte Blu ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=template&id=386f6f61&":
+/*!********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=template&id=386f6f61& ***!
+  \********************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Termini ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -47660,6 +52826,1524 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/songs/nottibrave/Accuccia.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Accuccia.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Accuccia_vue_vue_type_template_id_0188e097___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Accuccia.vue?vue&type=template&id=0188e097& */ "./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=template&id=0188e097&");
+/* harmony import */ var _Accuccia_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Accuccia.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Accuccia_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Accuccia_vue_vue_type_template_id_0188e097___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Accuccia_vue_vue_type_template_id_0188e097___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Accuccia.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Accuccia_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Accuccia.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Accuccia_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=template&id=0188e097&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=template&id=0188e097& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Accuccia_vue_vue_type_template_id_0188e097___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Accuccia.vue?vue&type=template&id=0188e097& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Accuccia.vue?vue&type=template&id=0188e097&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Accuccia_vue_vue_type_template_id_0188e097___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Accuccia_vue_vue_type_template_id_0188e097___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Bretelle.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Bretelle.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Bretelle_vue_vue_type_template_id_6fbe6d2c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Bretelle.vue?vue&type=template&id=6fbe6d2c& */ "./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=template&id=6fbe6d2c&");
+/* harmony import */ var _Bretelle_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Bretelle.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Bretelle_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Bretelle_vue_vue_type_template_id_6fbe6d2c___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Bretelle_vue_vue_type_template_id_6fbe6d2c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Bretelle.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Bretelle_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Bretelle.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Bretelle_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=template&id=6fbe6d2c&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=template&id=6fbe6d2c& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Bretelle_vue_vue_type_template_id_6fbe6d2c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Bretelle.vue?vue&type=template&id=6fbe6d2c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Bretelle.vue?vue&type=template&id=6fbe6d2c&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Bretelle_vue_vue_type_template_id_6fbe6d2c___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Bretelle_vue_vue_type_template_id_6fbe6d2c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/CamelBlu.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/CamelBlu.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _CamelBlu_vue_vue_type_template_id_092f9160___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./CamelBlu.vue?vue&type=template&id=092f9160& */ "./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=template&id=092f9160&");
+/* harmony import */ var _CamelBlu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CamelBlu.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _CamelBlu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _CamelBlu_vue_vue_type_template_id_092f9160___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _CamelBlu_vue_vue_type_template_id_092f9160___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/CamelBlu.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CamelBlu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./CamelBlu.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CamelBlu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=template&id=092f9160&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=template&id=092f9160& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CamelBlu_vue_vue_type_template_id_092f9160___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./CamelBlu.vue?vue&type=template&id=092f9160& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/CamelBlu.vue?vue&type=template&id=092f9160&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CamelBlu_vue_vue_type_template_id_092f9160___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_CamelBlu_vue_vue_type_template_id_092f9160___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Chapeau.vue":
+/*!**************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Chapeau.vue ***!
+  \**************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Chapeau_vue_vue_type_template_id_78e0ecca___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Chapeau.vue?vue&type=template&id=78e0ecca& */ "./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=template&id=78e0ecca&");
+/* harmony import */ var _Chapeau_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Chapeau.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Chapeau_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Chapeau_vue_vue_type_template_id_78e0ecca___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Chapeau_vue_vue_type_template_id_78e0ecca___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Chapeau.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Chapeau_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Chapeau.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Chapeau_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=template&id=78e0ecca&":
+/*!*********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=template&id=78e0ecca& ***!
+  \*********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Chapeau_vue_vue_type_template_id_78e0ecca___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Chapeau.vue?vue&type=template&id=78e0ecca& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Chapeau.vue?vue&type=template&id=78e0ecca&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Chapeau_vue_vue_type_template_id_78e0ecca___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Chapeau_vue_vue_type_template_id_78e0ecca___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/E10Song.vue":
+/*!**************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/E10Song.vue ***!
+  \**************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _E10Song_vue_vue_type_template_id_27afb7be___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./E10Song.vue?vue&type=template&id=27afb7be& */ "./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=template&id=27afb7be&");
+/* harmony import */ var _E10Song_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./E10Song.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _E10Song_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _E10Song_vue_vue_type_template_id_27afb7be___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _E10Song_vue_vue_type_template_id_27afb7be___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/E10Song.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_E10Song_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./E10Song.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_E10Song_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=template&id=27afb7be&":
+/*!*********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=template&id=27afb7be& ***!
+  \*********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_E10Song_vue_vue_type_template_id_27afb7be___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./E10Song.vue?vue&type=template&id=27afb7be& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/E10Song.vue?vue&type=template&id=27afb7be&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_E10Song_vue_vue_type_template_id_27afb7be___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_E10Song_vue_vue_type_template_id_27afb7be___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Fotografia.vue":
+/*!*****************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Fotografia.vue ***!
+  \*****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Fotografia_vue_vue_type_template_id_0dc02db7___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Fotografia.vue?vue&type=template&id=0dc02db7& */ "./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=template&id=0dc02db7&");
+/* harmony import */ var _Fotografia_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Fotografia.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Fotografia_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Fotografia_vue_vue_type_template_id_0dc02db7___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Fotografia_vue_vue_type_template_id_0dc02db7___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Fotografia.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Fotografia_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Fotografia.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Fotografia_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=template&id=0dc02db7&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=template&id=0dc02db7& ***!
+  \************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fotografia_vue_vue_type_template_id_0dc02db7___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Fotografia.vue?vue&type=template&id=0dc02db7& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Fotografia.vue?vue&type=template&id=0dc02db7&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fotografia_vue_vue_type_template_id_0dc02db7___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fotografia_vue_vue_type_template_id_0dc02db7___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/LaCuenta.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/LaCuenta.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _LaCuenta_vue_vue_type_template_id_68c0b2b0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./LaCuenta.vue?vue&type=template&id=68c0b2b0& */ "./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=template&id=68c0b2b0&");
+/* harmony import */ var _LaCuenta_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./LaCuenta.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _LaCuenta_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _LaCuenta_vue_vue_type_template_id_68c0b2b0___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _LaCuenta_vue_vue_type_template_id_68c0b2b0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/LaCuenta.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_LaCuenta_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./LaCuenta.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_LaCuenta_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=template&id=68c0b2b0&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=template&id=68c0b2b0& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LaCuenta_vue_vue_type_template_id_68c0b2b0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./LaCuenta.vue?vue&type=template&id=68c0b2b0& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/LaCuenta.vue?vue&type=template&id=68c0b2b0&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LaCuenta_vue_vue_type_template_id_68c0b2b0___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LaCuenta_vue_vue_type_template_id_68c0b2b0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Malibu.vue":
+/*!*************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Malibu.vue ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Malibu_vue_vue_type_template_id_1e0a37ef___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Malibu.vue?vue&type=template&id=1e0a37ef& */ "./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=template&id=1e0a37ef&");
+/* harmony import */ var _Malibu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Malibu.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Malibu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Malibu_vue_vue_type_template_id_1e0a37ef___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Malibu_vue_vue_type_template_id_1e0a37ef___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Malibu.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Malibu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Malibu.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Malibu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=template&id=1e0a37ef&":
+/*!********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=template&id=1e0a37ef& ***!
+  \********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Malibu_vue_vue_type_template_id_1e0a37ef___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Malibu.vue?vue&type=template&id=1e0a37ef& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Malibu.vue?vue&type=template&id=1e0a37ef&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Malibu_vue_vue_type_template_id_1e0a37ef___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Malibu_vue_vue_type_template_id_1e0a37ef___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Noi.vue":
+/*!**********************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Noi.vue ***!
+  \**********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Noi_vue_vue_type_template_id_3c7c990d___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Noi.vue?vue&type=template&id=3c7c990d& */ "./resources/js/components/songs/nottibrave/Noi.vue?vue&type=template&id=3c7c990d&");
+/* harmony import */ var _Noi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Noi.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Noi.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Noi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Noi_vue_vue_type_template_id_3c7c990d___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Noi_vue_vue_type_template_id_3c7c990d___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Noi.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Noi.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Noi.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Noi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Noi.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Noi.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Noi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Noi.vue?vue&type=template&id=3c7c990d&":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Noi.vue?vue&type=template&id=3c7c990d& ***!
+  \*****************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Noi_vue_vue_type_template_id_3c7c990d___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Noi.vue?vue&type=template&id=3c7c990d& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Noi.vue?vue&type=template&id=3c7c990d&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Noi_vue_vue_type_template_id_3c7c990d___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Noi_vue_vue_type_template_id_3c7c990d___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/ParcoGondar.vue":
+/*!******************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/ParcoGondar.vue ***!
+  \******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ParcoGondar_vue_vue_type_template_id_e3db687e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ParcoGondar.vue?vue&type=template&id=e3db687e& */ "./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=template&id=e3db687e&");
+/* harmony import */ var _ParcoGondar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ParcoGondar.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _ParcoGondar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _ParcoGondar_vue_vue_type_template_id_e3db687e___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _ParcoGondar_vue_vue_type_template_id_e3db687e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/ParcoGondar.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ParcoGondar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./ParcoGondar.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ParcoGondar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=template&id=e3db687e&":
+/*!*************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=template&id=e3db687e& ***!
+  \*************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ParcoGondar_vue_vue_type_template_id_e3db687e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./ParcoGondar.vue?vue&type=template&id=e3db687e& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/ParcoGondar.vue?vue&type=template&id=e3db687e&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ParcoGondar_vue_vue_type_template_id_e3db687e___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ParcoGondar_vue_vue_type_template_id_e3db687e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/PiantoNoisy.vue":
+/*!******************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/PiantoNoisy.vue ***!
+  \******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _PiantoNoisy_vue_vue_type_template_id_bcef54dc___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./PiantoNoisy.vue?vue&type=template&id=bcef54dc& */ "./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=template&id=bcef54dc&");
+/* harmony import */ var _PiantoNoisy_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PiantoNoisy.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _PiantoNoisy_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _PiantoNoisy_vue_vue_type_template_id_bcef54dc___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _PiantoNoisy_vue_vue_type_template_id_bcef54dc___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/PiantoNoisy.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_PiantoNoisy_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./PiantoNoisy.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_PiantoNoisy_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=template&id=bcef54dc&":
+/*!*************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=template&id=bcef54dc& ***!
+  \*************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PiantoNoisy_vue_vue_type_template_id_bcef54dc___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./PiantoNoisy.vue?vue&type=template&id=bcef54dc& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/PiantoNoisy.vue?vue&type=template&id=bcef54dc&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PiantoNoisy_vue_vue_type_template_id_bcef54dc___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PiantoNoisy_vue_vue_type_template_id_bcef54dc___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Professorè.vue":
+/*!*****************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Professorè.vue ***!
+  \*****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Professor_vue_vue_type_template_id_35d96a24___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Professorè.vue?vue&type=template&id=35d96a24& */ "./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=template&id=35d96a24&");
+/* harmony import */ var _Professor_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Professorè.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Professor_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Professor_vue_vue_type_template_id_35d96a24___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Professor_vue_vue_type_template_id_35d96a24___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Professorè.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Professor_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Professorè.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Professor_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=template&id=35d96a24&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=template&id=35d96a24& ***!
+  \************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Professor_vue_vue_type_template_id_35d96a24___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Professorè.vue?vue&type=template&id=35d96a24& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Professorè.vue?vue&type=template&id=35d96a24&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Professor_vue_vue_type_template_id_35d96a24___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Professor_vue_vue_type_template_id_35d96a24___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/PubCrawl.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/PubCrawl.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _PubCrawl_vue_vue_type_template_id_6f79ed96___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./PubCrawl.vue?vue&type=template&id=6f79ed96& */ "./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=template&id=6f79ed96&");
+/* harmony import */ var _PubCrawl_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PubCrawl.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _PubCrawl_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _PubCrawl_vue_vue_type_template_id_6f79ed96___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _PubCrawl_vue_vue_type_template_id_6f79ed96___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/PubCrawl.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_PubCrawl_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./PubCrawl.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_PubCrawl_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=template&id=6f79ed96&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=template&id=6f79ed96& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PubCrawl_vue_vue_type_template_id_6f79ed96___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./PubCrawl.vue?vue&type=template&id=6f79ed96& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/PubCrawl.vue?vue&type=template&id=6f79ed96&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PubCrawl_vue_vue_type_template_id_6f79ed96___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_PubCrawl_vue_vue_type_template_id_6f79ed96___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Scusa.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Scusa.vue ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Scusa_vue_vue_type_template_id_05c3deb8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Scusa.vue?vue&type=template&id=05c3deb8& */ "./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=template&id=05c3deb8&");
+/* harmony import */ var _Scusa_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Scusa.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Scusa_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Scusa_vue_vue_type_template_id_05c3deb8___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Scusa_vue_vue_type_template_id_05c3deb8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Scusa.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Scusa_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Scusa.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Scusa_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=template&id=05c3deb8&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=template&id=05c3deb8& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Scusa_vue_vue_type_template_id_05c3deb8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Scusa.vue?vue&type=template&id=05c3deb8& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Scusa.vue?vue&type=template&id=05c3deb8&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Scusa_vue_vue_type_template_id_05c3deb8___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Scusa_vue_vue_type_template_id_05c3deb8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Vita.vue":
+/*!***********************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Vita.vue ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Vita_vue_vue_type_template_id_6a2dd4eb___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Vita.vue?vue&type=template&id=6a2dd4eb& */ "./resources/js/components/songs/nottibrave/Vita.vue?vue&type=template&id=6a2dd4eb&");
+/* harmony import */ var _Vita_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Vita.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibrave/Vita.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Vita_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Vita_vue_vue_type_template_id_6a2dd4eb___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Vita_vue_vue_type_template_id_6a2dd4eb___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibrave/Vita.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Vita.vue?vue&type=script&lang=js&":
+/*!************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Vita.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Vita_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Vita.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Vita.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Vita_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibrave/Vita.vue?vue&type=template&id=6a2dd4eb&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibrave/Vita.vue?vue&type=template&id=6a2dd4eb& ***!
+  \******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Vita_vue_vue_type_template_id_6a2dd4eb___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Vita.vue?vue&type=template&id=6a2dd4eb& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibrave/Vita.vue?vue&type=template&id=6a2dd4eb&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Vita_vue_vue_type_template_id_6a2dd4eb___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Vita_vue_vue_type_template_id_6a2dd4eb___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Comunque.vue":
+/*!********************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Comunque.vue ***!
+  \********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Comunque_vue_vue_type_template_id_84625de4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Comunque.vue?vue&type=template&id=84625de4& */ "./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=template&id=84625de4&");
+/* harmony import */ var _Comunque_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Comunque.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Comunque_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Comunque_vue_vue_type_template_id_84625de4___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Comunque_vue_vue_type_template_id_84625de4___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibraveafter/Comunque.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Comunque_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Comunque.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Comunque_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=template&id=84625de4&":
+/*!***************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=template&id=84625de4& ***!
+  \***************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Comunque_vue_vue_type_template_id_84625de4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Comunque.vue?vue&type=template&id=84625de4& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Comunque.vue?vue&type=template&id=84625de4&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Comunque_vue_vue_type_template_id_84625de4___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Comunque_vue_vue_type_template_id_84625de4___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Merci.vue":
+/*!*****************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Merci.vue ***!
+  \*****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Merci_vue_vue_type_template_id_0691f92e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Merci.vue?vue&type=template&id=0691f92e& */ "./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=template&id=0691f92e&");
+/* harmony import */ var _Merci_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Merci.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Merci_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Merci_vue_vue_type_template_id_0691f92e___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Merci_vue_vue_type_template_id_0691f92e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibraveafter/Merci.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Merci_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Merci.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Merci_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=template&id=0691f92e&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=template&id=0691f92e& ***!
+  \************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Merci_vue_vue_type_template_id_0691f92e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Merci.vue?vue&type=template&id=0691f92e& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Merci.vue?vue&type=template&id=0691f92e&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Merci_vue_vue_type_template_id_0691f92e___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Merci_vue_vue_type_template_id_0691f92e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue":
+/*!*************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue ***!
+  \*************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _MezzoCocktail_vue_vue_type_template_id_562cb304___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./MezzoCocktail.vue?vue&type=template&id=562cb304& */ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=template&id=562cb304&");
+/* harmony import */ var _MezzoCocktail_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./MezzoCocktail.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _MezzoCocktail_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _MezzoCocktail_vue_vue_type_template_id_562cb304___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _MezzoCocktail_vue_vue_type_template_id_562cb304___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibraveafter/MezzoCocktail.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_MezzoCocktail_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./MezzoCocktail.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_MezzoCocktail_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=template&id=562cb304&":
+/*!********************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=template&id=562cb304& ***!
+  \********************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_MezzoCocktail_vue_vue_type_template_id_562cb304___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./MezzoCocktail.vue?vue&type=template&id=562cb304& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue?vue&type=template&id=562cb304&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_MezzoCocktail_vue_vue_type_template_id_562cb304___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_MezzoCocktail_vue_vue_type_template_id_562cb304___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Posso.vue":
+/*!*****************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Posso.vue ***!
+  \*****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Posso_vue_vue_type_template_id_18d86359___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Posso.vue?vue&type=template&id=18d86359& */ "./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=template&id=18d86359&");
+/* harmony import */ var _Posso_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Posso.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Posso_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Posso_vue_vue_type_template_id_18d86359___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Posso_vue_vue_type_template_id_18d86359___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibraveafter/Posso.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Posso_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Posso.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Posso_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=template&id=18d86359&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=template&id=18d86359& ***!
+  \************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Posso_vue_vue_type_template_id_18d86359___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Posso.vue?vue&type=template&id=18d86359& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Posso.vue?vue&type=template&id=18d86359&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Posso_vue_vue_type_template_id_18d86359___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Posso_vue_vue_type_template_id_18d86359___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue":
+/*!***********************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue ***!
+  \***********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _RidereDiNoi_vue_vue_type_template_id_1fe20efe___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./RidereDiNoi.vue?vue&type=template&id=1fe20efe& */ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=template&id=1fe20efe&");
+/* harmony import */ var _RidereDiNoi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./RidereDiNoi.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _RidereDiNoi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _RidereDiNoi_vue_vue_type_template_id_1fe20efe___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _RidereDiNoi_vue_vue_type_template_id_1fe20efe___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibraveafter/RidereDiNoi.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_RidereDiNoi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./RidereDiNoi.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_RidereDiNoi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=template&id=1fe20efe&":
+/*!******************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=template&id=1fe20efe& ***!
+  \******************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RidereDiNoi_vue_vue_type_template_id_1fe20efe___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./RidereDiNoi.vue?vue&type=template&id=1fe20efe& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue?vue&type=template&id=1fe20efe&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RidereDiNoi_vue_vue_type_template_id_1fe20efe___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_RidereDiNoi_vue_vue_type_template_id_1fe20efe___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/SpunteBlu.vue":
+/*!*********************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/SpunteBlu.vue ***!
+  \*********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SpunteBlu_vue_vue_type_template_id_05f94a6d___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SpunteBlu.vue?vue&type=template&id=05f94a6d& */ "./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=template&id=05f94a6d&");
+/* harmony import */ var _SpunteBlu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SpunteBlu.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _SpunteBlu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _SpunteBlu_vue_vue_type_template_id_05f94a6d___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _SpunteBlu_vue_vue_type_template_id_05f94a6d___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibraveafter/SpunteBlu.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SpunteBlu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./SpunteBlu.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_SpunteBlu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=template&id=05f94a6d&":
+/*!****************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=template&id=05f94a6d& ***!
+  \****************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SpunteBlu_vue_vue_type_template_id_05f94a6d___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./SpunteBlu.vue?vue&type=template&id=05f94a6d& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/SpunteBlu.vue?vue&type=template&id=05f94a6d&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SpunteBlu_vue_vue_type_template_id_05f94a6d___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_SpunteBlu_vue_vue_type_template_id_05f94a6d___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Termini.vue":
+/*!*******************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Termini.vue ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Termini_vue_vue_type_template_id_386f6f61___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Termini.vue?vue&type=template&id=386f6f61& */ "./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=template&id=386f6f61&");
+/* harmony import */ var _Termini_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Termini.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Termini_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Termini_vue_vue_type_template_id_386f6f61___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Termini_vue_vue_type_template_id_386f6f61___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/nottibraveafter/Termini.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Termini_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Termini.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Termini_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=template&id=386f6f61&":
+/*!**************************************************************************************************!*\
+  !*** ./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=template&id=386f6f61& ***!
+  \**************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Termini_vue_vue_type_template_id_386f6f61___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Termini.vue?vue&type=template&id=386f6f61& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/nottibraveafter/Termini.vue?vue&type=template&id=386f6f61&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Termini_vue_vue_type_template_id_386f6f61___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Termini_vue_vue_type_template_id_386f6f61___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
 /***/ "./resources/js/components/songs/polaroid/AllaTua.vue":
 /*!************************************************************!*\
   !*** ./resources/js/components/songs/polaroid/AllaTua.vue ***!
@@ -48658,9 +55342,31 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_songs_polaroid_Avocado__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./components/songs/polaroid/Avocado */ "./resources/js/components/songs/polaroid/Avocado.vue");
 /* harmony import */ var _components_songs_polaroid_Argentario__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./components/songs/polaroid/Argentario */ "./resources/js/components/songs/polaroid/Argentario.vue");
 /* harmony import */ var _components_albums_NottiBrave__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./components/albums/NottiBrave */ "./resources/js/components/albums/NottiBrave.vue");
-/* harmony import */ var _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./components/albums/NottiBraveAfter */ "./resources/js/components/albums/NottiBraveAfter.vue");
-/* harmony import */ var _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./components/albums/NewAlbum */ "./resources/js/components/albums/NewAlbum.vue");
-/* harmony import */ var _components_LePolaroid__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./components/LePolaroid */ "./resources/js/components/LePolaroid.vue");
+/* harmony import */ var _components_songs_nottibrave_Professor___WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./components/songs/nottibrave/Professorè */ "./resources/js/components/songs/nottibrave/Professorè.vue");
+/* harmony import */ var _components_songs_nottibrave_Fotografia__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./components/songs/nottibrave/Fotografia */ "./resources/js/components/songs/nottibrave/Fotografia.vue");
+/* harmony import */ var _components_songs_nottibrave_CamelBlu__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./components/songs/nottibrave/CamelBlu */ "./resources/js/components/songs/nottibrave/CamelBlu.vue");
+/* harmony import */ var _components_songs_nottibrave_ParcoGondar__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./components/songs/nottibrave/ParcoGondar */ "./resources/js/components/songs/nottibrave/ParcoGondar.vue");
+/* harmony import */ var _components_songs_nottibrave_Vita__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./components/songs/nottibrave/Vita */ "./resources/js/components/songs/nottibrave/Vita.vue");
+/* harmony import */ var _components_songs_nottibrave_Noi__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./components/songs/nottibrave/Noi */ "./resources/js/components/songs/nottibrave/Noi.vue");
+/* harmony import */ var _components_songs_nottibrave_PubCrawl__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./components/songs/nottibrave/PubCrawl */ "./resources/js/components/songs/nottibrave/PubCrawl.vue");
+/* harmony import */ var _components_songs_nottibrave_Malibu__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./components/songs/nottibrave/Malibu */ "./resources/js/components/songs/nottibrave/Malibu.vue");
+/* harmony import */ var _components_songs_nottibrave_Chapeau__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./components/songs/nottibrave/Chapeau */ "./resources/js/components/songs/nottibrave/Chapeau.vue");
+/* harmony import */ var _components_songs_nottibrave_E10Song__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./components/songs/nottibrave/E10Song */ "./resources/js/components/songs/nottibrave/E10Song.vue");
+/* harmony import */ var _components_songs_nottibrave_Bretelle__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./components/songs/nottibrave/Bretelle */ "./resources/js/components/songs/nottibrave/Bretelle.vue");
+/* harmony import */ var _components_songs_nottibrave_LaCuenta__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./components/songs/nottibrave/LaCuenta */ "./resources/js/components/songs/nottibrave/LaCuenta.vue");
+/* harmony import */ var _components_songs_nottibrave_Scusa__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./components/songs/nottibrave/Scusa */ "./resources/js/components/songs/nottibrave/Scusa.vue");
+/* harmony import */ var _components_songs_nottibrave_PiantoNoisy__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./components/songs/nottibrave/PiantoNoisy */ "./resources/js/components/songs/nottibrave/PiantoNoisy.vue");
+/* harmony import */ var _components_songs_nottibrave_Accuccia__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./components/songs/nottibrave/Accuccia */ "./resources/js/components/songs/nottibrave/Accuccia.vue");
+/* harmony import */ var _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./components/albums/NottiBraveAfter */ "./resources/js/components/albums/NottiBraveAfter.vue");
+/* harmony import */ var _components_songs_nottibraveafter_Posso__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Posso */ "./resources/js/components/songs/nottibraveafter/Posso.vue");
+/* harmony import */ var _components_songs_nottibraveafter_Merci__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Merci */ "./resources/js/components/songs/nottibraveafter/Merci.vue");
+/* harmony import */ var _components_songs_nottibraveafter_Comunque__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Comunque */ "./resources/js/components/songs/nottibraveafter/Comunque.vue");
+/* harmony import */ var _components_songs_nottibraveafter_SpunteBlu__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./components/songs/nottibraveafter/SpunteBlu */ "./resources/js/components/songs/nottibraveafter/SpunteBlu.vue");
+/* harmony import */ var _components_songs_nottibraveafter_MezzoCocktail__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./components/songs/nottibraveafter/MezzoCocktail */ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue");
+/* harmony import */ var _components_songs_nottibraveafter_RidereDiNoi__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./components/songs/nottibraveafter/RidereDiNoi */ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue");
+/* harmony import */ var _components_songs_nottibraveafter_Termini__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Termini */ "./resources/js/components/songs/nottibraveafter/Termini.vue");
+/* harmony import */ var _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./components/albums/NewAlbum */ "./resources/js/components/albums/NewAlbum.vue");
+/* harmony import */ var _components_LePolaroid__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./components/LePolaroid */ "./resources/js/components/LePolaroid.vue");
 
  //MAIN
 
@@ -48669,6 +55375,28 @@ __webpack_require__.r(__webpack_exports__);
 
 
  //ALBUMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48715,7 +55443,8 @@ __webpack_require__.r(__webpack_exports__);
   }, {
     path: '/video',
     component: _components_Video__WEBPACK_IMPORTED_MODULE_6__["default"]
-  }, {
+  }, //album POLAROID
+  {
     path: '/polaroid',
     component: _components_albums_Polaroid__WEBPACK_IMPORTED_MODULE_7__["default"]
   }, {
@@ -48760,18 +55489,86 @@ __webpack_require__.r(__webpack_exports__);
   }, {
     path: '/polaroid/argentario',
     component: _components_songs_polaroid_Argentario__WEBPACK_IMPORTED_MODULE_21__["default"]
-  }, {
+  }, // album NOTTI BRAVE
+  {
     path: '/notti-brave',
     component: _components_albums_NottiBrave__WEBPACK_IMPORTED_MODULE_22__["default"]
   }, {
+    path: '/notti-brave/professorè',
+    component: _components_songs_nottibrave_Professor___WEBPACK_IMPORTED_MODULE_23__["default"]
+  }, {
+    path: '/notti-brave/fotografia',
+    component: _components_songs_nottibrave_Fotografia__WEBPACK_IMPORTED_MODULE_24__["default"]
+  }, {
+    path: '/notti-brave/camel-blu',
+    component: _components_songs_nottibrave_CamelBlu__WEBPACK_IMPORTED_MODULE_25__["default"]
+  }, {
+    path: '/notti-brave/parco-gondar',
+    component: _components_songs_nottibrave_ParcoGondar__WEBPACK_IMPORTED_MODULE_26__["default"]
+  }, {
+    path: '/notti-brave/vita',
+    component: _components_songs_nottibrave_Vita__WEBPACK_IMPORTED_MODULE_27__["default"]
+  }, {
+    path: '/notti-brave/noi',
+    component: _components_songs_nottibrave_Noi__WEBPACK_IMPORTED_MODULE_28__["default"]
+  }, {
+    path: '/notti-brave/pub-crawl',
+    component: _components_songs_nottibrave_PubCrawl__WEBPACK_IMPORTED_MODULE_29__["default"]
+  }, {
+    path: '/notti-brave/malibu',
+    component: _components_songs_nottibrave_Malibu__WEBPACK_IMPORTED_MODULE_30__["default"]
+  }, {
+    path: '/notti-brave/chapeau',
+    component: _components_songs_nottibrave_Chapeau__WEBPACK_IMPORTED_MODULE_31__["default"]
+  }, {
+    path: '/notti-brave/e10',
+    component: _components_songs_nottibrave_E10Song__WEBPACK_IMPORTED_MODULE_32__["default"]
+  }, {
+    path: '/notti-brave/bretelle',
+    component: _components_songs_nottibrave_Bretelle__WEBPACK_IMPORTED_MODULE_33__["default"]
+  }, {
+    path: '/notti-brave/la-cuenta',
+    component: _components_songs_nottibrave_LaCuenta__WEBPACK_IMPORTED_MODULE_34__["default"]
+  }, {
+    path: '/notti-brave/scusa',
+    component: _components_songs_nottibrave_Scusa__WEBPACK_IMPORTED_MODULE_35__["default"]
+  }, {
+    path: '/notti-brave/pianto-noisy',
+    component: _components_songs_nottibrave_PiantoNoisy__WEBPACK_IMPORTED_MODULE_36__["default"]
+  }, {
+    path: '/notti-brave/accuccia',
+    component: _components_songs_nottibrave_Accuccia__WEBPACK_IMPORTED_MODULE_37__["default"]
+  }, // album NOTTI BRAVE AFTER
+  {
     path: '/notti-brave-after',
-    component: _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_23__["default"]
+    component: _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_38__["default"]
+  }, {
+    path: '/notti-brave-after/posso',
+    component: _components_songs_nottibraveafter_Posso__WEBPACK_IMPORTED_MODULE_42__["default"]
+  }, {
+    path: '/notti-brave-after/merci',
+    component: _components_songs_nottibraveafter_Merci__WEBPACK_IMPORTED_MODULE_43__["default"]
+  }, {
+    path: '/notti-brave-after/comunque',
+    component: _components_songs_nottibraveafter_Comunque__WEBPACK_IMPORTED_MODULE_44__["default"]
+  }, {
+    path: '/notti-brave-after/spunte-blu',
+    component: _components_songs_nottibraveafter_SpunteBlu__WEBPACK_IMPORTED_MODULE_45__["default"]
+  }, {
+    path: '/notti-brave-after/mezzo-cocktail',
+    component: _components_songs_nottibraveafter_MezzoCocktail__WEBPACK_IMPORTED_MODULE_46__["default"]
+  }, {
+    path: '/notti-brave-after/ridere-di-noi',
+    component: _components_songs_nottibraveafter_RidereDiNoi__WEBPACK_IMPORTED_MODULE_47__["default"]
+  }, {
+    path: '/notti-brave-after/termini',
+    component: _components_songs_nottibraveafter_Termini__WEBPACK_IMPORTED_MODULE_48__["default"]
   }, {
     path: '/nuovo-album',
-    component: _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_24__["default"]
+    component: _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_40__["default"]
   }, {
     path: '/le-polaroid',
-    component: _components_LePolaroid__WEBPACK_IMPORTED_MODULE_25__["default"]
+    component: _components_LePolaroid__WEBPACK_IMPORTED_MODULE_41__["default"]
   } //test 
   // {
   //     path: '/polaroid/:id',
