@@ -3,7 +3,7 @@
 
     <div class="flex-col mb-8">
 
-        <h1 class="font-normal text-3xl leading-none mb-10"> Album | 
+        <h1 class="font-normal text-3xl leading-none mb-10 text-gray-800"> Album | 
             <span class="mt-2 uppercase text-2xl font-semibold">Notti Brave (After) </span> 
             
         </h1>

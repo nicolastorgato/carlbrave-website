@@ -22,9 +22,9 @@
 
        
         <div id='menu' :class="isOpen ? 'block' : 'hidden'" class="pl-4 py-0 sm:py-3 pb-3 sm:pb-0 sm:flex sm:items-baseline">
-            <a @click="closeMenu" class="px-2 font-medium text-lg sm:mt-0 uppercase text-gray-800 hover:text-gray-900"><router-link to="/" exact> Home </router-link> </a>
+            <!-- <a @click="closeMenu" class="px-2 font-medium text-lg sm:mt-0 uppercase text-gray-800 hover:text-gray-900"><router-link to="/" exact> Home </router-link> </a>
 
-            <div class="px-8 mt-4"></div>
+            <div class="px-8 mt-4"></div> -->
 
             <div class="px-2 font-medium text-lg mt-3 sm:mt-0 uppercase text-gray-800"> Vita</div>
             <a @click="closeMenu" class="px-2 text-gray-700 hover:text-gray-900"><router-link to="/biografia"> Bio </router-link> </a>

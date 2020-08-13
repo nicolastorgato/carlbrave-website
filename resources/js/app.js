@@ -12,6 +12,7 @@ Vue.component('navbar', Navbar)
 
 import VueTailwind from "vue-tailwind";
 
+
 Vue.use(VueTailwind);
 
 Vue.use(VueRouter)

@@ -2,7 +2,7 @@
 <div>
 
     <div class="flex-col mb-8">
-        <h1 class="font-normal text-3xl leading-none mb-8"> Le Polaroid </h1>
+        <h1 class="font-normal text-3xl leading-none mb-8 text-gray-800"> Le Polaroid </h1>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 row-gap-16">
             <div class="flex-col">

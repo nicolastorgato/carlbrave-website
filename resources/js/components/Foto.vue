@@ -1,7 +1,7 @@
 <template>
 <div>
 
-    <h1 class="font-normal text-3xl leading-none mb-8"> Foto</h1>
+    <h1 class="font-normal text-3xl leading-none mb-8 text-gray-800"> Foto</h1>
 
 <!-- 
    <div class="grid grid-cols-4 gap-6 row-gap-16">
@@ -28,65 +28,86 @@
 
     <div class="flex flex-col sm:flex-row flex-wrap">
 
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-1.jpg" alt="Caciarone" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-1.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Caciarone
                 </a>
             </div>
 
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-2.jpg" alt="Sempre a bere" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-2.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Sempre a bere 
                 </a>
             </div>
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-3.jpg" alt="Classico Carlo" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-3.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Classico Carlo
                 </a>
             </div>
 
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-4.jpg" alt="'co Franco" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-4.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     'co Franco
                 </a>
             </div>
 
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-5.jpg" alt="Modello" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-5.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Modello
                 </a>
             </div>
 
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-6.jpg" alt="Red Bull" class="w-full object-cover object-top h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-6.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Red Bull
                 </a>
             </div>
 
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-7.jpg" alt="Più caciara" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-7.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Più caciara
                 </a>
             </div>
 
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-8.jpg" alt="Live in due" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-8.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Live in due
                 </a>
             </div>
 
-            <div class="bg-white w-full md:w-1/4 mr-16 mb-16">
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
                 <img src="/images/foto/carlbrave-9.png" alt="Polaroid sobrie" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
                 <a href="/images/foto/carlbrave-9.png" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
                     Polaroid sobrie
+                </a>
+            </div>
+
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
+                <img src="/images/foto/carlbrave-10.jpg" alt="Polaroid sobrie" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-10.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Timberland
+                </a>
+            </div>
+
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
+                <img src="/images/foto/carlbrave-11.jpg" alt="Polaroid sobrie" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-11.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Tutte le vite
+                </a>
+            </div>
+
+            <div class="bg-white w-full md:w-1/4 mr-20 mb-16">
+                <img src="/images/foto/carlbrave-12.jpg" alt="Polaroid sobrie" class="w-full object-cover h-48 sm:h-48 md:h-64 mb-3">
+                <a href="/images/foto/carlbrave-12.jpg" class="border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100">
+                    Camicetta in live
                 </a>
             </div>
            

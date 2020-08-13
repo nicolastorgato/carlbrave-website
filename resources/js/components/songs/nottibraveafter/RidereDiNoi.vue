@@ -22,57 +22,64 @@
 
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1]
-Accuccia
-O prendo il giornale, mo' vedi
-Smetti di abbaiare
-Non scodinzolare no mai più, mai più
-Accuccia
-Fa' il bravo cane
-Fai il bravo e ti levo il collare
-Non fare l'umano (sta buono)
-E dopo anni di training non mi dai la zampa
-(Dà la zampa)
-Il pastore tedesco si sa ha i problemi all'anca
-Te ne sei andato via pe' una zanzara
-Una zozzona
-La pagherà cara
+[Strofa 1: Carl Brave]
+In TV 4 Ristoranti, io mangio 4 Salti
+Non so' tipo da Clarks, non prendiamo il taxi
+E fare un passo indietro è fare un bungee jumping
+Legato con i lacci delle Dr. Martens
+Va bene mo' lo faccio ma controvoglia
+La mia carta è vuota, sto giù di corda
+Due rumeni spacciano fuori Cadorna
+E pare l’occhio del ciclone, non trema una foglia
+In questa stanza so' passati almeno cinquecentomila accendini
+E tu mi parli come se io fossi un libro aperto
+E mi parlava del lavoro e dei parenti a Lipari
+Il mio amico s'è arrubato il pesce fresco a Eataly
+E t'ho portato alla serata a Rimini
+Acqua alla gola e niente soldi liquidi
 
-[Ritornello]
-Ho pianto lacrime amare
-Era solo un cane
-Il mio cane
-A volte ti sento abbaiare
-Che vita da cani
-Una vita da cane
+[Ritornello: Carl Brave]
+Ti ho chiesto come andavano le cose a casa e come stanno i tuoi
+Lo so che è presto per sentirci mo, sarebbe meglio poi
+Però c’avevo voglia di una spalla su cui ridere di noi
+Ti ho chiesto nella vita che fai ora e se sai cosa vuoi
+Lo so che è inutile sentirci mo, sarebbe meglio poi
+Però c’avevo voglia di una spalla su cui ridere di noi
+Ridere di noi
+Ridere di noi
             </p>
         </div>
 
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2]
-Hai il naso asciutto
-Vai in salotto
-Mentre fissi una fetta di prosciutto
-L'hai puntata
-Il piatto è a portata
-E aspetti che mi alzo
-Per fare uno scatto
-E poi fare il vago per casa
-(Vieni qua)
-Ma ti becco e non mi guardi
-La coda di paglia
-Lecchi i baffi
-Sei un cane cattivo
-Andiamo giù
+[Strofa 2: Luché]
+L'ultima volta che ti vidi non ti guardai neanche in faccia
+Buttai le cose a terra e poi misi la retromarcia
+L'amore è stare ai lati opposti della stessa stanza
+Ma lo sanno tutti che recitiamo una farsa
+Cammino pieno d'ansia, con la tua foto in tasca
+Con scritto una data di quando me l'hai data
+La prima volta a casa, a noi l'attesa stanca
+E lo facemmo già come lo fai con chi ti manca
+E io mi innamorai della dolcezza dei tuoi occhi
+Sai le cose vere sono quelle che non tocchi
+L'autunno è fatto di ricordi e di malinconia
+Arriva quel momento in cui un uomo deve andar via
+E mo' commentano "Luca dov'è?" sotto le foto
+Ho silenzio intorno o sono solo o sono sordo
+L'orgoglio è l'unico difetto dei supereroi
+La risata è contagiosa ma qua ridono di noi
+Tutti ridono di noi
 
-[Ritornello]
-Ho pianto lacrime amare
-Era solo un cane, sì
-Il mio cane
-A volte ti sento abbaiare
-Che vita da cani
-Una vita da cane
+[Ritornello: Carl Brave]
+Ti ho chiesto come andavano le cose a casa e come stanno i tuoi
+Lo so che è presto per sentirci mo, sarebbe meglio poi
+Però c’avevo voglia di una spalla su cui ridere di noi
+Ti ho chiesto nella vita che fai ora e se sai cosa vuoi
+Lo so che è inutile sentirci mo, sarebbe meglio poi
+Però c’avevo voglia di una spalla su cui ridere di noi
+Ridere di noi
+Ridere di noi
             </p>
         </div>
 

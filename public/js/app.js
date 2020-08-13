@@ -1960,7 +1960,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -1974,6 +1973,27 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2375,16 +2395,19 @@ __webpack_require__.r(__webpack_exports__);
 /*!*******************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/NotFound.vue?vue&type=script&lang=js& ***!
   \*******************************************************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
 //
 //
 //
 //
-/* harmony default export */ __webpack_exports__["default"] = ({});
+//
+//
+//
+//
+//
+//
 
 /***/ }),
 
@@ -4787,6 +4810,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -4800,6 +4826,37 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -4981,6 +5038,20 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -4994,6 +5065,19 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -5175,6 +5259,13 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -5272,6 +5363,38 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -5285,10 +5408,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
 //
 //
 //
@@ -8064,15 +8183,17 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("h1", { staticClass: "font-normal text-3xl leading-none mb-8" }, [
-        _vm._v(" Biografia")
-      ]),
+      _c(
+        "h1",
+        { staticClass: "font-normal text-3xl leading-none mb-8 text-gray-800" },
+        [_vm._v(" Biografia")]
+      ),
       _vm._v(" "),
       _c("div", { staticClass: "flex flex-col lg:flex-row mb-8" }, [
         _c("div", { staticClass: "w-full lg:w-2/5 mr-24" }, [
           _c(
             "p",
-            { staticClass: "text-gray-800 text-justify leading-relaxed" },
+            { staticClass: "text-gray-700 text-justify leading-relaxed" },
             [
               _vm._v(
                 " Classe 1990, Carl Brave è lo pseudonimo di Carlo Luigi Coraggio. Dal 2007 nel gruppo Molto Peggio Crew, ha debuttato come solista con un EP intitolato Brave EP. \r\n                Il successo su scala nazionale è arrivato con l’accoppiata in salsa social con il collega Franco 126, con cui ha conquistato il popolo di YouTube a suon di rap.\r\n                "
@@ -8087,7 +8208,15 @@ var staticRenderFns = [
               ),
               _c("br"),
               _vm._v(
-                " \r\n                “Polaroid” ha conquistato tutta la penisola grazie anche alle decine di concerti sold-out messi a segno tra maggio 2017 e settembre 2018.\r\n                La prolifica capacità compositiva di Carl Brave è sfociata nell’esordio solista “Notti Brave”. L’album, uscito a maggio 2018, è entrato diretto al primo posto in classifica,\r\n                 restandoci per due settimane. Notti Brave è senza dubbio un disco che ha colpito nel segno, trainato dal singolo “Fotografia” interpretato assieme a Fabri Fibra e \r\n                 Francesca Michielin. La produzione di Brave si sposa perfettamente con i due ospiti che colorano ulteriormente il pezzo con il loro stile inconfondibile. \r\n                 “Fotografia” con la sua immediata freschezza e sincerità è stato tra i più trasmessi dalle radio. Molti altri sono stati gli artisti che hanno animato le “Notti Brave” \r\n                 di Carl. Le quindici tracce dell’album vedono infatti altre collaborazioni eccellenti come Coez, Franco126, Emis Killa, Federica Abbate, Gemitaiz, Giorgio Poi, \r\n                 Pretty Solero, Frah Quintale, B e Ugo Borghetti. "
+                " \r\n                “Polaroid” ha conquistato tutta la penisola grazie anche alle decine di concerti sold-out messi a segno tra maggio 2017 e settembre 2018.\r\n                La prolifica capacità compositiva di Carl Brave è sfociata nell’esordio solista “Notti Brave”. L’album, uscito a maggio 2018, è entrato diretto al primo posto in classifica,\r\n                 restandoci per due settimane. "
+              ),
+              _c("br"),
+              _vm._v(
+                " Notti Brave è senza dubbio un disco che ha colpito nel segno, trainato dal singolo “Fotografia” interpretato assieme a Fabri Fibra e \r\n                 Francesca Michielin. La produzione di Brave si sposa perfettamente con i due ospiti che colorano ulteriormente il pezzo con il loro stile inconfondibile. "
+              ),
+              _c("br"),
+              _vm._v(
+                "\r\n                 “Fotografia” con la sua immediata freschezza e sincerità è stato tra i più trasmessi dalle radio. Molti altri sono stati gli artisti che hanno animato le “Notti Brave” \r\n                 di Carl. Le quindici tracce dell’album vedono infatti altre collaborazioni eccellenti come Coez, Franco126, Emis Killa, Federica Abbate, Gemitaiz, Giorgio Poi, \r\n                 Pretty Solero, Frah Quintale, B e Ugo Borghetti. "
               ),
               _c("br"),
               _vm._v(
@@ -8103,11 +8232,27 @@ var staticRenderFns = [
             { staticClass: "text-gray-800 text-justify leading-relaxed" },
             [
               _vm._v(
-                " Se traducessimo in musica l’american dream, ma lo trasportassimo qui da noi in Italia, per rendere al meglio\r\n                 l’idea sarebbe opportuno portare come esempio la storia di Carl Brave. Un metro e 90 di ragazzo, una ben avviata carriera da giocatore di basket \r\n                 (è arrivato anche a calcare i parquet della Serie B), presto votato alla musica, al rap soprattutto. All’inizio è una non carriera, come quella di quasi tutti \r\n                 i rapper italiani e stranieri, prima che il genere conquistasse orecchie ben più numerose di quelle di una ristretta nicchia. Poi l’incontro, nel 2016, \r\n                 con Franco126, mentre la discografia mainstream è già morta, il mercato è ormai già stato ampiamente sbranato dagli indie, e i due insieme danno vita al progetto\r\n                 Carl Brave x Franco126 e all’album “Polaroid”. "
+                " \r\n                Durante l'adolescenza inizia a scrivere i primi versi rap, ma a impegnarlo maggiormente è il basket, che pratica dagli 11 ai 22 anni vestendo le maglie di Agricola Gloria Montecatini, Itop Palestrina, Marconi e Vigna Pia, arrivando fino alla serie B. Successivamente abbandona la carriera di cestista e sceglie quella musicale, frequentando il SAE Institute di Milano e diventando anche produttore.  "
               ),
               _c("br"),
               _vm._v(
-                "\r\n\r\n                Un successo che viene cavalcato insieme per un anno prima di stringersi la mano e prendere ognuno la propria strada. Quella di Carlo Luigi Coraggio, \r\n                così come risulta all’anagrafe, scorre velocissima dietro il finestrino, il suo primo singolo solista si intitola “Fotografia”, lo canta in featuring con \r\n                Francesca Michielin e Fabri Fibra, 64 milioni di visualizzazioni su YouTube ad oggi, a un anno dalla pubblicazione, 48 milioni di stream su Spotify e il \r\n                successo assoluto che gli permette un salto dall’universo della musica indipendente al mainstream, uno dei pochi in realtà ad esserci riuscito in maniera così totale come lui.\r\n                Grazie non solo al suo talento, ma anche ad una predisposizione naturale verso la creazione di un personaggio ben definito, ben riconoscibile e che, \r\n                soprattutto, è amatissimo dal pubblico. "
+                "\r\n\r\nDopo aver pubblicato il mixtape Sempre peggio vol. 1 (2012) con il gruppo Molto Peggio Crew, formatosi nel 2007, esordisce da solista nel 2014 con Brave EP e, nello stesso periodo, forma con il rapper Enpashishi il duo elettrorap Wankers, con cui, nel 2015, pubblica l'EP Where's Joe Wanker?. Contemporaneamente è tra i fondatori del collettivo Guasconi, di cui fa parte anche la crew 126. "
+              ),
+              _c("br"),
+              _vm._v(
+                "\r\n\r\nNel 2016 inizia a lavorare ad un album solista, Fase Rem, mai pubblicato, al quale collabora anche Franco126. Nel settembre dello stesso anno i due danno vita a un progetto comune, Carl Brave x Franco126, che in due anni li porterà a pubblicare l'album Polaroid e numerosi singoli. Nel luglio del 2017, il duo pubblica Barceloneta, in collaborazione con Coez. "
+              ),
+              _c("br"),
+              _vm._v(
+                "\r\n\r\nNel 2018 intraprende la carriera solista e pubblica il suo primo singolo, Fotografia, con Francesca Michielin e il rapper Fabri Fibra, estratto dal suo primo album da solista Notti brave, in cui sono contenute altre collaborazioni come Camel blu, con Giorgio Poi, Chapeau, con Frah Quintale e Parco Gondar, con Coez. "
+              ),
+              _c("br"),
+              _vm._v(
+                "\r\n\r\nIl 15 novembre 2018 è ospite alla trasmissione X Factor su Sky Uno, dove presenta il suo nuovo singolo Posso, pubblicato il 16 novembre 2018 in collaborazione con Max Gazzè, che ha anticipato l'uscita dell'EP Notti brave (After), pubblicato il 30 novembre 2018. L'EP è stato promosso il 22 marzo seguente dal secondo singolo Merci. Il 3 maggio 2019 ha collaborato con Elisa al singolo Vivere tutte le vite, mentre il 30 agosto 2019 ha collaborato con Shablo e Marracash al singolo Non ci sto. "
+              ),
+              _c("br"),
+              _vm._v(
+                "\r\n\r\nIl 22 gennaio 2020 ha pubblicato il singolo Che poi, seguito a maggio da Spigoli con Mara Sattei e Tha Supreme. Il 30 giugno è invece uscito Fratellì. "
               ),
               _c("br"),
               _c("br"),
@@ -8154,12 +8299,14 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("h1", { staticClass: "font-normal text-3xl leading-none mb-8" }, [
-        _vm._v(" Foto")
-      ]),
+      _c(
+        "h1",
+        { staticClass: "font-normal text-3xl leading-none mb-8 text-gray-800" },
+        [_vm._v(" Foto")]
+      ),
       _vm._v(" "),
       _c("div", { staticClass: "flex flex-col sm:flex-row flex-wrap" }, [
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: { src: "/images/foto/carlbrave-1.jpg", alt: "Caciarone" }
@@ -8176,7 +8323,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: { src: "/images/foto/carlbrave-2.jpg", alt: "Sempre a bere" }
@@ -8197,7 +8344,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: {
@@ -8221,7 +8368,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: { src: "/images/foto/carlbrave-4.jpg", alt: "'co Franco" }
@@ -8238,7 +8385,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: { src: "/images/foto/carlbrave-5.jpg", alt: "Modello" }
@@ -8255,7 +8402,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass:
               "w-full object-cover object-top h-48 sm:h-48 md:h-64 mb-3",
@@ -8273,7 +8420,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: { src: "/images/foto/carlbrave-7.jpg", alt: "Più caciara" }
@@ -8290,7 +8437,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: { src: "/images/foto/carlbrave-8.jpg", alt: "Live in due" }
@@ -8307,7 +8454,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-16 mb-16" }, [
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
           _c("img", {
             staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
             attrs: {
@@ -8326,6 +8473,74 @@ var staticRenderFns = [
             [
               _vm._v(
                 "\r\n                    Polaroid sobrie\r\n                "
+              )
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
+          _c("img", {
+            staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
+            attrs: {
+              src: "/images/foto/carlbrave-10.jpg",
+              alt: "Polaroid sobrie"
+            }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+              attrs: { href: "/images/foto/carlbrave-10.jpg" }
+            },
+            [_vm._v("\r\n                    Timberland\r\n                ")]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
+          _c("img", {
+            staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
+            attrs: {
+              src: "/images/foto/carlbrave-11.jpg",
+              alt: "Polaroid sobrie"
+            }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+              attrs: { href: "/images/foto/carlbrave-11.jpg" }
+            },
+            [
+              _vm._v(
+                "\r\n                    Tutte le vite\r\n                "
+              )
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "bg-white w-full md:w-1/4 mr-20 mb-16" }, [
+          _c("img", {
+            staticClass: "w-full object-cover h-48 sm:h-48 md:h-64 mb-3",
+            attrs: {
+              src: "/images/foto/carlbrave-12.jpg",
+              alt: "Polaroid sobrie"
+            }
+          }),
+          _vm._v(" "),
+          _c(
+            "a",
+            {
+              staticClass:
+                "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+              attrs: { href: "/images/foto/carlbrave-12.jpg" }
+            },
+            [
+              _vm._v(
+                "\r\n                    Camicetta in live\r\n                "
               )
             ]
           )
@@ -8643,9 +8858,13 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", [
       _c("div", { staticClass: "flex-col mb-8" }, [
-        _c("h1", { staticClass: "font-normal text-3xl leading-none mb-8" }, [
-          _vm._v(" Le Polaroid ")
-        ]),
+        _c(
+          "h1",
+          {
+            staticClass: "font-normal text-3xl leading-none mb-8 text-gray-800"
+          },
+          [_vm._v(" Le Polaroid ")]
+        ),
         _vm._v(" "),
         _c(
           "div",
@@ -9023,23 +9242,6 @@ var render = function() {
           },
           [
             _c(
-              "a",
-              {
-                staticClass:
-                  "px-2 font-medium text-lg sm:mt-0 uppercase text-gray-800 hover:text-gray-900",
-                on: { click: _vm.closeMenu }
-              },
-              [
-                _c("router-link", { attrs: { to: "/", exact: "" } }, [
-                  _vm._v(" Home ")
-                ])
-              ],
-              1
-            ),
-            _vm._v(" "),
-            _c("div", { staticClass: "px-8 mt-4" }),
-            _vm._v(" "),
-            _c(
               "div",
               {
                 staticClass:
@@ -9240,11 +9442,22 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("h1", { staticClass: "font-normal text-2xl leading-none" }, [
-    _vm._v(" Ci dispiace! Carl Brave non trova il contenuto che stai cercando!")
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { attrs: { id: "app" } }, [
+      _c("h1", { staticClass: "text-gray-800 text-2xl" }, [
+        _vm._v("Carlo non ha trovato il contenuto che stai cercando!")
+      ]),
+      _vm._v(" "),
+      _c("img", { attrs: { src: "/gif/404.gif", alt: "", width: "500px" } })
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -9274,9 +9487,11 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("h1", { staticClass: "font-normal text-3xl leading-none mb-8" }, [
-        _vm._v(" Tour")
-      ]),
+      _c(
+        "h1",
+        { staticClass: "font-normal text-3xl leading-none mb-8 text-gray-800" },
+        [_vm._v(" Tour")]
+      ),
       _vm._v(" "),
       _c("div", { staticClass: "w-4/5" }, [
         _c(
@@ -9401,9 +9616,11 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("h1", { staticClass: "font-normal text-3xl leading-none mb-8" }, [
-        _vm._v(" Video")
-      ]),
+      _c(
+        "h1",
+        { staticClass: "font-normal text-3xl leading-none mb-8 text-gray-800" },
+        [_vm._v(" Video")]
+      ),
       _vm._v(" "),
       _c(
         "div",
@@ -9639,7 +9856,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c(
       "h1",
-      { staticClass: "font-normal text-3xl leading-none mb-10" },
+      { staticClass: "font-normal text-3xl leading-none mb-10 text-gray-800" },
       [
         _vm._v(" Album | \r\n            "),
         _c("span", { staticClass: "mt-2 uppercase text-2xl font-semibold" }, [
@@ -9771,7 +9988,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c(
       "h1",
-      { staticClass: "font-normal text-3xl leading-none mb-10" },
+      { staticClass: "font-normal text-3xl leading-none mb-10 text-gray-800" },
       [
         _vm._v(" Album | \r\n            "),
         _c("span", { staticClass: "mt-2 uppercase text-2xl font-semibold" }, [
@@ -9923,7 +10140,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c(
       "h1",
-      { staticClass: "font-normal text-3xl leading-none mb-10" },
+      { staticClass: "font-normal text-3xl leading-none mb-10 text-gray-800" },
       [
         _vm._v(" Album | \r\n            "),
         _c("span", { staticClass: "mt-2 uppercase text-2xl font-semibold" }, [
@@ -11828,7 +12045,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              ' \r\n[Strofa 1]\r\nE tu non hai perso tempo, bisou\r\nHai trovato un\'altra situa, yuh-uh\r\nHai postato quella foto al Louvre\r\nMa t\'ho vista, eri in Piazza Cavour\r\nMangi un pezzo di quel mezzo danese di ieri\r\nHai finito i Corto Maltese che avevi\r\nUno stiracchio e lo sbadiglio esce fori\r\nCome la polvere in un raggio di sole\r\n\r\n[Ritornello 1]\r\nE se mi mancherai non lo so\r\nAspetto il quarto squillo che se ne va\r\nPer sentire: "Come stai?" e te: "Come te la passi?"\r\nHai lasciato un bel visualizzato a tutti i miei messaggi\r\nE comunque per cambiare discorso\r\nComunque per perdere tempo, con te\r\n\r\n[Strofa 2]\r\nNon ti capisco come la ricetta del dottore\r\nE tu vuoi uscire ma non sono in condizione\r\nFamo domani, a Roma ci sta Post Malone\r\nNon so l\'inglese tanto invento le parole\r\nDa Sora Lella abbiamo fatto alla romana\r\nLe zoccolette di Fregene sono bone\r\nTi ho richiamata però ho fatto una pollata\r\nLe americane a Roma sono generose\r\n\r\n            '
             )
           ]
         )
@@ -11843,7 +12060,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              ' \r\n[Bridge]\r\nE se mi mancherai non lo so\r\nTi attacco al quarto squillo che non mi va più\r\nDi sentire: "Come stai?" e te: "Guarda ma \'sti cazzi"\r\nTi dice bene ancora? Cerchi un posto fisso al MAXXI?\r\nE comunque c\'hai una faccia da schiaffi\r\n\r\n[Ritornello 2]\r\nE se mi mancherai non lo so\r\nRiattacco al quarto squillo che non mi va\r\nDi sentire: "Come stai?" e te: "Come te la passi?"\r\nHai lasciato un bel visualizzato a tutti i miei messaggi\r\nE comunque, è per cambiare discorso\r\nComunque, è per prendere tempo da te\r\n\r\n[Outro]\r\nUn cmq per abbreviare una parola\r\nPer cambiare discorso da te\r\nChe comunque stai bene pure da sola\r\nPer prendere tempo\r\nComunque...\r\n            '
             )
           ]
         )
@@ -11940,7 +12157,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa 1]\r\nQuattro e mezza, Corso Francia\r\nUn mezzo bacio che non era proprio guancia\r\nAddosso mezzo Whiskey Sour, me l'hai rovesciato tu\r\nE ti sei venduta l'Aixam co' gli adesivi \"MAINAGIOIA\"\r\nSilenzio un altro gruppo di Whatsapp\r\nC'è mio cugino che si ammoglia\r\nE non fa la romanaccia, sei di Roma nord\r\nQuel mi piace tattico lo so che è un autogol\r\nPerché t'appare e sicuro vai a rosicare\r\n'Na mezza luna sorride ma in verticale\r\nSenza parabrezza, non mi sento più la faccia\r\nTuristi pagano insulti alla Parolaccia\r\nE rubavamo gli stemmini dei Mercedes\r\nCon un Bacardi Breezer sforzandoci di bere\r\nAbbiamo fatto le imbarcate in motorino\r\nSotto la pioggia, sotto tsunami di vino\r\nE il massimo che abbiamo preso è il tombolino\r\nUn happy ending alla fine va benino\r\nIn tre dentro una Smart a mangiare Smarties\r\nPiù che da fidanzato t'ho fatto da taxi\r\nAbbiamo litigato e poi mi hai tolto il follow\r\nHo fatto finta di dormire al decollo (amo')\r\n\r\n[Pre-Ritornello]\r\nBallando con le stelle edizione français\r\nCi fermano le guardie, madame, monsieur\r\nMi lego in una vecchia felpa prêt-à-porter\r\n'Na commercialata tipo \"Besame\"\r\nCome entrare in aeroporto e urlare: \"Bomba\"\r\nSiamo a Parigi ma volemo Londra\r\nE finisco a grattare un Turista per sempre\r\nMa niente, ma niente\r\n\r\n[Ritornello]\r\nUn'acqua cinque euro, ma li morte'\r\nE m'hai fregato il resto, merci, mon dieu\r\nFacciamo i bori italiani a Champs-Élysées\r\n‘Na romanticata tipo \"Besame\"\r\nCome entrare in aeroporto e urlare: \"Bomba\"\r\nSiamo a Parigi ma volemo Londra\r\nE finisco a grattare un Turista per sempre\r\nMa niente, ma niente, ma niente\r\nMa niente, ma niente, ma niente\r\nMa niente, ma niente, ma niente\r\nMa niente, ma niente, ma niente\r\nMa niente, ma niente, ma niente\r\n            "
             )
           ]
         )
@@ -11955,7 +12172,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              ' \r\n[Post-Ritornello]\r\nE sine\r\nTi cerco e poi ti trovo solo nelle bollicine delle bire\r\nNon è Gewürztraminer, none\r\nUn altro tira e molla, tira e molla, tira e molla, no, ciao core (ciao ciao)\r\nCiao core\r\n\r\n[Ritornello]\r\nBallando con le stelle edizione français\r\nCi fermano le guardie, madame, monsieur\r\nMi lego in una vecchia felpa prêt-à-porter\r\n‘Na commercialata tipo "Besame"\r\nCome entrare in aeroporto e urlare: "Bomba"\r\nSiamo a Parigi ma volemo Londra\r\nE finisco a grattare un Turista per sempre\r\nMa niente, ma niente\r\nUn\'acqua cinque euro ma li morte\'\r\nE m\'hai fregato il resto, merci, mon dieu\r\nFacciamo i bori italiani a Champs-Élysées\r\n‘Na romanticata tipo "Besame"\r\nCome entrare in aeroporto e urlare: "Bomba"\r\nSiamo a Parigi ma volemo Londra\r\nE finisco a grattare un Turista per sempre\r\nMa niente, ma niente, ma niente\r\n\r\n[Outro]\r\nMa niente, ma niente, ma niente\r\nMa niente, ma niente, ma niente\r\nMa niente, ma niente, ma niente\r\nMa niente di niente\r\n            '
             )
           ]
         )
@@ -12052,7 +12269,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nCon un bacio t'ho rubato il buongiorno\r\nIo ancora ubriaco dal sonno\r\nTu lasciami un sorriso in un morso\r\nIo cotto lesso ma troppo presto\r\nMi sei rimasta in una dedica sul gesso\r\nPure un po’ squallida, un \"guarisci presto\"\r\n\r\n[Pre-Ritornello: Carl Brave]\r\nMo il tuo soprannome ce l'ha un'altra donna\r\nIl cuscino buono ha preso un’altra forma\r\nE so che tanto poi l'inverno torna\r\nCon o senza di te\r\nAlla fine sai ho fatto le corna\r\nA quel Pinot che ancora cerca rogna\r\nIn quella vecchia trattoria a Bologna\r\nCo' 'no Chardonnay\r\n\r\n[Ritornello: Carl Brave]\r\nSì e voglio in mano ancora un mezzo cocktail, cocktail\r\nCon te, ma tu mi blocchi fino al lunedì, lunedì (eh ehi)\r\nE mi odi quando affogo nella notte, notte\r\nE sì, ti amo quando mi regali il drink, drink\r\nEh, eh, eh oh\r\nEh, eh, eh oh\r\nEh, eh, eh oh\r\nEh, eh, eh oh\r\n            "
             )
           ]
         )
@@ -12067,7 +12284,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa 2: Ugo Borghetti]\r\nForse era giovedì o venerdì (boh)\r\nO addirittura un lunedì o un'altra sera x\r\nCi siamo promessi amore davanti a un drink\r\nE mi hai fatto una testa così\r\nE sono sicuro che ogni mio gesto mi ha portato a questo\r\nA fare chiodo schiaccia chiodo\r\nE a ritrovarmi al bancone da solo\r\nA pensare quando stavamo insieme nel letto a fumare e fare sesso\r\nE di stare lontani quante volte ce lo siamo detto\r\nMa fuori piove e ci ritroviamo sotto lo stesso tetto\r\n\r\n[Pre-Ritornello: Carl Brave]\r\nMo il tuo soprannome ce l'ha un'altra donna\r\nIl cuscino buono ha preso un'altra forma\r\nE so che tanto poi l’inverno torna\r\nCon o senza di te\r\nAlla fine sai ho fatto le corna\r\nA quel Pinot che ancora cerca rogna\r\nIn quella vecchia trattoria a Bologna\r\nCo’ 'no Chardonnay\r\n\r\n[Ritornello: Carl Brave]\r\nSì e voglio in mano ancora un mezzo cocktail, cocktail\r\nCon te, ma tu mi blocchi fino al lunedì, lunedì (eh ehi)\r\nE mi odi quando affogo nella notte, notte\r\nE sì, ti amo quando mi regali il drink, drink\r\n\r\n[Outro: Carl Brave]\r\nEh, eh, eh oh\r\nEh, eh, eh oh\r\nEh, eh, eh oh\r\nEh, eh, eh oh\r\n            "
             )
           ]
         )
@@ -12164,7 +12381,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nIl biglietto ce l'ho, pluritimbrato\r\nArigato, me ne so' annato (ok)\r\nLe tue mani a cucchiara sulle mie\r\nTra fossette e fesserie\r\nI tuoi piedi freddi sempre, c'est la vie\r\nMi rubi le coperte, che stai a di'?\r\nSono puttane, però tu le chiami escort\r\nE quelle calze nere sono un po' d'arresto\r\nE non mi regolo perché già sono al sesto\r\nM'hanno invitato via, so' un po' troppo molesto\r\nHo comprato una coupé\r\nMa non fa per me se non ti siedi te\r\nHo fatto il vento dall'hotel\r\nChe mi porta sempre fino là da te\r\n\r\n[Ritornello: Carl Brave & Max Gazzè]\r\nPosso, posso, posso, posso, posso\r\nStringerti la mano e dirti cose che non\r\nPosso, posso, posso, posso, posso\r\nDire in italiano, ma in romano sì che\r\nPosso, posso, posso, posso, posso\r\nPosso, posso, posso dì: \"Ti fidi di me?\"\r\nE fai male, ehi, ehi\r\n            "
             )
           ]
         )
@@ -12179,7 +12396,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              ' \r\n[Strofa 2: Max Gazzè]\r\nVorrei leggerti la mano, ma mi dici: "Vacci piano"\r\nSo che dirti una bugia a volte sarebbe un po\' più facile\r\nSo leggerti nel fondo di un caffè che bevi deca\r\nVorrei essere una sedia ed aspettare che ti sieda\r\nPotrei dirti che ci sta un colpo di fulmine in futuro\r\nChe saranno rose e fiori, ma era un colpo della strega\r\nRegalarti belle storie e rose al chiaro di luna\r\nPerò è corta la fortuna e vedo una luna nera\r\nSul tuo palmo la tua linea dell\'amore è tratteggiata\r\nFino al dito di Sakè con il medio, arriccio il baffo\r\nE sputo fumo in faccia, come un narghilè\r\nLa verità fa male, ahi, ahi, ah, ahi, ah\r\n\r\n[Interludio: Max Gazzè]\r\nAhi, ahi, ah, ahi, ahi, ah, ahi, ahi, ah\r\nAhi, ahi, ah, ahi, ahi, ah, ahi, ahi, ah\r\nAhi, ahi, ah, ahi, ahi, ah, ahi, ahi, ah\r\n\r\n[Ritornello: Carl Brave & Max Gazzè]\r\nPosso, posso, posso, posso, posso\r\nStringerti la mano e dirti cose che non\r\nPosso, posso, posso, posso, posso\r\nDire in italiano, ma in romano sì che\r\nPosso, posso, posso, posso, posso\r\nPosso, posso, posso dì: "Ti fidi di me?"\r\nMi fai male, ehi, ehi\r\n\r\nPosso, posso, posso, posso, posso\r\nDirti che dormiamo e ba\', ma credo che non\r\nPosso, posso, posso, posso, posso\r\nPiù fermarmi ancora e poi ti chiedo se\r\nPosso, posso, posso, posso, posso\r\nPosso, posso, posso rifidarmi di te?\r\nMi faccio male, ehi, ehi\r\n            '
             )
           ]
         )
@@ -12276,7 +12493,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\nIn TV 4 Ristoranti, io mangio 4 Salti\r\nNon so' tipo da Clarks, non prendiamo il taxi\r\nE fare un passo indietro è fare un bungee jumping\r\nLegato con i lacci delle Dr. Martens\r\nVa bene mo' lo faccio ma controvoglia\r\nLa mia carta è vuota, sto giù di corda\r\nDue rumeni spacciano fuori Cadorna\r\nE pare l’occhio del ciclone, non trema una foglia\r\nIn questa stanza so' passati almeno cinquecentomila accendini\r\nE tu mi parli come se io fossi un libro aperto\r\nE mi parlava del lavoro e dei parenti a Lipari\r\nIl mio amico s'è arrubato il pesce fresco a Eataly\r\nE t'ho portato alla serata a Rimini\r\nAcqua alla gola e niente soldi liquidi\r\n\r\n[Ritornello: Carl Brave]\r\nTi ho chiesto come andavano le cose a casa e come stanno i tuoi\r\nLo so che è presto per sentirci mo, sarebbe meglio poi\r\nPerò c’avevo voglia di una spalla su cui ridere di noi\r\nTi ho chiesto nella vita che fai ora e se sai cosa vuoi\r\nLo so che è inutile sentirci mo, sarebbe meglio poi\r\nPerò c’avevo voglia di una spalla su cui ridere di noi\r\nRidere di noi\r\nRidere di noi\r\n            "
             )
           ]
         )
@@ -12291,7 +12508,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa 2: Luché]\r\nL'ultima volta che ti vidi non ti guardai neanche in faccia\r\nButtai le cose a terra e poi misi la retromarcia\r\nL'amore è stare ai lati opposti della stessa stanza\r\nMa lo sanno tutti che recitiamo una farsa\r\nCammino pieno d'ansia, con la tua foto in tasca\r\nCon scritto una data di quando me l'hai data\r\nLa prima volta a casa, a noi l'attesa stanca\r\nE lo facemmo già come lo fai con chi ti manca\r\nE io mi innamorai della dolcezza dei tuoi occhi\r\nSai le cose vere sono quelle che non tocchi\r\nL'autunno è fatto di ricordi e di malinconia\r\nArriva quel momento in cui un uomo deve andar via\r\nE mo' commentano \"Luca dov'è?\" sotto le foto\r\nHo silenzio intorno o sono solo o sono sordo\r\nL'orgoglio è l'unico difetto dei supereroi\r\nLa risata è contagiosa ma qua ridono di noi\r\nTutti ridono di noi\r\n\r\n[Ritornello: Carl Brave]\r\nTi ho chiesto come andavano le cose a casa e come stanno i tuoi\r\nLo so che è presto per sentirci mo, sarebbe meglio poi\r\nPerò c’avevo voglia di una spalla su cui ridere di noi\r\nTi ho chiesto nella vita che fai ora e se sai cosa vuoi\r\nLo so che è inutile sentirci mo, sarebbe meglio poi\r\nPerò c’avevo voglia di una spalla su cui ridere di noi\r\nRidere di noi\r\nRidere di noi\r\n            "
             )
           ]
         )
@@ -12388,7 +12605,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa 1: Carl Brave]\r\n(In chat)\r\nÈ rimasto cancellato il tuo vocale\r\nHo tolto pure le spunte blu\r\nMa tanto che sto online rimane (so' online)\r\nMo che mi sveglio bene solo se in hangover\r\nNon tvb, ah bella zì, game over\r\nE m'hai cambiato almeno duecento nomignoli\r\nE litighiamo e facciamo pace coi mignoli\r\nNon voglio l'Ariston, no, in tasca un Gaviscon\r\nIl cuore in gola stretto come un papillon\r\nLei si fa un selfie alla Zarate\r\nMa non lo vuole posta'\r\nDice l'ex rompe il ca', dice mi vuole pista'\r\nDice che a una signora non si chiede mai l'età\r\nLei che ha gli occhi del padre, però il naso è di mammà\r\nHo detto una bugia alla Bocca della Verità\r\nTi ho spaventata, ho fatto finta che mi si stava a magna'\r\nFaccia seria ma ti mando mille smile\r\nE mi cerchi solo quando sai che non mi troverai\r\n\r\n[Ritornello: Carl Brave & Guè Pequeno]\r\nChe palle, che palle\r\nQuando stiamo insieme e scrolli\r\nÈ peggio di aspettare ore al ristorante\r\nChe palle\r\nIn gabbia come in UFC (UFC)\r\nSe io potessi giuro me ne andrei (Giuro me ne andrei)\r\nUn doppio bacio e pure mezza Grey (Ehi)\r\nMi cerchi solo quando non mi troverai (Non mi troverai)\r\nSe visualizzi non rispondi mai (Ehi)\r\nSe visualizzi non rispondi mai (Mai, mai)\r\nSe visualizzi non rispondi mai\r\n            "
             )
           ]
         )
@@ -12403,7 +12620,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa 2: Guè Pequeno]\r\nYeah\r\nIo resto G da lunedì a domenica (G-U-E)\r\nMa tu mi spegni la luce come il Lexotan\r\nHo un arcobaleno al polso, i tuoi graffi sul dorso\r\nTuo padre che ripete il Padre Nostro\r\nPer te ho lasciato la più figa di Via della Spiga\r\nLa mia bad bitch a Miami beach, l'altra tipa (Quale tipa?)\r\nChe avevo giù a Tor Bella Mo' (Ahh)\r\nIl suo ex vuole menarmi come al Bellator\r\nMo' sono sotto al tuo blocco (Yeah)\r\nSe vuoi il sushi ti porto a Tokyo\r\nIn Argentina per la carne al fuoco\r\nCous cous in Marocco, ostriche in Costa Azzurra\r\nGuesus nome sul mio passaporto\r\nHabibi, mi immobilizzi, sì, come Khabib\r\nSe non visualizzi e non mi scrivi\r\nC'è un dolore che fa male, un dolore che ti cambia\r\nHo fatto più fatica a smettere con te che con la ba-\r\n\r\n[Ritornello: Carl Brave & Guè Pequeno]\r\nChe palle, che palle\r\nQuando stiamo insieme e scrolli\r\nÈ peggio di aspettare ore al ristorante\r\nChe palle\r\nIn gabbia come in UFC (UFC)\r\nSe io potessi giuro me ne andrei (giuro me ne andrei)\r\nUn doppio bacio e pure mezza Grey (ehi)\r\nMi cerchi solo quando non mi troverai (non mi troverai)\r\nSe visualizzi non rispondi mai (ehi)\r\nSe visualizzi non rispondi mai\r\nSe visualizzi non rispondi mai\r\n\r\n[Outro: Guè Pequeno & Carl Brave]\r\nEhi\r\nChe palle\r\nG-G-G-G-G\r\nEhi\r\nBella Carlo\r\n'Ste fucking spunte blu\r\nChe palle, che palle\r\nRispondi o no?\r\nE rispondi\r\nAh ah\r\nChe palle\r\n            "
             )
           ]
         )
@@ -12500,7 +12717,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 1]\r\nAccuccia\r\nO prendo il giornale, mo' vedi\r\nSmetti di abbaiare\r\nNon scodinzolare no mai più, mai più\r\nAccuccia\r\nFa' il bravo cane\r\nFai il bravo e ti levo il collare\r\nNon fare l'umano (sta buono)\r\nE dopo anni di training non mi dai la zampa\r\n(Dà la zampa)\r\nIl pastore tedesco si sa ha i problemi all'anca\r\nTe ne sei andato via pe' una zanzara\r\nUna zozzona\r\nLa pagherà cara\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\n[Strofa]\r\nOre 3, Termini\r\nPer strada solo clochard e zingari\r\nUn Crispy al Mc, le termiti\r\nSi abbuffano di segatura e platani\r\nIo più la che qua, comme ci et comme ça\r\nIn tv Sergio Ramos ha rotto Salah\r\nE in quel bar di criminali ci sta sempre il caos\r\nMamma mia, mamma mao\r\n\r\n[Bridge]\r\nE tira un venticello freddo e tramontana\r\nStesa sul marciapiede una puttana\r\nChe litiga con l'AMA\r\nE tira più di un pelo di ... che una partita\r\nDi 'sto mondiale che abbiamo zompato\r\nMa non m'è mai fregato\r\n\r\n[Ritornello]\r\nLacrimoni, lacrimoni\r\nIo e i miei amici tutti mezzi caciaroni\r\nCamminiamo su un tappeto di Peroni\r\nLacrimoni, lacrimoni\r\nE finisco a respirarti nella zona fumatori\r\nE fai la dura ma alla fine t'affezioni\r\n            "
             )
           ]
         )
@@ -12515,7 +12732,7 @@ var staticRenderFns = [
           },
           [
             _vm._v(
-              " \r\n[Strofa 2]\r\nHai il naso asciutto\r\nVai in salotto\r\nMentre fissi una fetta di prosciutto\r\nL'hai puntata\r\nIl piatto è a portata\r\nE aspetti che mi alzo\r\nPer fare uno scatto\r\nE poi fare il vago per casa\r\n(Vieni qua)\r\nMa ti becco e non mi guardi\r\nLa coda di paglia\r\nLecchi i baffi\r\nSei un cane cattivo\r\nAndiamo giù\r\n\r\n[Ritornello]\r\nHo pianto lacrime amare\r\nEra solo un cane, sì\r\nIl mio cane\r\nA volte ti sento abbaiare\r\nChe vita da cani\r\nUna vita da cane\r\n            "
+              " \r\nMa è vero, ma è vero, ma è vero\r\nMa è vero, ma è vero, ma è vero\r\nMa è vero, ma è vero, ma è vero\r\nMa è vero, ma è vero, ma è vero\r\nMa è vero, ma è vero, ma è vero\r\nMa è vero, ma è vero, ma è vero\r\nE se il sole ci toccherà aspetta un attimo\r\nChe se ne va\r\nChe se ne va\r\n\r\n[Ritornello]\r\nLacrimoni, lacrimoni\r\nIo e i miei amici tutti mezzi caciaroni\r\nCamminiamo su un tappeto di Peroni\r\nLacrimoni, lacrimoni\r\nE finisco a respirarti nella zona fumatori\r\nSiamo spenti a terra come mozziconi\r\n            "
             )
           ]
         )
@@ -52278,14 +52495,15 @@ __webpack_require__.r(__webpack_exports__);
 /*!**********************************************!*\
   !*** ./resources/js/components/NotFound.vue ***!
   \**********************************************/
-/*! exports provided: default */
+/*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _NotFound_vue_vue_type_template_id_2ce50e5a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./NotFound.vue?vue&type=template&id=2ce50e5a& */ "./resources/js/components/NotFound.vue?vue&type=template&id=2ce50e5a&");
 /* harmony import */ var _NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./NotFound.vue?vue&type=script&lang=js& */ "./resources/js/components/NotFound.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
 
@@ -52315,13 +52533,15 @@ component.options.__file = "resources/js/components/NotFound.vue"
 /*!***********************************************************************!*\
   !*** ./resources/js/components/NotFound.vue?vue&type=script&lang=js& ***!
   \***********************************************************************/
-/*! exports provided: default */
+/*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./NotFound.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/NotFound.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NotFound_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 
@@ -55358,15 +55578,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_songs_nottibrave_PiantoNoisy__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./components/songs/nottibrave/PiantoNoisy */ "./resources/js/components/songs/nottibrave/PiantoNoisy.vue");
 /* harmony import */ var _components_songs_nottibrave_Accuccia__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./components/songs/nottibrave/Accuccia */ "./resources/js/components/songs/nottibrave/Accuccia.vue");
 /* harmony import */ var _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./components/albums/NottiBraveAfter */ "./resources/js/components/albums/NottiBraveAfter.vue");
-/* harmony import */ var _components_songs_nottibraveafter_Posso__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Posso */ "./resources/js/components/songs/nottibraveafter/Posso.vue");
-/* harmony import */ var _components_songs_nottibraveafter_Merci__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Merci */ "./resources/js/components/songs/nottibraveafter/Merci.vue");
-/* harmony import */ var _components_songs_nottibraveafter_Comunque__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Comunque */ "./resources/js/components/songs/nottibraveafter/Comunque.vue");
-/* harmony import */ var _components_songs_nottibraveafter_SpunteBlu__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./components/songs/nottibraveafter/SpunteBlu */ "./resources/js/components/songs/nottibraveafter/SpunteBlu.vue");
-/* harmony import */ var _components_songs_nottibraveafter_MezzoCocktail__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./components/songs/nottibraveafter/MezzoCocktail */ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue");
-/* harmony import */ var _components_songs_nottibraveafter_RidereDiNoi__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./components/songs/nottibraveafter/RidereDiNoi */ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue");
-/* harmony import */ var _components_songs_nottibraveafter_Termini__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Termini */ "./resources/js/components/songs/nottibraveafter/Termini.vue");
-/* harmony import */ var _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./components/albums/NewAlbum */ "./resources/js/components/albums/NewAlbum.vue");
-/* harmony import */ var _components_LePolaroid__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./components/LePolaroid */ "./resources/js/components/LePolaroid.vue");
+/* harmony import */ var _components_songs_nottibraveafter_Posso__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Posso */ "./resources/js/components/songs/nottibraveafter/Posso.vue");
+/* harmony import */ var _components_songs_nottibraveafter_Merci__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Merci */ "./resources/js/components/songs/nottibraveafter/Merci.vue");
+/* harmony import */ var _components_songs_nottibraveafter_Comunque__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Comunque */ "./resources/js/components/songs/nottibraveafter/Comunque.vue");
+/* harmony import */ var _components_songs_nottibraveafter_SpunteBlu__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./components/songs/nottibraveafter/SpunteBlu */ "./resources/js/components/songs/nottibraveafter/SpunteBlu.vue");
+/* harmony import */ var _components_songs_nottibraveafter_MezzoCocktail__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./components/songs/nottibraveafter/MezzoCocktail */ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue");
+/* harmony import */ var _components_songs_nottibraveafter_RidereDiNoi__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./components/songs/nottibraveafter/RidereDiNoi */ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue");
+/* harmony import */ var _components_songs_nottibraveafter_Termini__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Termini */ "./resources/js/components/songs/nottibraveafter/Termini.vue");
+/* harmony import */ var _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./components/albums/NewAlbum */ "./resources/js/components/albums/NewAlbum.vue");
+/* harmony import */ var _components_LePolaroid__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./components/LePolaroid */ "./resources/js/components/LePolaroid.vue");
 
  //MAIN
 
@@ -55544,31 +55764,31 @@ __webpack_require__.r(__webpack_exports__);
     component: _components_albums_NottiBraveAfter__WEBPACK_IMPORTED_MODULE_38__["default"]
   }, {
     path: '/notti-brave-after/posso',
-    component: _components_songs_nottibraveafter_Posso__WEBPACK_IMPORTED_MODULE_42__["default"]
+    component: _components_songs_nottibraveafter_Posso__WEBPACK_IMPORTED_MODULE_39__["default"]
   }, {
     path: '/notti-brave-after/merci',
-    component: _components_songs_nottibraveafter_Merci__WEBPACK_IMPORTED_MODULE_43__["default"]
+    component: _components_songs_nottibraveafter_Merci__WEBPACK_IMPORTED_MODULE_40__["default"]
   }, {
     path: '/notti-brave-after/comunque',
-    component: _components_songs_nottibraveafter_Comunque__WEBPACK_IMPORTED_MODULE_44__["default"]
+    component: _components_songs_nottibraveafter_Comunque__WEBPACK_IMPORTED_MODULE_41__["default"]
   }, {
     path: '/notti-brave-after/spunte-blu',
-    component: _components_songs_nottibraveafter_SpunteBlu__WEBPACK_IMPORTED_MODULE_45__["default"]
+    component: _components_songs_nottibraveafter_SpunteBlu__WEBPACK_IMPORTED_MODULE_42__["default"]
   }, {
     path: '/notti-brave-after/mezzo-cocktail',
-    component: _components_songs_nottibraveafter_MezzoCocktail__WEBPACK_IMPORTED_MODULE_46__["default"]
+    component: _components_songs_nottibraveafter_MezzoCocktail__WEBPACK_IMPORTED_MODULE_43__["default"]
   }, {
     path: '/notti-brave-after/ridere-di-noi',
-    component: _components_songs_nottibraveafter_RidereDiNoi__WEBPACK_IMPORTED_MODULE_47__["default"]
+    component: _components_songs_nottibraveafter_RidereDiNoi__WEBPACK_IMPORTED_MODULE_44__["default"]
   }, {
     path: '/notti-brave-after/termini',
-    component: _components_songs_nottibraveafter_Termini__WEBPACK_IMPORTED_MODULE_48__["default"]
+    component: _components_songs_nottibraveafter_Termini__WEBPACK_IMPORTED_MODULE_45__["default"]
   }, {
     path: '/nuovo-album',
-    component: _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_40__["default"]
+    component: _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_46__["default"]
   }, {
     path: '/le-polaroid',
-    component: _components_LePolaroid__WEBPACK_IMPORTED_MODULE_41__["default"]
+    component: _components_LePolaroid__WEBPACK_IMPORTED_MODULE_47__["default"]
   } //test 
   // {
   //     path: '/polaroid/:id',

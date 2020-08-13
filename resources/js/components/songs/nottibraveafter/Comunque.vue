@@ -23,56 +23,59 @@
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
 [Strofa 1]
-Accuccia
-O prendo il giornale, mo' vedi
-Smetti di abbaiare
-Non scodinzolare no mai più, mai più
-Accuccia
-Fa' il bravo cane
-Fai il bravo e ti levo il collare
-Non fare l'umano (sta buono)
-E dopo anni di training non mi dai la zampa
-(Dà la zampa)
-Il pastore tedesco si sa ha i problemi all'anca
-Te ne sei andato via pe' una zanzara
-Una zozzona
-La pagherà cara
+E tu non hai perso tempo, bisou
+Hai trovato un'altra situa, yuh-uh
+Hai postato quella foto al Louvre
+Ma t'ho vista, eri in Piazza Cavour
+Mangi un pezzo di quel mezzo danese di ieri
+Hai finito i Corto Maltese che avevi
+Uno stiracchio e lo sbadiglio esce fori
+Come la polvere in un raggio di sole
 
-[Ritornello]
-Ho pianto lacrime amare
-Era solo un cane
-Il mio cane
-A volte ti sento abbaiare
-Che vita da cani
-Una vita da cane
+[Ritornello 1]
+E se mi mancherai non lo so
+Aspetto il quarto squillo che se ne va
+Per sentire: "Come stai?" e te: "Come te la passi?"
+Hai lasciato un bel visualizzato a tutti i miei messaggi
+E comunque per cambiare discorso
+Comunque per perdere tempo, con te
+
+[Strofa 2]
+Non ti capisco come la ricetta del dottore
+E tu vuoi uscire ma non sono in condizione
+Famo domani, a Roma ci sta Post Malone
+Non so l'inglese tanto invento le parole
+Da Sora Lella abbiamo fatto alla romana
+Le zoccolette di Fregene sono bone
+Ti ho richiamata però ho fatto una pollata
+Le americane a Roma sono generose
+
             </p>
         </div>
 
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2]
-Hai il naso asciutto
-Vai in salotto
-Mentre fissi una fetta di prosciutto
-L'hai puntata
-Il piatto è a portata
-E aspetti che mi alzo
-Per fare uno scatto
-E poi fare il vago per casa
-(Vieni qua)
-Ma ti becco e non mi guardi
-La coda di paglia
-Lecchi i baffi
-Sei un cane cattivo
-Andiamo giù
+[Bridge]
+E se mi mancherai non lo so
+Ti attacco al quarto squillo che non mi va più
+Di sentire: "Come stai?" e te: "Guarda ma 'sti cazzi"
+Ti dice bene ancora? Cerchi un posto fisso al MAXXI?
+E comunque c'hai una faccia da schiaffi
 
-[Ritornello]
-Ho pianto lacrime amare
-Era solo un cane, sì
-Il mio cane
-A volte ti sento abbaiare
-Che vita da cani
-Una vita da cane
+[Ritornello 2]
+E se mi mancherai non lo so
+Riattacco al quarto squillo che non mi va
+Di sentire: "Come stai?" e te: "Come te la passi?"
+Hai lasciato un bel visualizzato a tutti i miei messaggi
+E comunque, è per cambiare discorso
+Comunque, è per prendere tempo da te
+
+[Outro]
+Un cmq per abbreviare una parola
+Per cambiare discorso da te
+Che comunque stai bene pure da sola
+Per prendere tempo
+Comunque...
             </p>
         </div>
 

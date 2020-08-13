@@ -22,57 +22,71 @@
 
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1]
-Accuccia
-O prendo il giornale, mo' vedi
-Smetti di abbaiare
-Non scodinzolare no mai più, mai più
-Accuccia
-Fa' il bravo cane
-Fai il bravo e ti levo il collare
-Non fare l'umano (sta buono)
-E dopo anni di training non mi dai la zampa
-(Dà la zampa)
-Il pastore tedesco si sa ha i problemi all'anca
-Te ne sei andato via pe' una zanzara
-Una zozzona
-La pagherà cara
+[Strofa 1: Carl Brave]
+Con un bacio t'ho rubato il buongiorno
+Io ancora ubriaco dal sonno
+Tu lasciami un sorriso in un morso
+Io cotto lesso ma troppo presto
+Mi sei rimasta in una dedica sul gesso
+Pure un po’ squallida, un "guarisci presto"
 
-[Ritornello]
-Ho pianto lacrime amare
-Era solo un cane
-Il mio cane
-A volte ti sento abbaiare
-Che vita da cani
-Una vita da cane
+[Pre-Ritornello: Carl Brave]
+Mo il tuo soprannome ce l'ha un'altra donna
+Il cuscino buono ha preso un’altra forma
+E so che tanto poi l'inverno torna
+Con o senza di te
+Alla fine sai ho fatto le corna
+A quel Pinot che ancora cerca rogna
+In quella vecchia trattoria a Bologna
+Co' 'no Chardonnay
+
+[Ritornello: Carl Brave]
+Sì e voglio in mano ancora un mezzo cocktail, cocktail
+Con te, ma tu mi blocchi fino al lunedì, lunedì (eh ehi)
+E mi odi quando affogo nella notte, notte
+E sì, ti amo quando mi regali il drink, drink
+Eh, eh, eh oh
+Eh, eh, eh oh
+Eh, eh, eh oh
+Eh, eh, eh oh
             </p>
         </div>
 
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2]
-Hai il naso asciutto
-Vai in salotto
-Mentre fissi una fetta di prosciutto
-L'hai puntata
-Il piatto è a portata
-E aspetti che mi alzo
-Per fare uno scatto
-E poi fare il vago per casa
-(Vieni qua)
-Ma ti becco e non mi guardi
-La coda di paglia
-Lecchi i baffi
-Sei un cane cattivo
-Andiamo giù
+[Strofa 2: Ugo Borghetti]
+Forse era giovedì o venerdì (boh)
+O addirittura un lunedì o un'altra sera x
+Ci siamo promessi amore davanti a un drink
+E mi hai fatto una testa così
+E sono sicuro che ogni mio gesto mi ha portato a questo
+A fare chiodo schiaccia chiodo
+E a ritrovarmi al bancone da solo
+A pensare quando stavamo insieme nel letto a fumare e fare sesso
+E di stare lontani quante volte ce lo siamo detto
+Ma fuori piove e ci ritroviamo sotto lo stesso tetto
 
-[Ritornello]
-Ho pianto lacrime amare
-Era solo un cane, sì
-Il mio cane
-A volte ti sento abbaiare
-Che vita da cani
-Una vita da cane
+[Pre-Ritornello: Carl Brave]
+Mo il tuo soprannome ce l'ha un'altra donna
+Il cuscino buono ha preso un'altra forma
+E so che tanto poi l’inverno torna
+Con o senza di te
+Alla fine sai ho fatto le corna
+A quel Pinot che ancora cerca rogna
+In quella vecchia trattoria a Bologna
+Co’ 'no Chardonnay
+
+[Ritornello: Carl Brave]
+Sì e voglio in mano ancora un mezzo cocktail, cocktail
+Con te, ma tu mi blocchi fino al lunedì, lunedì (eh ehi)
+E mi odi quando affogo nella notte, notte
+E sì, ti amo quando mi regali il drink, drink
+
+[Outro: Carl Brave]
+Eh, eh, eh oh
+Eh, eh, eh oh
+Eh, eh, eh oh
+Eh, eh, eh oh
             </p>
         </div>
 

@@ -1,7 +1,7 @@
 <template>
 <div>
 
-    <h1 class="font-normal text-3xl leading-none mb-8"> Tour</h1>
+    <h1 class="font-normal text-3xl leading-none mb-8 text-gray-800"> Tour</h1>
 
 
 

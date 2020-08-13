@@ -22,57 +22,70 @@
 
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 1]
-Accuccia
-O prendo il giornale, mo' vedi
-Smetti di abbaiare
-Non scodinzolare no mai più, mai più
-Accuccia
-Fa' il bravo cane
-Fai il bravo e ti levo il collare
-Non fare l'umano (sta buono)
-E dopo anni di training non mi dai la zampa
-(Dà la zampa)
-Il pastore tedesco si sa ha i problemi all'anca
-Te ne sei andato via pe' una zanzara
-Una zozzona
-La pagherà cara
+[Strofa 1: Carl Brave]
+Il biglietto ce l'ho, pluritimbrato
+Arigato, me ne so' annato (ok)
+Le tue mani a cucchiara sulle mie
+Tra fossette e fesserie
+I tuoi piedi freddi sempre, c'est la vie
+Mi rubi le coperte, che stai a di'?
+Sono puttane, però tu le chiami escort
+E quelle calze nere sono un po' d'arresto
+E non mi regolo perché già sono al sesto
+M'hanno invitato via, so' un po' troppo molesto
+Ho comprato una coupé
+Ma non fa per me se non ti siedi te
+Ho fatto il vento dall'hotel
+Che mi porta sempre fino là da te
 
-[Ritornello]
-Ho pianto lacrime amare
-Era solo un cane
-Il mio cane
-A volte ti sento abbaiare
-Che vita da cani
-Una vita da cane
+[Ritornello: Carl Brave & Max Gazzè]
+Posso, posso, posso, posso, posso
+Stringerti la mano e dirti cose che non
+Posso, posso, posso, posso, posso
+Dire in italiano, ma in romano sì che
+Posso, posso, posso, posso, posso
+Posso, posso, posso dì: "Ti fidi di me?"
+E fai male, ehi, ehi
             </p>
         </div>
 
         <div class="w-full sm:w-1/3 mr-24">
             <p class="text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"> 
-[Strofa 2]
-Hai il naso asciutto
-Vai in salotto
-Mentre fissi una fetta di prosciutto
-L'hai puntata
-Il piatto è a portata
-E aspetti che mi alzo
-Per fare uno scatto
-E poi fare il vago per casa
-(Vieni qua)
-Ma ti becco e non mi guardi
-La coda di paglia
-Lecchi i baffi
-Sei un cane cattivo
-Andiamo giù
+[Strofa 2: Max Gazzè]
+Vorrei leggerti la mano, ma mi dici: "Vacci piano"
+So che dirti una bugia a volte sarebbe un po' più facile
+So leggerti nel fondo di un caffè che bevi deca
+Vorrei essere una sedia ed aspettare che ti sieda
+Potrei dirti che ci sta un colpo di fulmine in futuro
+Che saranno rose e fiori, ma era un colpo della strega
+Regalarti belle storie e rose al chiaro di luna
+Però è corta la fortuna e vedo una luna nera
+Sul tuo palmo la tua linea dell'amore è tratteggiata
+Fino al dito di Sakè con il medio, arriccio il baffo
+E sputo fumo in faccia, come un narghilè
+La verità fa male, ahi, ahi, ah, ahi, ah
 
-[Ritornello]
-Ho pianto lacrime amare
-Era solo un cane, sì
-Il mio cane
-A volte ti sento abbaiare
-Che vita da cani
-Una vita da cane
+[Interludio: Max Gazzè]
+Ahi, ahi, ah, ahi, ahi, ah, ahi, ahi, ah
+Ahi, ahi, ah, ahi, ahi, ah, ahi, ahi, ah
+Ahi, ahi, ah, ahi, ahi, ah, ahi, ahi, ah
+
+[Ritornello: Carl Brave & Max Gazzè]
+Posso, posso, posso, posso, posso
+Stringerti la mano e dirti cose che non
+Posso, posso, posso, posso, posso
+Dire in italiano, ma in romano sì che
+Posso, posso, posso, posso, posso
+Posso, posso, posso dì: "Ti fidi di me?"
+Mi fai male, ehi, ehi
+
+Posso, posso, posso, posso, posso
+Dirti che dormiamo e ba', ma credo che non
+Posso, posso, posso, posso, posso
+Più fermarmi ancora e poi ti chiedo se
+Posso, posso, posso, posso, posso
+Posso, posso, posso rifidarmi di te?
+Mi faccio male, ehi, ehi
             </p>
         </div>
 
