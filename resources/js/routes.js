@@ -79,6 +79,9 @@ import NewAlbum from './components/albums/NewAlbum'
 import LePolaroid from './components/LePolaroid'
 
 
+import DropdownMenu from './components/DropdownMenu'
+
+
 export default {
 
     mode: 'history',
