@@ -100,10 +100,10 @@
           </button>
           <ul class="w-32 dropdown-menu absolute hidden text-gray-700 pt-1 shadow-lg z-10">
 
-            <li > <router-link to="/biografia"> <a class="rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Bio </a> </router-link> </li>
-            <li > <router-link to="/tour"> <a class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Tour </a> </router-link> </li>
-            <li > <router-link to="/foto"> <a class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Foto </a> </router-link> </li>
-            <li > <router-link to="/video"> <a class="rounded-b bg-white  hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Video </a> </router-link> </li>
+            <li > <router-link to="/biografia" class="rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Bio </router-link> </li>
+            <li > <router-link to="/tour" class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Tour </router-link> </li>
+            <li > <router-link to="/foto" class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Foto </router-link> </li>
+            <li > <router-link to="/video" class="rounded-b bg-white  hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Video </router-link> </li>
 
           </ul>
         </div>
@@ -116,11 +116,11 @@
             <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/> </svg>
           </button>
           <ul class="w-40 dropdown-menu absolute hidden text-gray-700 pt-1 shadow-lg z-10">
-            <li > <router-link to="/polaroid"> <a class="rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Polaroid </a> </router-link> </li>
-            <li > <router-link to="/notti-brave"> <a class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave </a> </router-link> </li>
-            <li > <router-link to="/notti-brave-after"> <a class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave After </a> </router-link> </li>
-            <li > <router-link to="/nuovo-album"> <a class="rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm">
-             Nuovo Album <span class="rounded-full text-white bg-blue-500 uppercase px-2 py-1 text-xs font-normal ml-1">New</span> </a> </router-link> </li>
+            <li > <router-link to="/polaroid" class="rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Polaroid </router-link> </li>
+            <li > <router-link to="/notti-brave" class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave </router-link> </li>
+            <li > <router-link to="/notti-brave-after" class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave After </router-link> </li>
+            <li > <router-link to="/nuovo-album" class="rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> 
+             Nuovo Album <span class="rounded-full text-white bg-blue-500 uppercase px-2 py-1 text-xs font-normal ml-1">New</span> </router-link> </li>
                       
           </ul>
         </div>

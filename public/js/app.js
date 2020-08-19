@@ -9586,17 +9586,12 @@ var render = function() {
                             [
                               _c(
                                 "router-link",
-                                { attrs: { to: "/biografia" } },
-                                [
-                                  _c(
-                                    "a",
-                                    {
-                                      staticClass:
-                                        "rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
-                                    },
-                                    [_vm._v(" Bio ")]
-                                  )
-                                ]
+                                {
+                                  staticClass:
+                                    "rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
+                                  attrs: { to: "/biografia" }
+                                },
+                                [_vm._v(" Bio ")]
                               )
                             ],
                             1
@@ -9605,16 +9600,15 @@ var render = function() {
                           _c(
                             "li",
                             [
-                              _c("router-link", { attrs: { to: "/tour" } }, [
-                                _c(
-                                  "a",
-                                  {
-                                    staticClass:
-                                      "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
-                                  },
-                                  [_vm._v(" Tour ")]
-                                )
-                              ])
+                              _c(
+                                "router-link",
+                                {
+                                  staticClass:
+                                    "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
+                                  attrs: { to: "/tour" }
+                                },
+                                [_vm._v(" Tour ")]
+                              )
                             ],
                             1
                           ),
@@ -9622,16 +9616,15 @@ var render = function() {
                           _c(
                             "li",
                             [
-                              _c("router-link", { attrs: { to: "/foto" } }, [
-                                _c(
-                                  "a",
-                                  {
-                                    staticClass:
-                                      "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
-                                  },
-                                  [_vm._v(" Foto ")]
-                                )
-                              ])
+                              _c(
+                                "router-link",
+                                {
+                                  staticClass:
+                                    "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
+                                  attrs: { to: "/foto" }
+                                },
+                                [_vm._v(" Foto ")]
+                              )
                             ],
                             1
                           ),
@@ -9639,16 +9632,15 @@ var render = function() {
                           _c(
                             "li",
                             [
-                              _c("router-link", { attrs: { to: "/video" } }, [
-                                _c(
-                                  "a",
-                                  {
-                                    staticClass:
-                                      "rounded-b bg-white  hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
-                                  },
-                                  [_vm._v(" Video ")]
-                                )
-                              ])
+                              _c(
+                                "router-link",
+                                {
+                                  staticClass:
+                                    "rounded-b bg-white  hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
+                                  attrs: { to: "/video" }
+                                },
+                                [_vm._v(" Video ")]
+                              )
                             ],
                             1
                           )
@@ -9707,17 +9699,12 @@ var render = function() {
                             [
                               _c(
                                 "router-link",
-                                { attrs: { to: "/polaroid" } },
-                                [
-                                  _c(
-                                    "a",
-                                    {
-                                      staticClass:
-                                        "rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
-                                    },
-                                    [_vm._v(" Polaroid ")]
-                                  )
-                                ]
+                                {
+                                  staticClass:
+                                    "rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
+                                  attrs: { to: "/polaroid" }
+                                },
+                                [_vm._v(" Polaroid ")]
                               )
                             ],
                             1
@@ -9728,17 +9715,12 @@ var render = function() {
                             [
                               _c(
                                 "router-link",
-                                { attrs: { to: "/notti-brave" } },
-                                [
-                                  _c(
-                                    "a",
-                                    {
-                                      staticClass:
-                                        "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
-                                    },
-                                    [_vm._v(" Notti Brave ")]
-                                  )
-                                ]
+                                {
+                                  staticClass:
+                                    "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
+                                  attrs: { to: "/notti-brave" }
+                                },
+                                [_vm._v(" Notti Brave ")]
                               )
                             ],
                             1
@@ -9749,17 +9731,12 @@ var render = function() {
                             [
                               _c(
                                 "router-link",
-                                { attrs: { to: "/notti-brave-after" } },
-                                [
-                                  _c(
-                                    "a",
-                                    {
-                                      staticClass:
-                                        "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
-                                    },
-                                    [_vm._v(" Notti Brave After ")]
-                                  )
-                                ]
+                                {
+                                  staticClass:
+                                    "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
+                                  attrs: { to: "/notti-brave-after" }
+                                },
+                                [_vm._v(" Notti Brave After ")]
                               )
                             ],
                             1
@@ -9770,25 +9747,20 @@ var render = function() {
                             [
                               _c(
                                 "router-link",
-                                { attrs: { to: "/nuovo-album" } },
+                                {
+                                  staticClass:
+                                    "rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
+                                  attrs: { to: "/nuovo-album" }
+                                },
                                 [
+                                  _vm._v(" \r\n             Nuovo Album "),
                                   _c(
-                                    "a",
+                                    "span",
                                     {
                                       staticClass:
-                                        "rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                        "rounded-full text-white bg-blue-500 uppercase px-2 py-1 text-xs font-normal ml-1"
                                     },
-                                    [
-                                      _vm._v("\r\n             Nuovo Album "),
-                                      _c(
-                                        "span",
-                                        {
-                                          staticClass:
-                                            "rounded-full text-white bg-blue-500 uppercase px-2 py-1 text-xs font-normal ml-1"
-                                        },
-                                        [_vm._v("New")]
-                                      )
-                                    ]
+                                    [_vm._v("New")]
                                   )
                                 ]
                               )
