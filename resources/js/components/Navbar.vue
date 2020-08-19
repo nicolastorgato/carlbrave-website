@@ -85,7 +85,7 @@
     </div>
     <nav :class="isOpen ? 'block' : 'hidden'" class="sm:block">
       <div class="px-2 sm:flex sm:p-0">
-        <div v-if="isOpen == false" class="dropdown inline-block relative sm:ml-20 sm:mr-10">
+        <div v-if="isOpen == false" class="dropdown inline-block relative sm:ml-20 sm:mr-8">
           <button class="text-gray-700 font-normal py-2 px-4 rounded inline-flex items-center">
             <a class="sm:mt-0 "><router-link to="/" exact> Home </router-link> </a>
           </button>
@@ -98,11 +98,12 @@
             <span class="mr-1 cursor-default">Vita</span>
             <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/> </svg>
           </button>
-          <ul class="w-32 dropdown-menu absolute hidden text-gray-700 pt-1">
-            <li class=""> <router-link to="/biografia"> <a class="rounded-t bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Bio </a> </router-link> </li>
-            <li class=""> <router-link to="/tour"> <a class="bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Tour </a> </router-link> </li>
-            <li class=""> <router-link to="/foto"> <a class="bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Foto </a> </router-link> </li>
-            <li class=""> <router-link to="/video"> <a class="rounded-b bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Video </a> </router-link> </li>
+          <ul class="w-32 dropdown-menu absolute hidden text-gray-700 pt-1 shadow-lg z-10">
+
+            <li > <router-link to="/biografia"> <a class="rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Bio </a> </router-link> </li>
+            <li > <router-link to="/tour"> <a class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Tour </a> </router-link> </li>
+            <li > <router-link to="/foto"> <a class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Foto </a> </router-link> </li>
+            <li > <router-link to="/video"> <a class="rounded-b bg-white  hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Video </a> </router-link> </li>
 
           </ul>
         </div>
@@ -114,11 +115,13 @@
             <span class="mr-1 cursor-default">Album</span>
             <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/> </svg>
           </button>
-          <ul class="w-40 dropdown-menu absolute hidden text-gray-700 pt-1">
-            <li class=""> <router-link to="/polaroid"> <a class="rounded-t bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Polaroid </a> </router-link> </li>
-            <li class=""> <router-link to="/notti-brave"> <a class="bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave </a> </router-link> </li>
-            <li class=""> <router-link to="/notti-brave-after"> <a class="bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave After </a> </router-link> </li>
-            <li class=""> <router-link to="/nuovo-album"> <a class="rounded-b bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Nuovo Album </a> </router-link> </li>
+          <ul class="w-40 dropdown-menu absolute hidden text-gray-700 pt-1 shadow-lg z-10">
+            <li > <router-link to="/polaroid"> <a class="rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Polaroid </a> </router-link> </li>
+            <li > <router-link to="/notti-brave"> <a class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave </a> </router-link> </li>
+            <li > <router-link to="/notti-brave-after"> <a class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave After </a> </router-link> </li>
+            <li > <router-link to="/nuovo-album"> <a class="rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm">
+             Nuovo Album <span class="rounded-full text-white bg-blue-500 uppercase px-2 py-1 text-xs font-normal ml-1">New</span> </a> </router-link> </li>
+                      
           </ul>
         </div>
 
@@ -138,7 +141,7 @@
       <!-- mobile menu -->
       <div class="px-4 py-3 border-gray-800 sm:hidden">
         <div class="flex items-center">
-          <span class="font-semibold text-gray-800">Home</span>
+            <a @click="closeMenu" class="font-semibold text-gray-800"><router-link to="/" exact> Home </router-link> </a>
         </div>
       </div>
 
@@ -147,28 +150,31 @@
           <span class="font-semibold text-gray-800">Vita</span>
         </div>
         <div class="mt-1">
-          <a href="#" class="mr-3 text-gray-800">Bio</a>
-          <a href="#" class="mr-3 mt-1 text-gray-800">Tour</a>
-          <a href="#" class="mr-3 mt-1 text-gray-800">Foto</a>
-          <a href="#" class="mr-3 mt-1 text-gray-800">Video</a>
+
+          <a @click="closeMenu" class="mr-3 text-gray-800"><router-link to="/biografia"> Bio </router-link> </a>
+          <a @click="closeMenu" class="mr-3 mt-1 text-gray-800"><router-link to="/tour"> Tour </router-link> </a> 
+          <a @click="closeMenu" class="mr-3 mt-1 text-gray-800"><router-link to="/foto"> Foto </router-link> </a>
+          <a @click="closeMenu" class="mr-3 mt-1 text-gray-800"><router-link to="/video"> Video </router-link> </a>
+
         </div>
       </div>
 
       <div class="px-4 py-3 sm:hidden">
         <div class="flex items-center">
-          <span class=" font-semibold text-gray-800">Album</span>
+          <span class="font-semibold text-gray-800">Album</span>
         </div>
         <div class="mt-1 w-full">
-          <a href="#" class="block mr-3 text-gray-800">Polaroid</a>
-          <a href="#" class="block mr-3 text-gray-800">Notti Brave</a>
-          <a href="#" class="block mr-3 text-gray-800">Notti Brave After</a>
-          <a href="#" class="block mr-3 text-gray-800">Nuovo Album</a>
+          <a @click="closeMenu" class="block mr-3 text-gray-800"><router-link to="/polaroid"> Polaroid </router-link> </a>
+          <a @click="closeMenu" class="block mr-3 mt-1 text-gray-800"><router-link to="/notti-brave"> Notti Brave </router-link> </a>
+          <a @click="closeMenu" class="block mr-3 mt-1 text-gray-800"><router-link to="/notti-brave-after"> Notti Brave After </router-link> </a>
+          <a @click="closeMenu" class="block mr-3 mt-1 text-gray-800"><router-link to="/nuovo-album"> Nuovo Album <span class="rounded-full bg-blue-500 uppercase px-2 py-1 text-xs font-semibold ml-1">New</span> </router-link> </a>
+          
         </div>
       </div>
 
       <div class="px-4 py-3 sm:hidden">
         <div class="flex items-center">
-          <span class=" font-semibold text-gray-800">Le Polaroid</span>
+            <a @click="closeMenu" class="font-semibold text-gray-800"> <router-link to="/le-polaroid"> Le Polaroid </router-link> </a>
         </div>
       </div>
 
@@ -194,14 +200,19 @@ export default {
 
     data(){
         return {
-            isOpen: false
+            isOpen: false,
+            closedDropdown: false
         }
     },
 
     methods: {
-		closeMenu () {
-            setTimeout(() => { this.isOpen = !this.isOpen }, 300);
-		}
+      closeMenu () {
+          setTimeout(() => { this.isOpen = !this.isOpen }, 200);
+      },
+
+      // closeDropdown () {
+      //     this.closedDropdown = !this.closedDropdown;  
+      // }
 	}
 
 
@@ -210,8 +221,12 @@ export default {
 </script>
 
 <style>
-.dropdown:hover .dropdown-menu {
+/* .dropdown:hover .dropdown-menu {
   display: block;
-}
+} */
+
+.dropdown:hover .dropdown-menu {
+  @apply block
+} 
 
 </style>

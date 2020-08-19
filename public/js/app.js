@@ -2511,10 +2511,17 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
-      isOpen: false
+      isOpen: false,
+      closedDropdown: false
     };
   },
   methods: {
@@ -2523,8 +2530,11 @@ __webpack_require__.r(__webpack_exports__);
 
       setTimeout(function () {
         _this.isOpen = !_this.isOpen;
-      }, 300);
-    }
+      }, 200);
+    } // closeDropdown () {
+    //     this.closedDropdown = !this.closedDropdown;  
+    // }
+
   }
 });
 
@@ -7187,7 +7197,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".dropdown:hover .dropdown-menu {\n  display: block;\n}\r\n\r\n", ""]);
+exports.push([module.i, "/* .dropdown:hover .dropdown-menu {\r\n  display: block;\r\n} */\n.dropdown:hover .dropdown-menu {\n  display: block\n} \r\n\r\n", ""]);
 
 // exports
 
@@ -9499,7 +9509,7 @@ var render = function() {
                     "div",
                     {
                       staticClass:
-                        "dropdown inline-block relative sm:ml-20 sm:mr-10"
+                        "dropdown inline-block relative sm:ml-20 sm:mr-8"
                     },
                     [
                       _c(
@@ -9568,12 +9578,11 @@ var render = function() {
                         "ul",
                         {
                           staticClass:
-                            "w-32 dropdown-menu absolute hidden text-gray-700 pt-1"
+                            "w-32 dropdown-menu absolute hidden text-gray-700 pt-1 shadow-lg z-10"
                         },
                         [
                           _c(
                             "li",
-                            {},
                             [
                               _c(
                                 "router-link",
@@ -9583,7 +9592,7 @@ var render = function() {
                                     "a",
                                     {
                                       staticClass:
-                                        "rounded-t bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                        "rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
                                     },
                                     [_vm._v(" Bio ")]
                                   )
@@ -9595,14 +9604,13 @@ var render = function() {
                           _vm._v(" "),
                           _c(
                             "li",
-                            {},
                             [
                               _c("router-link", { attrs: { to: "/tour" } }, [
                                 _c(
                                   "a",
                                   {
                                     staticClass:
-                                      "bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                      "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
                                   },
                                   [_vm._v(" Tour ")]
                                 )
@@ -9613,14 +9621,13 @@ var render = function() {
                           _vm._v(" "),
                           _c(
                             "li",
-                            {},
                             [
                               _c("router-link", { attrs: { to: "/foto" } }, [
                                 _c(
                                   "a",
                                   {
                                     staticClass:
-                                      "bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                      "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
                                   },
                                   [_vm._v(" Foto ")]
                                 )
@@ -9631,14 +9638,13 @@ var render = function() {
                           _vm._v(" "),
                           _c(
                             "li",
-                            {},
                             [
                               _c("router-link", { attrs: { to: "/video" } }, [
                                 _c(
                                   "a",
                                   {
                                     staticClass:
-                                      "rounded-b bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                      "rounded-b bg-white  hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
                                   },
                                   [_vm._v(" Video ")]
                                 )
@@ -9693,12 +9699,11 @@ var render = function() {
                         "ul",
                         {
                           staticClass:
-                            "w-40 dropdown-menu absolute hidden text-gray-700 pt-1"
+                            "w-40 dropdown-menu absolute hidden text-gray-700 pt-1 shadow-lg z-10"
                         },
                         [
                           _c(
                             "li",
-                            {},
                             [
                               _c(
                                 "router-link",
@@ -9708,7 +9713,7 @@ var render = function() {
                                     "a",
                                     {
                                       staticClass:
-                                        "rounded-t bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                        "rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
                                     },
                                     [_vm._v(" Polaroid ")]
                                   )
@@ -9720,7 +9725,6 @@ var render = function() {
                           _vm._v(" "),
                           _c(
                             "li",
-                            {},
                             [
                               _c(
                                 "router-link",
@@ -9730,7 +9734,7 @@ var render = function() {
                                     "a",
                                     {
                                       staticClass:
-                                        "bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                        "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
                                     },
                                     [_vm._v(" Notti Brave ")]
                                   )
@@ -9742,7 +9746,6 @@ var render = function() {
                           _vm._v(" "),
                           _c(
                             "li",
-                            {},
                             [
                               _c(
                                 "router-link",
@@ -9752,7 +9755,7 @@ var render = function() {
                                     "a",
                                     {
                                       staticClass:
-                                        "bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                        "bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
                                     },
                                     [_vm._v(" Notti Brave After ")]
                                   )
@@ -9764,7 +9767,6 @@ var render = function() {
                           _vm._v(" "),
                           _c(
                             "li",
-                            {},
                             [
                               _c(
                                 "router-link",
@@ -9774,9 +9776,19 @@ var render = function() {
                                     "a",
                                     {
                                       staticClass:
-                                        "rounded-b bg-gray-100 hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
+                                        "rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"
                                     },
-                                    [_vm._v(" Nuovo Album ")]
+                                    [
+                                      _vm._v("\r\n             Nuovo Album "),
+                                      _c(
+                                        "span",
+                                        {
+                                          staticClass:
+                                            "rounded-full text-white bg-blue-500 uppercase px-2 py-1 text-xs font-normal ml-1"
+                                        },
+                                        [_vm._v("New")]
+                                      )
+                                    ]
                                   )
                                 ]
                               )
@@ -9823,13 +9835,173 @@ var render = function() {
                 : _vm._e()
             ]),
             _vm._v(" "),
-            _vm._m(1),
+            _c("div", { staticClass: "px-4 py-3 border-gray-800 sm:hidden" }, [
+              _c("div", { staticClass: "flex items-center" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "font-semibold text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/", exact: "" } }, [
+                      _vm._v(" Home ")
+                    ])
+                  ],
+                  1
+                )
+              ])
+            ]),
             _vm._v(" "),
-            _vm._m(2),
+            _c("div", { staticClass: "px-4 py-3 sm:hidden" }, [
+              _vm._m(1),
+              _vm._v(" "),
+              _c("div", { staticClass: "mt-1" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "mr-3 text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/biografia" } }, [
+                      _vm._v(" Bio ")
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "mr-3 mt-1 text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/tour" } }, [
+                      _vm._v(" Tour ")
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "mr-3 mt-1 text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/foto" } }, [
+                      _vm._v(" Foto ")
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "mr-3 mt-1 text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/video" } }, [
+                      _vm._v(" Video ")
+                    ])
+                  ],
+                  1
+                )
+              ])
+            ]),
             _vm._v(" "),
-            _vm._m(3),
+            _c("div", { staticClass: "px-4 py-3 sm:hidden" }, [
+              _vm._m(2),
+              _vm._v(" "),
+              _c("div", { staticClass: "mt-1 w-full" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "block mr-3 text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/polaroid" } }, [
+                      _vm._v(" Polaroid ")
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "block mr-3 mt-1 text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/notti-brave" } }, [
+                      _vm._v(" Notti Brave ")
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "block mr-3 mt-1 text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/notti-brave-after" } }, [
+                      _vm._v(" Notti Brave After ")
+                    ])
+                  ],
+                  1
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "block mr-3 mt-1 text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/nuovo-album" } }, [
+                      _vm._v(" Nuovo Album "),
+                      _c(
+                        "span",
+                        {
+                          staticClass:
+                            "rounded-full bg-blue-500 uppercase px-2 py-1 text-xs font-semibold ml-1"
+                        },
+                        [_vm._v("New")]
+                      )
+                    ])
+                  ],
+                  1
+                )
+              ])
+            ]),
             _vm._v(" "),
-            _vm._m(4)
+            _c("div", { staticClass: "px-4 py-3 sm:hidden" }, [
+              _c("div", { staticClass: "flex items-center" }, [
+                _c(
+                  "a",
+                  {
+                    staticClass: "font-semibold text-gray-800",
+                    on: { click: _vm.closeMenu }
+                  },
+                  [
+                    _c("router-link", { attrs: { to: "/le-polaroid" } }, [
+                      _vm._v(" Le Polaroid ")
+                    ])
+                  ],
+                  1
+                )
+              ])
+            ])
           ]
         )
       ]
@@ -9855,11 +10027,9 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "px-4 py-3 border-gray-800 sm:hidden" }, [
-      _c("div", { staticClass: "flex items-center" }, [
-        _c("span", { staticClass: "font-semibold text-gray-800" }, [
-          _vm._v("Home")
-        ])
+    return _c("div", { staticClass: "flex items-center" }, [
+      _c("span", { staticClass: "font-semibold text-gray-800" }, [
+        _vm._v("Vita")
       ])
     ])
   },
@@ -9867,85 +10037,9 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "px-4 py-3 sm:hidden" }, [
-      _c("div", { staticClass: "flex items-center" }, [
-        _c("span", { staticClass: "font-semibold text-gray-800" }, [
-          _vm._v("Vita")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "mt-1" }, [
-        _c("a", { staticClass: "mr-3 text-gray-800", attrs: { href: "#" } }, [
-          _vm._v("Bio")
-        ]),
-        _vm._v(" "),
-        _c(
-          "a",
-          { staticClass: "mr-3 mt-1 text-gray-800", attrs: { href: "#" } },
-          [_vm._v("Tour")]
-        ),
-        _vm._v(" "),
-        _c(
-          "a",
-          { staticClass: "mr-3 mt-1 text-gray-800", attrs: { href: "#" } },
-          [_vm._v("Foto")]
-        ),
-        _vm._v(" "),
-        _c(
-          "a",
-          { staticClass: "mr-3 mt-1 text-gray-800", attrs: { href: "#" } },
-          [_vm._v("Video")]
-        )
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "px-4 py-3 sm:hidden" }, [
-      _c("div", { staticClass: "flex items-center" }, [
-        _c("span", { staticClass: " font-semibold text-gray-800" }, [
-          _vm._v("Album")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "mt-1 w-full" }, [
-        _c(
-          "a",
-          { staticClass: "block mr-3 text-gray-800", attrs: { href: "#" } },
-          [_vm._v("Polaroid")]
-        ),
-        _vm._v(" "),
-        _c(
-          "a",
-          { staticClass: "block mr-3 text-gray-800", attrs: { href: "#" } },
-          [_vm._v("Notti Brave")]
-        ),
-        _vm._v(" "),
-        _c(
-          "a",
-          { staticClass: "block mr-3 text-gray-800", attrs: { href: "#" } },
-          [_vm._v("Notti Brave After")]
-        ),
-        _vm._v(" "),
-        _c(
-          "a",
-          { staticClass: "block mr-3 text-gray-800", attrs: { href: "#" } },
-          [_vm._v("Nuovo Album")]
-        )
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "px-4 py-3 sm:hidden" }, [
-      _c("div", { staticClass: "flex items-center" }, [
-        _c("span", { staticClass: " font-semibold text-gray-800" }, [
-          _vm._v("Le Polaroid")
-        ])
+    return _c("div", { staticClass: "flex items-center" }, [
+      _c("span", { staticClass: "font-semibold text-gray-800" }, [
+        _vm._v("Album")
       ])
     ])
   }
