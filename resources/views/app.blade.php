@@ -22,7 +22,6 @@
 
                 <navbar></navbar>
    
-                
                 <main>
 
                     <div class="primary flex-1 px-6 sm:px-12">
