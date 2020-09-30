@@ -68,8 +68,25 @@ import Termini from './components/songs/nottibraveafter/Termini'
 
 
 
-import NewAlbum from './components/albums/NewAlbum'
+import Coraggio from './components/albums/Coraggio'
 
+import Shangai from './components/songs/coraggio/Shangai'
+import ParliParli from './components/songs/coraggio/ParliParli'
+import Eccaalla from './components/songs/coraggio/Eccaalla'
+import Nuvole from './components/songs/coraggio/Nuvole'
+import Spigoli from './components/songs/coraggio/Spigoli'
+import Gemelli from './components/songs/coraggio/Gemelli'
+import Glicine from './components/songs/coraggio/Glicine'
+import Mandovai from './components/songs/coraggio/Mandovai'
+import Fakedm from './components/songs/coraggio/Fakedm'
+import Buuu from './components/songs/coraggio/Buuu'
+import Fratellì from './components/songs/coraggio/Fratellì'
+import LeGuardie from './components/songs/coraggio/LeGuardie'
+import JeMappelle from './components/songs/coraggio/JeMappelle'
+import ReginaCoeli from './components/songs/coraggio/ReginaCoeli'
+import Fototessera from './components/songs/coraggio/Fototessera'
+import ChePoi from './components/songs/coraggio/ChePoi'
+import Marisol from './components/songs/coraggio/Marisol'
 
 
 
@@ -325,13 +342,96 @@ export default {
 
 
 
-
+        // album CORAGGIO
         {
-            path: '/nuovo-album',
-            component: NewAlbum
+            path: '/coraggio',
+            component: Coraggio
         },
 
+        {
+            path: '/coraggio/shangai',
+            component: Shangai
+        },
 
+        {
+            path: '/coraggio/parli-parli',
+            component: ParliParli
+        },
+
+        {
+            path: '/coraggio/eccaalla',
+            component: Eccaalla
+        },
+
+        {
+            path: '/coraggio/nuvole',
+            component: Nuvole
+        },
+
+        {
+            path: '/coraggio/spigoli',
+            component: Spigoli
+        },
+
+        {
+            path: '/coraggio/gemelli',
+            component: Gemelli
+        },
+
+        {
+            path: '/coraggio/glicine',
+            component: Glicine
+        },
+
+        {
+            path: '/coraggio/mandovai',
+            component: Mandovai
+        },
+
+        {
+            path: '/coraggio/fakedm',
+            component: Fakedm
+        },
+
+        {
+            path: '/coraggio/buuu',
+            component: Buuu
+        },
+
+        {
+            path: '/coraggio/fratellì',
+            component: Fratellì
+        },
+
+        {
+            path: '/coraggio/le-guardie',
+            component: LeGuardie
+        },
+
+        {
+            path: '/coraggio/je-mappelle',
+            component: JeMappelle
+        },
+
+        {
+            path: '/coraggio/regina-coeli',
+            component: ReginaCoeli
+        },
+
+        {
+            path: '/coraggio/fototessera',
+            component: Fototessera
+        },
+
+        {
+            path: '/coraggio/che-poi',
+            component: ChePoi
+        },
+
+        {
+            path: '/coraggio/marisol',
+            component: Marisol
+        },
 
 
 

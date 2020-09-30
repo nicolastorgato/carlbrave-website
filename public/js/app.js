@@ -2691,9 +2691,9 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/albums/NewAlbum.vue?vue&type=script&lang=js&":
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/albums/Coraggio.vue?vue&type=script&lang=js&":
 /*!**************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/albums/NewAlbum.vue?vue&type=script&lang=js& ***!
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/albums/Coraggio.vue?vue&type=script&lang=js& ***!
   \**************************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -2725,7 +2725,129 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ __webpack_exports__["default"] = ({});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  data: function data() {
+    return {
+      canzoni: [{
+        nome: '1 - Shangai',
+        path: 'shangai',
+        numero: 1,
+        testo: 'testo1'
+      }, {
+        nome: '2 - Parli parli',
+        path: 'parli-parli',
+        numero: 2,
+        testo: 'testo2'
+      }, {
+        nome: '3 - Eccaalla',
+        path: 'eccaalla',
+        numero: 3,
+        testo: 'testo3'
+      }, {
+        nome: '4 - Nuvole',
+        path: 'nuvole',
+        numero: 4,
+        testo: 'testo4'
+      }, {
+        nome: '5 - Spigoli (feat. Tha Supreme & Mara Sattei)',
+        path: 'spigoli',
+        numero: 5,
+        testo: 'testo5'
+      }, {
+        nome: '6 - Gemelli',
+        path: 'gemelli',
+        numero: 6,
+        testo: 'testo6'
+      }, {
+        nome: '7 - Glicine',
+        path: 'glicine',
+        numero: 7,
+        testo: 'testo7'
+      }, {
+        nome: '8 - Mandovai',
+        path: 'mandovai',
+        numero: 8,
+        testo: 'testo8'
+      }, {
+        nome: '9 - Fakedm',
+        path: 'Fakedm',
+        numero: 9,
+        testo: 'testo9'
+      }, {
+        nome: '10 - Buuu',
+        path: 'buuu',
+        numero: 10,
+        testo: 'testo10'
+      }, {
+        nome: '11 - Fratellì',
+        path: 'fratellì',
+        numero: 11,
+        testo: 'testo11'
+      }, {
+        nome: '12 - Le guardie',
+        path: 'le-guardie',
+        numero: 12,
+        testo: 'testo12'
+      }, {
+        nome: '13 - Je m\'appelle',
+        path: 'je-mappelle',
+        numero: 13,
+        testo: 'testo13'
+      }, {
+        nome: '14 - Regina Coeli',
+        path: 'regina-coeli',
+        numero: 14,
+        testo: 'testo14'
+      }, {
+        nome: '15 - Fototessera',
+        path: 'fototessera',
+        numero: 15,
+        testo: 'testo15'
+      }, {
+        nome: '16 - Che poi',
+        path: 'che-poi',
+        numero: 16,
+        testo: 'testo16'
+      }, {
+        nome: '17 - Marisol',
+        path: 'marisol',
+        numero: 17,
+        testo: 'testo17'
+      }]
+    };
+  },
+  created: function created() {}
+});
 
 /***/ }),
 
@@ -3190,6 +3312,1355 @@ __webpack_require__.r(__webpack_exports__);
     }
   }
 });
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Buuu.vue?vue&type=script&lang=js&":
+/*!******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Buuu.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Glicine.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Glicine.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Marisol.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Marisol.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Shangai.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Shangai.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
 
@@ -9750,10 +11221,10 @@ var render = function() {
                                 {
                                   staticClass:
                                     "rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm",
-                                  attrs: { to: "/nuovo-album" }
+                                  attrs: { to: "/coraggio" }
                                 },
                                 [
-                                  _vm._v(" \r\n             Nuovo Album "),
+                                  _vm._v(" \r\n             Coraggio "),
                                   _c(
                                     "span",
                                     {
@@ -10309,9 +11780,9 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/albums/NewAlbum.vue?vue&type=template&id=331133c2&":
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/albums/Coraggio.vue?vue&type=template&id=129e4091&":
 /*!******************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/albums/NewAlbum.vue?vue&type=template&id=331133c2& ***!
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/albums/Coraggio.vue?vue&type=template&id=129e4091& ***!
   \******************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -10324,68 +11795,83 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", [
+    _c("div", { staticClass: "flex-col mb-8" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c("div", { staticClass: "flex flex-col lg:flex-row mb-4" }, [
+        _vm._m(1),
+        _vm._v(" "),
+        _c(
+          "ul",
+          { staticClass: "leading-7 mb-5" },
+          _vm._l(_vm.canzoni, function(canzone) {
+            return _c(
+              "li",
+              {
+                key: canzone.nome,
+                staticClass: "text-base text-gray-700 hover:text-blue-600"
+              },
+              [
+                _c(
+                  "router-link",
+                  { attrs: { to: "/coraggio/" + canzone.path } },
+                  [_vm._v(" " + _vm._s(canzone.nome) + " ")]
+                )
+              ],
+              1
+            )
+          }),
+          0
+        )
+      ])
+    ])
+  ])
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [
-      _c("div", { staticClass: "flex items-center justify-center sm:mt-24" }, [
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-10 text-gray-800" },
+      [
+        _vm._v(" Album | \r\n            "),
+        _c("span", { staticClass: "mt-2 uppercase text-2xl font-semibold" }, [
+          _vm._v("Coraggio ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "w-full sm:w-auto mr-24 pr-20 pb-10 sm:pb-20" },
+      [
+        _c("img", {
+          staticClass: "mb-3",
+          attrs: {
+            width: "500px",
+            src: "/images/albums/album-coraggio.jpg",
+            alt: "logo"
+          }
+        }),
+        _vm._v(" "),
         _c(
-          "div",
+          "a",
           {
             staticClass:
-              "bg-white lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg"
+              "border border-grey-light px-8 py-2 rounded-full text-black font-medium text-xs hover:bg-gray-100",
+            attrs: { href: "/images/albums/album-coraggio.jpg" }
           },
-          [
-            _c("div", { staticClass: "lg:w-1/2" }, [
-              _c("div", {
-                staticClass: "h-64 bg-cover bg-center lg:rounded-lg lg:h-full",
-                staticStyle: {
-                  "background-image": "url('/images/varie/new-album.jpg')"
-                }
-              })
-            ]),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass: "py-12 px-0 lg:px-6 max-w-xl lg:max-w-5xl lg:w-1/2"
-              },
-              [
-                _c("h2", { staticClass: "text-3xl text-gray-800 font-bold" }, [
-                  _vm._v("Nuovo Album")
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "mt-4 text-gray-700" }, [
-                  _vm._v(
-                    "Dopo i singoli Che poi, Regina Coeli, Spigoli e l'ultimissima Fratellì, \r\n                                                  Carl Brave pubblicherà il suo prossimo album a Settembre 2020. "
-                  ),
-                  _c("br"),
-                  _c("br"),
-                  _vm._v(
-                    "\r\n                                                  Sono già in programma due concerti live per il prossimo anno e l'attesa è già alle stelle! "
-                  )
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "mt-8" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass:
-                        "bg-blue-900 text-gray-100 px-5 py-3 font-semibold rounded tracking-wide cursor-default"
-                    },
-                    [_vm._v("Nuovo album fuori a Settembre!")]
-                  )
-                ])
-              ]
-            )
-          ]
+          [_vm._v("\r\n                    Copertina \r\n                ")]
         )
-      ])
-    ])
+      ]
+    )
   }
 ]
 render._withStripped = true
@@ -10871,6 +12357,1702 @@ var render = function() {
   ])
 }
 var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Buuu.vue?vue&type=template&id=06b6f996&":
+/*!**********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Buuu.vue?vue&type=template&id=06b6f996& ***!
+  \**********************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Buuu ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=template&id=1d1ad08c&":
+/*!************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=template&id=1d1ad08c& ***!
+  \************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Che Poi ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n\r\n[Strofa 1]\r\nCome va?\r\nCaffellatte e cornettino crema\r\nLa mattina sempre nello stesso bar\r\nE non metti manco la catena, rubi una 7 Up\r\nGuarda là\r\nChe si gira tutta Roma quando passi\r\nCol tuo pantalone bianco all'Ara Pacis\r\nPer educazione do un colpetto di clacson e ti guardo\r\n\r\n[Pre-Ritornello 1]\r\nChe poi con te è tutto un flirtare\r\nMa tu non concludi mai\r\nT'ho preso due/tre girasoli per farmi perdonare\r\nE dai\r\n\r\n[Ritornello]\r\nLa mia felpa fluo-uo, nei tuoi occhi blu-u-u\r\nEravamo un duo-uo, ma ora non lo siamo più\r\nSotto casa che ti faccio mille poste, butti giù dalla finestra foto nostre\r\nIo le acchiappo e grido: \"Eh-oh, eh-oh-oh, eh-oh, eh-oh-oh\"\r\n\r\n[Post-Ritornello]\r\nUna media per me (Due), una birra, fai due (Tre)\r\nUna media per lei (Due), una birra, fai due (Tre)\r\nUna media per me (Due), una birra, fai due (Tre)\r\nUna media per lei (Due), una birra, fai due\r\n\r\n\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n\r\n[Strofa 2]\r\nTua madre fuma MS Rosse\r\nSorride, è bella, c'ha i colpi di tosse\r\nColpi di sole, biondo platino\r\nChe va di moda tra le signore\r\nTu sei il mio sangue, sei i miei capillari\r\nSei 'na vecchia storia che sa di Campari\r\nSulla sedia le giacche s'abbracciano\r\nPiante grasse ingrassano, due vite non ci bastano\r\n\r\n[Pre-Ritornello 2]\r\nDa amici a fratelli siamesi (Siamesi)\r\nE poi sei sparita per mesi (Per mesi)\r\nE mo non capisco perché\r\nTra noi solo chilometri di pareti\r\nEh-oh, eh-oh-oh, eh-oh, eh-oh-oh\r\nVorrei stare incastrati come gli origami\r\nEh-oh, eh-oh-oh, eh-oh, eh-oh-oh\r\nE sta' lontani è come sta' ai domiciliari\r\n\r\n[Ritornello]\r\nLa mia felpa fluo-uo, nei tuoi occhi blu-u-u\r\nEravamo un duo-uo, ma ora non lo siamo più\r\nSotto casa che ti faccio mille poste, butti giù dalla finestra foto nostre\r\nIo le acchiappo e grido: \"Eh-oh, eh-oh-oh, eh-oh, eh-oh-oh\"\r\n\r\n[Bridge]\r\nEh-oh, eh-oh-oh, eh-oh, eh-oh\r\nEh-oh, eh-oh-oh, eh-oh, eh-oh\r\nEh-oh, eh-oh-oh, eh-oh, eh-oh\r\nEh-oh, eh-oh-oh, eh-oh, eh-oh\r\nEh-oh, eh-oh-oh, eh-oh, eh-oh\r\nEh-oh, eh-oh-oh, eh-oh, eh-oh\r\n\r\n[Outro]\r\nUna media per me (Due), una birra, fai due (Tre)\r\nUna media per lei (Due), una birra, fai due (Tre)\r\nUna media per me (Due), una birra, fai due (Tre)\r\nUna media per lei (Due), una birra, fai due\r\n\r\n\r\n\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=template&id=9d181444&":
+/*!**************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=template&id=9d181444& ***!
+  \**************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Shangai ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=template&id=c095d8c0&":
+/*!************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=template&id=c095d8c0& ***!
+  \************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Fakedm ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=template&id=af8c54e6&":
+/*!*****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=template&id=af8c54e6& ***!
+  \*****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Fototessera ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=template&id=3238e5e8&":
+/*!**************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=template&id=3238e5e8& ***!
+  \**************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Fratellì ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n\r\n[Intro]\r\nEhi, ehi\r\n\r\n[Strofa 1]\r\nMa che stai a di', ho fatto er botto co' 'n NCC\r\nIpnotizzato da un Arbre Magic\r\nScende un terrone che dice: \"Mari'\r\nCaccia i soldi, ma non fare il CID, ehi\r\nChe dici a Milano? A Roma okay, ehi\r\nIeri ho fatto le 6, stavo a Verona con tutti i butei, ehi\r\nZi', ti vedo sciupato, vacci piano, non è parmigiano (Ah, no?)\r\nDici: \"Smetto domani\"\r\nDai, frate', te se allunga il naso\r\nE c'ho fame, mangiamo su Just Eat\r\nEd il sushi c'ha rapinato\r\nHai levato le quattro P dai tuoi pasti\r\nE non vale se ci bevi il Mediterraneo\r\nEsco di casa con lei, mi sorride felice tutto il vicinato\r\nSe bevo metà Desperados, mi sale la pezza da alcolizzato\r\nMi chiama \"'mbare\" da un'ora\r\nUn mezzo terrone che studia a Milano (Ehi, ehi)\r\nEd è il solo contatto che abbiamo\r\n\r\n[Ritornello]\r\nA fratelli', smettila, smettila con quella roba lì\r\nDaje fratellino, smettila, smettila e daje, non fa' così\r\nA fratelli', smettila, smettila con quella roba lì\r\nDaje fratellino, smettila, smettila e daje, non fa' così\r\n\r\n[Post-Ritornello]\r\nSmettila, smettila, smettila\r\nCon quella roba lì\r\nSmettila, smettila, smettila\r\nSmettila fratelli'\r\nSmettila, smettila, smettila\r\nCon quella roba lì\r\nSmettila, smettila, smettila\r\nSmettila, fratelli'\r\n\r\n\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n\r\n[Strofa 2]\r\nNe dò una, poi due, poi tre\r\nSmettere, no, non è mai facile\r\nMe ne vado in bagno, te ne lascio una\r\nMa se non mi segui la tengo per me\r\nHo lo spaccino che manda i messaggi\r\nAlle 5 che ha cinque posti ma da 0.3\r\nNon la divido nemmeno con lei\r\nFigurati un pezzo mo che siamo in sei\r\nIn mezzo a un parcheggio vicino al Raccordo\r\nDice che l'ha presa a Palocco\r\nQuella che appena la dai ti fa andare di corpo\r\nPronto pe' il pronto soccorso\r\nCi vai sotto, campione, devi fa' attenzione\r\nA giudicone\r\nMa che giudicone? Non fare il fregnone\r\nChe non sei il Califfo e nemmeno un punk rocker\r\nLei diventa una vacca, 'sta casa è un porcile\r\nIo non voglio pensarci che sta per finire\r\nSe riuscirò a farlo, non riesco a venire\r\nSe vado a dormire, non riesco a dormire\r\nCe magni e ce dormi\r\nMa che stai a di', manco in Brasile, figurati qui, figurati zi'\r\nEhi, come dico?\r\nCon la caramella, come un poliziotto con la dipendenza\r\nChe si tiene quello che trova\r\nE ti accolla un po' meno di quello che pensa tu dovresti avere\r\nFa una chiamata, sì, poi ti fa bere\r\nDai fratellino che i soldi finiscono in breve\r\nBuffi ti inseguono e non ti fa bene\r\n\r\n[Ritornello]\r\nA fratelli', smettila, smettila con quella roba lì\r\nDaje fratellino, smettila, smettila e daje, non fa' così\r\nA fratelli', smettila, smettila con quella roba lì\r\nDaje fratellino, smettila, smettila e daje, non fa' così\r\n\r\n[Post-Ritornello]\r\nSmettila, smettila, smettila\r\nCon quella roba lì\r\nSmettila, smettila, smettila\r\nSmettila fratelli'\r\nSmettila, smettila, smettila\r\nCon quella roba lì\r\nSmettila, smettila, smettila\r\nSmettila, fratelli'\r\n\r\n\r\n\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=template&id=e3c725be&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=template&id=e3c725be& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Gemelli ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Glicine.vue?vue&type=template&id=7fc910af&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Glicine.vue?vue&type=template&id=7fc910af& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Glicine ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=template&id=3a3d5ad1&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=template&id=3a3d5ad1& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Je m'appelle ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=template&id=91425094&":
+/*!***************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=template&id=91425094& ***!
+  \***************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Le guardie ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=template&id=a3b1d2ca&":
+/*!**************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=template&id=a3b1d2ca& ***!
+  \**************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Mandovai ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Marisol.vue?vue&type=template&id=36c226d3&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Marisol.vue?vue&type=template&id=36c226d3& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Marisol ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=template&id=6c3a8fbb&":
+/*!************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=template&id=6c3a8fbb& ***!
+  \************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Nuvole ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=template&id=9524b4bc&":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=template&id=9524b4bc& ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Parli Parli ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=template&id=07402988&":
+/*!*****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=template&id=07402988& ***!
+  \*****************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Regina Coeli ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n\r\n[Intro]\r\nUn vecchio sull'8, lo faccio sede'\r\nE ogni pischello mi chiama \"frate'\" (Frate')\r\nTrastevere è bella anche senza di me\r\nMa meno senza di te\r\nIl grattacheccaro da giugno a settembre\r\nL'acqua di Roma è tutta buona da bere\r\nStavo al Calisto quasi tutte le sere\r\nCoi matti di quartiere mi ci faccio un bicchiere\r\nMezza Roma fa: \"Ahó, ahó, ahó\"\r\nMezza Roma fa: \"Ahó, ahó, ahó\"\r\n\r\n[Strofa 1]\r\nMiracolo, a Regina Coeli piovono arance\r\nGridano coatte: \"Roma non si batte\"\r\nUn punkabbestia con il cane è messo male (Male)\r\nGli lascio l'euro del carrello per mangiare\r\nLa zingara di qua che fa la carità\r\nSta tutta il giorno là, seduta a non fa' un ca'\r\nDietro la Caritas ho fatto il botto co' una minicar\r\nFacciamo il CID, ma ci vorrebbe il VAR, ehi\r\nPrati di tabacchi, l'eco tra i palazzi\r\nIl vento affoga il brecciolino nel cemento\r\nE fioccano le multe su una 500\r\nAbbandonata da una vita a Roma centro, ehi\r\nDice: \"Fa male a lungo andare, rinazina\", ma\r\nNon riesco a respirarti bene stamattina, ehi\r\nE non mi serve manco troppo nella vita\r\nMi basta un Peroncino co' una pizza margherita\r\n\r\n[Ritornello]\r\nUn vecchio sull'8, lo faccio sede' (Uoh)\r\nE ogni pischello mi chiama \"frate'\" (Frate')\r\nTrastevere è bella anche senza di me (Ahó)\r\nMa meno senza di te\r\nIl grattacheccaro da giugno a settembre\r\nL'acqua di Roma è tutta buona da bere\r\nStavo al Calisto quasi tutte le sere\r\nCoi matti di quartiere mi ci faccio un bicchiere\r\nMezza Roma fa: \"Ahó, ahó, ahó\"\r\nMezza Roma fa: \"Ahó, ahó, ahó\"\r\n\r\n\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              ' \r\n\r\n[Strofa 2]\r\nSu Volagratis offerte Roma-Cuba\r\nE sono un ladro perché tu andavi a ruba\r\nE t\'ho rubato da quella storia brutta\r\nFinita mesi fa, e abbiamo fatto "suca" (Suca)\r\nMa resto a Roma, Roma, Roma, Roma bella (Bella)\r\nIl tuo sorriso sa di Roma-Romanella (\'Nella)\r\nI gabbiani beccano nella monnezza\r\nIl lavavetri che mi fa la prepotenza (Ehi)\r\nLe guardie al bar, i vucumprà, il forno al Ghetto (Ghetto)\r\nTutti i club, i Cynar, il baretto (\'Retto)\r\nI "ti voglio bene" che non ti ho mai detto\r\nCucina tu, io sparecchio, okay\r\nE versa qua, e non mi va, io resto a letto (Letto)\r\nSei appena andata via e già mi manchi parecchio\r\nE mentre la tua ciospa se la fuma il vento\r\nLe antenne ballano un lento sul tetto\r\n\r\n[Bridge]\r\n(Ahó, ahó, ahó) E ogni pischello mi chiama "frate\'"\r\n(Ahó, ahó, ahó) Trastevere è bella anche senza di me\r\nMa meno senza di te\r\n(Ahó, ahó, ahó) Il grattacheccaro da giugno a settembre\r\nL\'acqua di Roma è tutta buona da bere\r\n(Ahó, ahó, ahó, ahó) Stavo al Calisto quasi tutte le sere\r\nCoi matti di quartiere mi ci faccio un bicchiere\r\n\r\n[Ritornello]\r\nUn vecchio sull\'8, lo faccio sede\' (Uoh)\r\nE ogni pischello mi chiama "frate\'" (Frate\')\r\nTrastevere è bella anche senza di me (Ahó)\r\nMa meno senza di te\r\nIl grattacheccaro da giugno a settembre\r\nL\'acqua di Roma è tutta buona da bere\r\nStavo al Calisto quasi tutte le sere\r\nCoi matti di quartiere mi ci faccio un bicchiere\r\nMezza Roma fa: "Ahó, ahó, ahó"\r\n"Ahó, ahó, ahó"\r\n"Ahó, ahó, ahó"\r\n"Ahó, ahó, ahó"\r\n\r\n[Outro]\r\nAhó, ahó, ahó\r\nAhó, ahó, ahó\r\n\r\n\r\n\r\n            '
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Shangai.vue?vue&type=template&id=03bbeb8a&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Shangai.vue?vue&type=template&id=03bbeb8a& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Shangai ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c("p", {
+          staticClass:
+            "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+        })
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=template&id=255ff9ff&":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=template&id=255ff9ff& ***!
+  \*************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("div", [
+    _c("div", { staticClass: "flex items-start" }, [
+      _vm._m(0),
+      _vm._v(" "),
+      _c(
+        "a",
+        { staticClass: "mt-1", attrs: { title: "Torna all'album" } },
+        [
+          _c("router-link", { attrs: { to: "/coraggio" } }, [
+            _c(
+              "svg",
+              {
+                attrs: {
+                  xmlns: "http://www.w3.org/2000/svg",
+                  viewBox: "0 0 24 24",
+                  width: "24",
+                  height: "24"
+                }
+              },
+              [
+                _c("path", {
+                  staticClass: "heroicon-ui",
+                  attrs: {
+                    d:
+                      "M5.41 11H21a1 1 0 0 1 0 2H5.41l5.3 5.3a1 1 0 0 1-1.42 1.4l-7-7a1 1 0 0 1 0-1.4l7-7a1 1 0 0 1 1.42 1.4L5.4 11z"
+                  }
+                })
+              ]
+            )
+          ])
+        ],
+        1
+      )
+    ]),
+    _vm._v(" "),
+    _vm._m(1)
+  ])
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "h1",
+      { staticClass: "font-normal text-3xl leading-none mb-6 mr-16" },
+      [
+        _vm._v(" Testo | \r\n            "),
+        _c("span", { staticClass: "uppercase text-2xl font-semibold" }, [
+          _vm._v("Spigoli ")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "flex flex-col sm:flex-row mb-12" }, [
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n\r\n[Intro: Carl Brave]\r\nYou need\r\nYou need\r\nYou need\r\nEh-eh-eh\r\nEh-eh-eh\r\n\r\n[Strofa 1: Carl Brave]\r\nRicordi? Eri leggera\r\nUna libellula sotto la cera (Eh)\r\nTi ho persa ed era palese\r\nEri gocce di pioggia dentro una bufera\r\nSiamo la scia di una stella cometa\r\nCome una droga, ma solo la scesa\r\nUna forchetta che infilza la presa\r\nTi tengo la mano, tu molli la presa\r\nSogno che muori e t'allungo la vita\r\nPiù ti vorrei fuori, più resti decisa\r\nA tornare di nuovo, ma sei fuori moda\r\nNon pijo la *sniff* che ci vai a rota\r\nBorderline, allungo il gin col lime\r\nCo' uno sputo di Sprite\r\nChi nasce tondo può avere gli spigoli\r\nTi ho abbracciata e so' pieno di lividi\r\n\r\n[Pre-Ritornello 1: Carl Brave & Mara Sattei]\r\nE siamo soli a parte il cane\r\nA parte il quadro, quello orrendo, di tua madre\r\nLa camicia sa di fumo, di catrame\r\nSiamo attaccati, ma mi manchi come il pane\r\n\r\n[Ritornello: Mara Sattei & tha Supreme]\r\nNon sopporto te, ehi\r\nQuando metto a posto me\r\nSpigoli, mi incastro ancora, nella testa ancora\r\nPensa un po' al perché\r\nNon sopporto te, ehi\r\nQuando metto a posto me\r\nSpigoli, mi incastro ancora, nella testa ancora\r\nPensa un po' al perché\r\n\r\n\r\n            "
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "w-full sm:w-1/3 mr-24" }, [
+        _c(
+          "p",
+          {
+            staticClass:
+              "text-sm sm:text-base text-gray-800 text-justify leading-relaxed whitespace-pre-line"
+          },
+          [
+            _vm._v(
+              " \r\n\r\n[Strofa 2: Mara Sattei]\r\nGuardo il giorno controluce\r\nIn specchi appesi, facce stufe\r\nVetri scuri, stelle chiare\r\nLuci accese, magnitudine\r\nDi sette giorni ne ho già persi quattro\r\nPer accontentarmi di ogni mia abitudine\r\nPoi penso al mondo e a come ritagliarlo\r\nE non lasciare i bordi sulle cose stupide\r\nLa testa mia in galleria passa\r\nEd è sempre pura follia\r\nC'ho nodi in gola di mio e basta\r\nMa sempre alta sartoria (-ria)\r\nGli stessi spigoli in cui io sbatto (Ehi)\r\nDentro la mente ho fare distratto (Uh)\r\nSotto la giacca il mio cuore infranto (Yah)\r\nVicino all'anima mia\r\n\r\n[Strofa 3: tha Supreme]\r\nGli stessi spigoli in cui io sbatto\r\nMentre la mente ha un fare distratto\r\nSotto la giacca il mio cuore infranto\r\nVicino all'anima mia\r\nSe sto con hoe, senza mi accorgo\r\nDi star bene senza tutta 'sta merda intorno\r\nBrotha, chiama ganja se l'acqua sfora sopra il bordo\r\nSe rispondo, oh-oh-oh-oh, non mi espongo, oh-oh-oh-oh\r\nStrilliamo, oh, ehi, un clacson\r\nNelle mie orecchie come si sente il torto, oh, eh\r\nWow-wow-wow, uh-uh, ultimamente stavo giù\r\nPer sapere cosa fare parlo solamente alla mia moon\r\n\r\n[Pre-Ritornello 2: tha Supreme]\r\nNon sopporto te\r\nQuando metto a posto me\r\nSpigoli, mi incastro ancora, nella testa ancora\r\nPensa un po' al perché\r\n\r\n[Ritornello: Mara Sattei & tha Supreme]\r\nNon sopporto te, ehi\r\nQuando metto a posto me\r\nSpigoli, mi incastro ancora, nella testa ancora\r\nPensa un po' al perché\r\nNon sopporto te, ehi\r\nQuando metto a posto me\r\nSpigoli, mi incastro ancora, nella testa ancora\r\nPensa un po' al perché\r\n\r\n[Bridge 2: Carl Brave]\r\nSpigoli, sì, spigoli mi (Sto correndo, sto correndo)\r\nCambiano i connotati (Spigoli dividono)\r\nSpigoli, sì, spigoli mi (Sto correndo, sto correndo)\r\nCambiano i connotati (Spigoli mi levano te)\r\n\r\n[Ritornello: Mara Sattei & tha Supreme]\r\nNon sopporto te, ehi\r\nQuando metto a posto me\r\nSpigoli, mi incastro ancora, nella testa ancora\r\nPensa un po' al perché\r\nNon sopporto te, ehi\r\nQuando metto a posto me\r\nSpigoli, mi incastro ancora, nella testa ancora\r\nPensa un po' al perché\r\n\r\n\r\n            "
+            )
+          ]
+        )
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -53383,17 +56565,17 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/components/albums/NewAlbum.vue":
+/***/ "./resources/js/components/albums/Coraggio.vue":
 /*!*****************************************************!*\
-  !*** ./resources/js/components/albums/NewAlbum.vue ***!
+  !*** ./resources/js/components/albums/Coraggio.vue ***!
   \*****************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _NewAlbum_vue_vue_type_template_id_331133c2___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./NewAlbum.vue?vue&type=template&id=331133c2& */ "./resources/js/components/albums/NewAlbum.vue?vue&type=template&id=331133c2&");
-/* harmony import */ var _NewAlbum_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./NewAlbum.vue?vue&type=script&lang=js& */ "./resources/js/components/albums/NewAlbum.vue?vue&type=script&lang=js&");
+/* harmony import */ var _Coraggio_vue_vue_type_template_id_129e4091___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Coraggio.vue?vue&type=template&id=129e4091& */ "./resources/js/components/albums/Coraggio.vue?vue&type=template&id=129e4091&");
+/* harmony import */ var _Coraggio_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Coraggio.vue?vue&type=script&lang=js& */ "./resources/js/components/albums/Coraggio.vue?vue&type=script&lang=js&");
 /* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -53403,9 +56585,9 @@ __webpack_require__.r(__webpack_exports__);
 /* normalize component */
 
 var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _NewAlbum_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _NewAlbum_vue_vue_type_template_id_331133c2___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _NewAlbum_vue_vue_type_template_id_331133c2___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  _Coraggio_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Coraggio_vue_vue_type_template_id_129e4091___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Coraggio_vue_vue_type_template_id_129e4091___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
   null,
   null,
@@ -53415,38 +56597,38 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 
 /* hot reload */
 if (false) { var api; }
-component.options.__file = "resources/js/components/albums/NewAlbum.vue"
+component.options.__file = "resources/js/components/albums/Coraggio.vue"
 /* harmony default export */ __webpack_exports__["default"] = (component.exports);
 
 /***/ }),
 
-/***/ "./resources/js/components/albums/NewAlbum.vue?vue&type=script&lang=js&":
+/***/ "./resources/js/components/albums/Coraggio.vue?vue&type=script&lang=js&":
 /*!******************************************************************************!*\
-  !*** ./resources/js/components/albums/NewAlbum.vue?vue&type=script&lang=js& ***!
+  !*** ./resources/js/components/albums/Coraggio.vue?vue&type=script&lang=js& ***!
   \******************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NewAlbum_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./NewAlbum.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/albums/NewAlbum.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_NewAlbum_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Coraggio_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/babel-loader/lib??ref--4-0!../../../../node_modules/vue-loader/lib??vue-loader-options!./Coraggio.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/albums/Coraggio.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Coraggio_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
-/***/ "./resources/js/components/albums/NewAlbum.vue?vue&type=template&id=331133c2&":
+/***/ "./resources/js/components/albums/Coraggio.vue?vue&type=template&id=129e4091&":
 /*!************************************************************************************!*\
-  !*** ./resources/js/components/albums/NewAlbum.vue?vue&type=template&id=331133c2& ***!
+  !*** ./resources/js/components/albums/Coraggio.vue?vue&type=template&id=129e4091& ***!
   \************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_NewAlbum_vue_vue_type_template_id_331133c2___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./NewAlbum.vue?vue&type=template&id=331133c2& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/albums/NewAlbum.vue?vue&type=template&id=331133c2&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_NewAlbum_vue_vue_type_template_id_331133c2___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Coraggio_vue_vue_type_template_id_129e4091___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/vue-loader/lib??vue-loader-options!./Coraggio.vue?vue&type=template&id=129e4091& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/albums/Coraggio.vue?vue&type=template&id=129e4091&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Coraggio_vue_vue_type_template_id_129e4091___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_NewAlbum_vue_vue_type_template_id_331133c2___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Coraggio_vue_vue_type_template_id_129e4091___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -53723,6 +56905,1179 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Canzone_vue_vue_type_template_id_e9d2c2e0___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Canzone_vue_vue_type_template_id_e9d2c2e0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Buuu.vue":
+/*!*********************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Buuu.vue ***!
+  \*********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Buuu_vue_vue_type_template_id_06b6f996___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Buuu.vue?vue&type=template&id=06b6f996& */ "./resources/js/components/songs/coraggio/Buuu.vue?vue&type=template&id=06b6f996&");
+/* harmony import */ var _Buuu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Buuu.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Buuu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Buuu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Buuu_vue_vue_type_template_id_06b6f996___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Buuu_vue_vue_type_template_id_06b6f996___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Buuu.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Buuu.vue?vue&type=script&lang=js&":
+/*!**********************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Buuu.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Buuu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Buuu.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Buuu.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Buuu_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Buuu.vue?vue&type=template&id=06b6f996&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Buuu.vue?vue&type=template&id=06b6f996& ***!
+  \****************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Buuu_vue_vue_type_template_id_06b6f996___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Buuu.vue?vue&type=template&id=06b6f996& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Buuu.vue?vue&type=template&id=06b6f996&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Buuu_vue_vue_type_template_id_06b6f996___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Buuu_vue_vue_type_template_id_06b6f996___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ChePoi.vue":
+/*!***********************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ChePoi.vue ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ChePoi_vue_vue_type_template_id_1d1ad08c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ChePoi.vue?vue&type=template&id=1d1ad08c& */ "./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=template&id=1d1ad08c&");
+/* harmony import */ var _ChePoi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ChePoi.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _ChePoi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _ChePoi_vue_vue_type_template_id_1d1ad08c___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _ChePoi_vue_vue_type_template_id_1d1ad08c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/ChePoi.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=script&lang=js&":
+/*!************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ChePoi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./ChePoi.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ChePoi_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=template&id=1d1ad08c&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=template&id=1d1ad08c& ***!
+  \******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ChePoi_vue_vue_type_template_id_1d1ad08c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./ChePoi.vue?vue&type=template&id=1d1ad08c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ChePoi.vue?vue&type=template&id=1d1ad08c&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ChePoi_vue_vue_type_template_id_1d1ad08c___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ChePoi_vue_vue_type_template_id_1d1ad08c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Eccaalla.vue":
+/*!*************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Eccaalla.vue ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Eccaalla_vue_vue_type_template_id_9d181444___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Eccaalla.vue?vue&type=template&id=9d181444& */ "./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=template&id=9d181444&");
+/* harmony import */ var _Eccaalla_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Eccaalla.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Eccaalla_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Eccaalla_vue_vue_type_template_id_9d181444___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Eccaalla_vue_vue_type_template_id_9d181444___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Eccaalla.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Eccaalla_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Eccaalla.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Eccaalla_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=template&id=9d181444&":
+/*!********************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=template&id=9d181444& ***!
+  \********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Eccaalla_vue_vue_type_template_id_9d181444___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Eccaalla.vue?vue&type=template&id=9d181444& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Eccaalla.vue?vue&type=template&id=9d181444&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Eccaalla_vue_vue_type_template_id_9d181444___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Eccaalla_vue_vue_type_template_id_9d181444___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fakedm.vue":
+/*!***********************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fakedm.vue ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Fakedm_vue_vue_type_template_id_c095d8c0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Fakedm.vue?vue&type=template&id=c095d8c0& */ "./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=template&id=c095d8c0&");
+/* harmony import */ var _Fakedm_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Fakedm.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Fakedm_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Fakedm_vue_vue_type_template_id_c095d8c0___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Fakedm_vue_vue_type_template_id_c095d8c0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Fakedm.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=script&lang=js&":
+/*!************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Fakedm_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Fakedm.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Fakedm_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=template&id=c095d8c0&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=template&id=c095d8c0& ***!
+  \******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fakedm_vue_vue_type_template_id_c095d8c0___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Fakedm.vue?vue&type=template&id=c095d8c0& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fakedm.vue?vue&type=template&id=c095d8c0&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fakedm_vue_vue_type_template_id_c095d8c0___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fakedm_vue_vue_type_template_id_c095d8c0___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fototessera.vue":
+/*!****************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fototessera.vue ***!
+  \****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Fototessera_vue_vue_type_template_id_af8c54e6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Fototessera.vue?vue&type=template&id=af8c54e6& */ "./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=template&id=af8c54e6&");
+/* harmony import */ var _Fototessera_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Fototessera.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Fototessera_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Fototessera_vue_vue_type_template_id_af8c54e6___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Fototessera_vue_vue_type_template_id_af8c54e6___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Fototessera.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Fototessera_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Fototessera.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Fototessera_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=template&id=af8c54e6&":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=template&id=af8c54e6& ***!
+  \***********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fototessera_vue_vue_type_template_id_af8c54e6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Fototessera.vue?vue&type=template&id=af8c54e6& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fototessera.vue?vue&type=template&id=af8c54e6&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fototessera_vue_vue_type_template_id_af8c54e6___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fototessera_vue_vue_type_template_id_af8c54e6___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fratellì.vue":
+/*!*************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fratellì.vue ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Fratell_vue_vue_type_template_id_3238e5e8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Fratellì.vue?vue&type=template&id=3238e5e8& */ "./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=template&id=3238e5e8&");
+/* harmony import */ var _Fratell_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Fratellì.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Fratell_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Fratell_vue_vue_type_template_id_3238e5e8___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Fratell_vue_vue_type_template_id_3238e5e8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Fratellì.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Fratell_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Fratellì.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Fratell_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=template&id=3238e5e8&":
+/*!********************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=template&id=3238e5e8& ***!
+  \********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fratell_vue_vue_type_template_id_3238e5e8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Fratellì.vue?vue&type=template&id=3238e5e8& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Fratellì.vue?vue&type=template&id=3238e5e8&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fratell_vue_vue_type_template_id_3238e5e8___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Fratell_vue_vue_type_template_id_3238e5e8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Gemelli.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Gemelli.vue ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Gemelli_vue_vue_type_template_id_e3c725be___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Gemelli.vue?vue&type=template&id=e3c725be& */ "./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=template&id=e3c725be&");
+/* harmony import */ var _Gemelli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Gemelli.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Gemelli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Gemelli_vue_vue_type_template_id_e3c725be___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Gemelli_vue_vue_type_template_id_e3c725be___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Gemelli.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Gemelli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Gemelli.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Gemelli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=template&id=e3c725be&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=template&id=e3c725be& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Gemelli_vue_vue_type_template_id_e3c725be___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Gemelli.vue?vue&type=template&id=e3c725be& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Gemelli.vue?vue&type=template&id=e3c725be&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Gemelli_vue_vue_type_template_id_e3c725be___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Gemelli_vue_vue_type_template_id_e3c725be___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Glicine.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Glicine.vue ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Glicine_vue_vue_type_template_id_7fc910af___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Glicine.vue?vue&type=template&id=7fc910af& */ "./resources/js/components/songs/coraggio/Glicine.vue?vue&type=template&id=7fc910af&");
+/* harmony import */ var _Glicine_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Glicine.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Glicine.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Glicine_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Glicine_vue_vue_type_template_id_7fc910af___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Glicine_vue_vue_type_template_id_7fc910af___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Glicine.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Glicine.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Glicine.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Glicine_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Glicine.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Glicine.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Glicine_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Glicine.vue?vue&type=template&id=7fc910af&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Glicine.vue?vue&type=template&id=7fc910af& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Glicine_vue_vue_type_template_id_7fc910af___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Glicine.vue?vue&type=template&id=7fc910af& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Glicine.vue?vue&type=template&id=7fc910af&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Glicine_vue_vue_type_template_id_7fc910af___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Glicine_vue_vue_type_template_id_7fc910af___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/JeMappelle.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/JeMappelle.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _JeMappelle_vue_vue_type_template_id_3a3d5ad1___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./JeMappelle.vue?vue&type=template&id=3a3d5ad1& */ "./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=template&id=3a3d5ad1&");
+/* harmony import */ var _JeMappelle_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./JeMappelle.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _JeMappelle_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _JeMappelle_vue_vue_type_template_id_3a3d5ad1___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _JeMappelle_vue_vue_type_template_id_3a3d5ad1___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/JeMappelle.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_JeMappelle_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./JeMappelle.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_JeMappelle_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=template&id=3a3d5ad1&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=template&id=3a3d5ad1& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_JeMappelle_vue_vue_type_template_id_3a3d5ad1___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./JeMappelle.vue?vue&type=template&id=3a3d5ad1& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/JeMappelle.vue?vue&type=template&id=3a3d5ad1&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_JeMappelle_vue_vue_type_template_id_3a3d5ad1___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_JeMappelle_vue_vue_type_template_id_3a3d5ad1___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/LeGuardie.vue":
+/*!**************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/LeGuardie.vue ***!
+  \**************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _LeGuardie_vue_vue_type_template_id_91425094___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./LeGuardie.vue?vue&type=template&id=91425094& */ "./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=template&id=91425094&");
+/* harmony import */ var _LeGuardie_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./LeGuardie.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _LeGuardie_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _LeGuardie_vue_vue_type_template_id_91425094___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _LeGuardie_vue_vue_type_template_id_91425094___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/LeGuardie.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_LeGuardie_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./LeGuardie.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_LeGuardie_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=template&id=91425094&":
+/*!*********************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=template&id=91425094& ***!
+  \*********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LeGuardie_vue_vue_type_template_id_91425094___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./LeGuardie.vue?vue&type=template&id=91425094& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/LeGuardie.vue?vue&type=template&id=91425094&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LeGuardie_vue_vue_type_template_id_91425094___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_LeGuardie_vue_vue_type_template_id_91425094___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Mandovai.vue":
+/*!*************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Mandovai.vue ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Mandovai_vue_vue_type_template_id_a3b1d2ca___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Mandovai.vue?vue&type=template&id=a3b1d2ca& */ "./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=template&id=a3b1d2ca&");
+/* harmony import */ var _Mandovai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Mandovai.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Mandovai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Mandovai_vue_vue_type_template_id_a3b1d2ca___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Mandovai_vue_vue_type_template_id_a3b1d2ca___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Mandovai.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Mandovai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Mandovai.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Mandovai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=template&id=a3b1d2ca&":
+/*!********************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=template&id=a3b1d2ca& ***!
+  \********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Mandovai_vue_vue_type_template_id_a3b1d2ca___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Mandovai.vue?vue&type=template&id=a3b1d2ca& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Mandovai.vue?vue&type=template&id=a3b1d2ca&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Mandovai_vue_vue_type_template_id_a3b1d2ca___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Mandovai_vue_vue_type_template_id_a3b1d2ca___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Marisol.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Marisol.vue ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Marisol_vue_vue_type_template_id_36c226d3___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Marisol.vue?vue&type=template&id=36c226d3& */ "./resources/js/components/songs/coraggio/Marisol.vue?vue&type=template&id=36c226d3&");
+/* harmony import */ var _Marisol_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Marisol.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Marisol.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Marisol_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Marisol_vue_vue_type_template_id_36c226d3___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Marisol_vue_vue_type_template_id_36c226d3___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Marisol.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Marisol.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Marisol.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Marisol_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Marisol.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Marisol.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Marisol_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Marisol.vue?vue&type=template&id=36c226d3&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Marisol.vue?vue&type=template&id=36c226d3& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Marisol_vue_vue_type_template_id_36c226d3___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Marisol.vue?vue&type=template&id=36c226d3& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Marisol.vue?vue&type=template&id=36c226d3&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Marisol_vue_vue_type_template_id_36c226d3___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Marisol_vue_vue_type_template_id_36c226d3___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Nuvole.vue":
+/*!***********************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Nuvole.vue ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Nuvole_vue_vue_type_template_id_6c3a8fbb___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Nuvole.vue?vue&type=template&id=6c3a8fbb& */ "./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=template&id=6c3a8fbb&");
+/* harmony import */ var _Nuvole_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Nuvole.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Nuvole_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Nuvole_vue_vue_type_template_id_6c3a8fbb___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Nuvole_vue_vue_type_template_id_6c3a8fbb___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Nuvole.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=script&lang=js&":
+/*!************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Nuvole_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Nuvole.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Nuvole_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=template&id=6c3a8fbb&":
+/*!******************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=template&id=6c3a8fbb& ***!
+  \******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Nuvole_vue_vue_type_template_id_6c3a8fbb___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Nuvole.vue?vue&type=template&id=6c3a8fbb& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Nuvole.vue?vue&type=template&id=6c3a8fbb&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Nuvole_vue_vue_type_template_id_6c3a8fbb___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Nuvole_vue_vue_type_template_id_6c3a8fbb___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ParliParli.vue":
+/*!***************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ParliParli.vue ***!
+  \***************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ParliParli_vue_vue_type_template_id_9524b4bc___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ParliParli.vue?vue&type=template&id=9524b4bc& */ "./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=template&id=9524b4bc&");
+/* harmony import */ var _ParliParli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ParliParli.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _ParliParli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _ParliParli_vue_vue_type_template_id_9524b4bc___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _ParliParli_vue_vue_type_template_id_9524b4bc___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/ParliParli.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ParliParli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./ParliParli.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ParliParli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=template&id=9524b4bc&":
+/*!**********************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=template&id=9524b4bc& ***!
+  \**********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ParliParli_vue_vue_type_template_id_9524b4bc___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./ParliParli.vue?vue&type=template&id=9524b4bc& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ParliParli.vue?vue&type=template&id=9524b4bc&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ParliParli_vue_vue_type_template_id_9524b4bc___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ParliParli_vue_vue_type_template_id_9524b4bc___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ReginaCoeli.vue":
+/*!****************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ReginaCoeli.vue ***!
+  \****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ReginaCoeli_vue_vue_type_template_id_07402988___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ReginaCoeli.vue?vue&type=template&id=07402988& */ "./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=template&id=07402988&");
+/* harmony import */ var _ReginaCoeli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ReginaCoeli.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _ReginaCoeli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _ReginaCoeli_vue_vue_type_template_id_07402988___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _ReginaCoeli_vue_vue_type_template_id_07402988___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/ReginaCoeli.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ReginaCoeli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./ReginaCoeli.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ReginaCoeli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=template&id=07402988&":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=template&id=07402988& ***!
+  \***********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ReginaCoeli_vue_vue_type_template_id_07402988___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./ReginaCoeli.vue?vue&type=template&id=07402988& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/ReginaCoeli.vue?vue&type=template&id=07402988&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ReginaCoeli_vue_vue_type_template_id_07402988___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ReginaCoeli_vue_vue_type_template_id_07402988___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Shangai.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Shangai.vue ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Shangai_vue_vue_type_template_id_03bbeb8a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Shangai.vue?vue&type=template&id=03bbeb8a& */ "./resources/js/components/songs/coraggio/Shangai.vue?vue&type=template&id=03bbeb8a&");
+/* harmony import */ var _Shangai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Shangai.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Shangai.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Shangai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Shangai_vue_vue_type_template_id_03bbeb8a___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Shangai_vue_vue_type_template_id_03bbeb8a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Shangai.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Shangai.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Shangai.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Shangai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Shangai.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Shangai.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Shangai_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Shangai.vue?vue&type=template&id=03bbeb8a&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Shangai.vue?vue&type=template&id=03bbeb8a& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Shangai_vue_vue_type_template_id_03bbeb8a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Shangai.vue?vue&type=template&id=03bbeb8a& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Shangai.vue?vue&type=template&id=03bbeb8a&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Shangai_vue_vue_type_template_id_03bbeb8a___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Shangai_vue_vue_type_template_id_03bbeb8a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Spigoli.vue":
+/*!************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Spigoli.vue ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Spigoli_vue_vue_type_template_id_255ff9ff___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Spigoli.vue?vue&type=template&id=255ff9ff& */ "./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=template&id=255ff9ff&");
+/* harmony import */ var _Spigoli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Spigoli.vue?vue&type=script&lang=js& */ "./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _Spigoli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Spigoli_vue_vue_type_template_id_255ff9ff___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Spigoli_vue_vue_type_template_id_255ff9ff___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/songs/coraggio/Spigoli.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Spigoli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib??ref--4-0!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Spigoli.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Spigoli_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=template&id=255ff9ff&":
+/*!*******************************************************************************************!*\
+  !*** ./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=template&id=255ff9ff& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Spigoli_vue_vue_type_template_id_255ff9ff___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib??vue-loader-options!./Spigoli.vue?vue&type=template&id=255ff9ff& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/songs/coraggio/Spigoli.vue?vue&type=template&id=255ff9ff&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Spigoli_vue_vue_type_template_id_255ff9ff___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Spigoli_vue_vue_type_template_id_255ff9ff___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -56267,9 +60622,26 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_songs_nottibraveafter_MezzoCocktail__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./components/songs/nottibraveafter/MezzoCocktail */ "./resources/js/components/songs/nottibraveafter/MezzoCocktail.vue");
 /* harmony import */ var _components_songs_nottibraveafter_RidereDiNoi__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./components/songs/nottibraveafter/RidereDiNoi */ "./resources/js/components/songs/nottibraveafter/RidereDiNoi.vue");
 /* harmony import */ var _components_songs_nottibraveafter_Termini__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./components/songs/nottibraveafter/Termini */ "./resources/js/components/songs/nottibraveafter/Termini.vue");
-/* harmony import */ var _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./components/albums/NewAlbum */ "./resources/js/components/albums/NewAlbum.vue");
-/* harmony import */ var _components_LePolaroid__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./components/LePolaroid */ "./resources/js/components/LePolaroid.vue");
-/* harmony import */ var _components_DropdownMenu__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./components/DropdownMenu */ "./resources/js/components/DropdownMenu.vue");
+/* harmony import */ var _components_albums_Coraggio__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./components/albums/Coraggio */ "./resources/js/components/albums/Coraggio.vue");
+/* harmony import */ var _components_songs_coraggio_Shangai__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./components/songs/coraggio/Shangai */ "./resources/js/components/songs/coraggio/Shangai.vue");
+/* harmony import */ var _components_songs_coraggio_ParliParli__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./components/songs/coraggio/ParliParli */ "./resources/js/components/songs/coraggio/ParliParli.vue");
+/* harmony import */ var _components_songs_coraggio_Eccaalla__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./components/songs/coraggio/Eccaalla */ "./resources/js/components/songs/coraggio/Eccaalla.vue");
+/* harmony import */ var _components_songs_coraggio_Nuvole__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./components/songs/coraggio/Nuvole */ "./resources/js/components/songs/coraggio/Nuvole.vue");
+/* harmony import */ var _components_songs_coraggio_Spigoli__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./components/songs/coraggio/Spigoli */ "./resources/js/components/songs/coraggio/Spigoli.vue");
+/* harmony import */ var _components_songs_coraggio_Gemelli__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./components/songs/coraggio/Gemelli */ "./resources/js/components/songs/coraggio/Gemelli.vue");
+/* harmony import */ var _components_songs_coraggio_Glicine__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./components/songs/coraggio/Glicine */ "./resources/js/components/songs/coraggio/Glicine.vue");
+/* harmony import */ var _components_songs_coraggio_Mandovai__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./components/songs/coraggio/Mandovai */ "./resources/js/components/songs/coraggio/Mandovai.vue");
+/* harmony import */ var _components_songs_coraggio_Fakedm__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./components/songs/coraggio/Fakedm */ "./resources/js/components/songs/coraggio/Fakedm.vue");
+/* harmony import */ var _components_songs_coraggio_Buuu__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./components/songs/coraggio/Buuu */ "./resources/js/components/songs/coraggio/Buuu.vue");
+/* harmony import */ var _components_songs_coraggio_Fratell___WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./components/songs/coraggio/Fratellì */ "./resources/js/components/songs/coraggio/Fratellì.vue");
+/* harmony import */ var _components_songs_coraggio_LeGuardie__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./components/songs/coraggio/LeGuardie */ "./resources/js/components/songs/coraggio/LeGuardie.vue");
+/* harmony import */ var _components_songs_coraggio_JeMappelle__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./components/songs/coraggio/JeMappelle */ "./resources/js/components/songs/coraggio/JeMappelle.vue");
+/* harmony import */ var _components_songs_coraggio_ReginaCoeli__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./components/songs/coraggio/ReginaCoeli */ "./resources/js/components/songs/coraggio/ReginaCoeli.vue");
+/* harmony import */ var _components_songs_coraggio_Fototessera__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! ./components/songs/coraggio/Fototessera */ "./resources/js/components/songs/coraggio/Fototessera.vue");
+/* harmony import */ var _components_songs_coraggio_ChePoi__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./components/songs/coraggio/ChePoi */ "./resources/js/components/songs/coraggio/ChePoi.vue");
+/* harmony import */ var _components_songs_coraggio_Marisol__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./components/songs/coraggio/Marisol */ "./resources/js/components/songs/coraggio/Marisol.vue");
+/* harmony import */ var _components_LePolaroid__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! ./components/LePolaroid */ "./resources/js/components/LePolaroid.vue");
+/* harmony import */ var _components_DropdownMenu__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! ./components/DropdownMenu */ "./resources/js/components/DropdownMenu.vue");
 
  //MAIN
 
@@ -56278,6 +60650,23 @@ __webpack_require__.r(__webpack_exports__);
 
 
  //ALBUMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56467,12 +60856,64 @@ __webpack_require__.r(__webpack_exports__);
   }, {
     path: '/notti-brave-after/termini',
     component: _components_songs_nottibraveafter_Termini__WEBPACK_IMPORTED_MODULE_45__["default"]
+  }, // album CORAGGIO
+  {
+    path: '/coraggio',
+    component: _components_albums_Coraggio__WEBPACK_IMPORTED_MODULE_46__["default"]
   }, {
-    path: '/nuovo-album',
-    component: _components_albums_NewAlbum__WEBPACK_IMPORTED_MODULE_46__["default"]
+    path: '/coraggio/shangai',
+    component: _components_songs_coraggio_Shangai__WEBPACK_IMPORTED_MODULE_47__["default"]
+  }, {
+    path: '/coraggio/parli-parli',
+    component: _components_songs_coraggio_ParliParli__WEBPACK_IMPORTED_MODULE_48__["default"]
+  }, {
+    path: '/coraggio/eccaalla',
+    component: _components_songs_coraggio_Eccaalla__WEBPACK_IMPORTED_MODULE_49__["default"]
+  }, {
+    path: '/coraggio/nuvole',
+    component: _components_songs_coraggio_Nuvole__WEBPACK_IMPORTED_MODULE_50__["default"]
+  }, {
+    path: '/coraggio/spigoli',
+    component: _components_songs_coraggio_Spigoli__WEBPACK_IMPORTED_MODULE_51__["default"]
+  }, {
+    path: '/coraggio/gemelli',
+    component: _components_songs_coraggio_Gemelli__WEBPACK_IMPORTED_MODULE_52__["default"]
+  }, {
+    path: '/coraggio/glicine',
+    component: _components_songs_coraggio_Glicine__WEBPACK_IMPORTED_MODULE_53__["default"]
+  }, {
+    path: '/coraggio/mandovai',
+    component: _components_songs_coraggio_Mandovai__WEBPACK_IMPORTED_MODULE_54__["default"]
+  }, {
+    path: '/coraggio/fakedm',
+    component: _components_songs_coraggio_Fakedm__WEBPACK_IMPORTED_MODULE_55__["default"]
+  }, {
+    path: '/coraggio/buuu',
+    component: _components_songs_coraggio_Buuu__WEBPACK_IMPORTED_MODULE_56__["default"]
+  }, {
+    path: '/coraggio/fratellì',
+    component: _components_songs_coraggio_Fratell___WEBPACK_IMPORTED_MODULE_57__["default"]
+  }, {
+    path: '/coraggio/le-guardie',
+    component: _components_songs_coraggio_LeGuardie__WEBPACK_IMPORTED_MODULE_58__["default"]
+  }, {
+    path: '/coraggio/je-mappelle',
+    component: _components_songs_coraggio_JeMappelle__WEBPACK_IMPORTED_MODULE_59__["default"]
+  }, {
+    path: '/coraggio/regina-coeli',
+    component: _components_songs_coraggio_ReginaCoeli__WEBPACK_IMPORTED_MODULE_60__["default"]
+  }, {
+    path: '/coraggio/fototessera',
+    component: _components_songs_coraggio_Fototessera__WEBPACK_IMPORTED_MODULE_61__["default"]
+  }, {
+    path: '/coraggio/che-poi',
+    component: _components_songs_coraggio_ChePoi__WEBPACK_IMPORTED_MODULE_62__["default"]
+  }, {
+    path: '/coraggio/marisol',
+    component: _components_songs_coraggio_Marisol__WEBPACK_IMPORTED_MODULE_63__["default"]
   }, {
     path: '/le-polaroid',
-    component: _components_LePolaroid__WEBPACK_IMPORTED_MODULE_47__["default"]
+    component: _components_LePolaroid__WEBPACK_IMPORTED_MODULE_64__["default"]
   } //test 
   // {
   //     path: '/polaroid/:id',

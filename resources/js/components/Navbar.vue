@@ -119,8 +119,8 @@
             <li > <router-link to="/polaroid" class="rounded-t bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Polaroid </router-link> </li>
             <li > <router-link to="/notti-brave" class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave </router-link> </li>
             <li > <router-link to="/notti-brave-after" class="bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> Notti Brave After </router-link> </li>
-            <li > <router-link to="/nuovo-album" class="rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> 
-             Nuovo Album <span class="rounded-full text-white bg-blue-500 uppercase px-2 py-1 text-xs font-normal ml-1">New</span> </router-link> </li>
+            <li > <router-link to="/coraggio" class="rounded-b bg-white hover:bg-gray-200 py-2 px-4 block whitespace-no-wrap text-sm"> 
+             Coraggio <span class="rounded-full text-white bg-blue-500 uppercase px-2 py-1 text-xs font-normal ml-1">New</span> </router-link> </li>
                       
           </ul>
         </div>
